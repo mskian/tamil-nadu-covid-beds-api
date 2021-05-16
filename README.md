@@ -2,7 +2,7 @@
 
 [![update](https://github.com/mskian/tamil-nadu-covid-beds-api/actions/workflows/update.yml/badge.svg)](https://github.com/mskian/tamil-nadu-covid-beds-api/actions/workflows/update.yml)  
 
-Hospital Beds Update Availability in Tamilnadu  
+Hospital Beds Update Availability in Tamilnadu - Find Beds in Tamilnadu Hospitals.  
 
 ## Build Tool
 

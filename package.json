@@ -1,6 +1,6 @@
 {
   "name": "tamil-nadu-covid-beds-api",
-  "description": "Find Beds to Tamilnadu Hospitals.",
+  "description": "Find Beds in Tamilnadu Hospitals.",
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
