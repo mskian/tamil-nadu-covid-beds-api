@@ -20,7 +20,7 @@ https://mskian.github.io/tamil-nadu-covid-beds-api/api.json
 
 ## Credits
 
-Thanks to stopcoronatn Team for CSV Datasheet
+Thanks to stopcoronatn Team for CSV Datasheet and Scrape Data Code
 
 <https://github.com/stopcoronatn/stopcoronatn.github.io>
 
