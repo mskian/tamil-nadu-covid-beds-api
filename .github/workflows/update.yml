@@ -1,0 +1,36 @@
+name: update
+
+on:
+  schedule:
+    # every 1 Hour the job will run
+   - cron: "0 * * * *"
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Manual trigger'
+        required: false
+        default: 'Reason: Manual trigger'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.3.4
+    - uses: actions/setup-node@v2.1.5
+      with:
+         node-version: '14.x'
+    - name: use yarn to Build and Test
+      run: |
+       yarn
+       yarn download
+       yarn start
+       yarn test
+    - name: Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.1.2
+      with:
+        commit_message: Update CSV and JSON API Data
+        commit_author: GitHub Actions <actions@github.com>

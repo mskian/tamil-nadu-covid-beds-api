@@ -1,0 +1,30 @@
+{
+  "name": "tamil-nadu-covid-beds-api",
+  "description": "Find Beds to Tamilnadu Hospitals.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "download": "node download.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "api",
+    "covid"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/tamil-nadu-covid-beds-api"
+  },
+  "bugs": {
+    "url": "https://github.com/mskian/tamil-nadu-covid-beds-api/issues"
+  },
+  "homepage": "https://github.com/mskian/tamil-nadu-covid-beds-api/#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "node-fetch": "^2.6.1"
+  }
+}
