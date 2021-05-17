@@ -970,9 +970,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_15 09:43:06",
+        "Last_updated": "2021_05_17 11:48:38",
         "Contact_Number": "9500054797",
-        "Remarks": "15_5_2021"
+        "Remarks": "17_5_2021"
     },
     {
         "S": {
@@ -2659,20 +2659,20 @@
         "COVID_BEDS_Occupied": "41",
         "COVID_BEDS_Vacant": "59",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "32",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "58",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "33",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "57",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 08:25:00",
+        "Last_updated": "2021_05_17 12:43:02",
         "Contact_Number": "8754680378",
-        "Remarks": "175_2021"
+        "Remarks": "175_21"
     },
     {
         "S": {
@@ -9909,18 +9909,18 @@
         "COVID_BEDS_Occupied": "17",
         "COVID_BEDS_Vacant": "8",
         "OXYGEN_SUPPORTED_BEDS_Total": "9",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "5",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_17 09:13:16",
+        "Last_updated": "2021_05_17 12:43:39",
         "Contact_Number": "9566683380",
         "Remarks": ""
     },
