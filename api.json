@@ -4380,22 +4380,22 @@
         },
         "District": "Salem",
         "Institution": "Annapoorna Medical College and Hospital",
-        "COVID_BEDS_Total": "120",
+        "COVID_BEDS_Total": "124",
         "COVID_BEDS_Occupied": "118",
-        "COVID_BEDS_Vacant": "2",
-        "OXYGEN_SUPPORTED_BEDS_Total": "25",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "COVID_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Total": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "29",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "88",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "84",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
-        "VENTILATOR_Total": "4",
-        "VENTILATOR_Occupied": "4",
+        "VENTILATOR_Total": "3",
+        "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 09:27:24",
+        "Last_updated": "2021_05_17 14:36:05",
         "Contact_Number": "8072437396",
         "Remarks": "B"
     },
@@ -6370,9 +6370,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_17 08:05:49",
+        "Last_updated": "2021_05_17 14:01:07",
         "Contact_Number": "7339565444",
-        "Remarks": "Nil"
+        "Remarks": "Nil_"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 07:03:53",
+        "Last_updated": "2021_05_17 14:31:09",
         "Contact_Number": "8870007450",
-        "Remarks": "175_2021 Morning report"
+        "Remarks": "175_2021 Evening report"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 09:23:34",
+        "Last_updated": "2021_05_17 14:00:03",
         "Contact_Number": "7397591935",
-        "Remarks": "Updated 17_2021@8Am"
+        "Remarks": "Updated 17_2021@2pm"
     },
     {
         "S": {
@@ -8820,9 +8820,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_15 17:43:32",
+        "Last_updated": "2021_05_17 14:32:06",
         "Contact_Number": "9442282220",
-        "Remarks": ""
+        "Remarks": "_"
     },
     {
         "S": {
@@ -11084,18 +11084,18 @@
         "COVID_BEDS_Occupied": "8",
         "COVID_BEDS_Vacant": "7",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "ICU_BEDS_Total": "3",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 00:05:05",
+        "Last_updated": "2021_05_17 13:52:43",
         "Contact_Number": "6381046461",
         "Remarks": "UPDATED"
     },
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 08:59:47",
+        "Last_updated": "2021_05_17 14:34:14",
         "Contact_Number": "9842399300",
-        "Remarks": "nill"
+        "Remarks": "NILL"
     },
     {
         "S": {
