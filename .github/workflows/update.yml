@@ -23,13 +23,6 @@ jobs:
     - uses: actions/setup-node@v2.1.5
       with:
          node-version: '14.x'
-    - name: Install Python dependencies
-      run: |
-        pip install pandas lxml
-        which python
-        python --version
-    - name: Scrape and Commit
-      run: python scrape.py
     - name: use yarn to Build and Test
       run: |
        yarn
