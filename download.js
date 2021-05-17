@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-const url = "https://github.com/stopcoronatn/stopcoronatn.github.io/blob/main/data/beds.csv"
+const url = "https://raw.githubusercontent.com/stopcoronatn/stopcoronatn.github.io/main/data/beds.csv"
 
 async function download() {
     const response = await fetch(url);
