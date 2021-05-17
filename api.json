@@ -720,7 +720,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 10:25:13",
+        "Last_updated": "2021_05_17 10:51:14",
         "Contact_Number": "8825779308",
         "Remarks": "175_2021"
     },
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 08:50:43",
+        "Last_updated": "2021_05_17 11:17:56",
         "Contact_Number": "4430101111",
-        "Remarks": "17/05/2021 8:45 am"
+        "Remarks": "17/05/2021 11_15 am"
     },
     {
         "S": {
@@ -2531,23 +2531,23 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "252",
-        "COVID_BEDS_Occupied": "250",
-        "COVID_BEDS_Vacant": "2",
+        "COVID_BEDS_Occupied": "251",
+        "COVID_BEDS_Vacant": "1",
         "OXYGEN_SUPPORTED_BEDS_Total": "190",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "190",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "57",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "55",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "56",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 09:06:31",
+        "Last_updated": "2021_05_17 11:13:40",
         "Contact_Number": "9384084606",
-        "Remarks": "175_21@9AM"
+        "Remarks": "175_21@11AM"
     },
     {
         "S": {
@@ -3320,9 +3320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 10:05:19",
+        "Last_updated": "2021_05_17 11:06:22",
         "Contact_Number": "7402733320",
-        "Remarks": "nill"
+        "Remarks": "NILL"
     },
     {
         "S": {
@@ -4681,21 +4681,21 @@
         "District": "Thanjavur",
         "Institution": "KG Multi Speciality Hospital",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "73",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "69",
+        "COVID_BEDS_Vacant": "17",
         "OXYGEN_SUPPORTED_BEDS_Total": "56",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "43",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "40",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "30",
-        "ICU_BEDS_Occupied": "30",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "29",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "12",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_05_16 10:01:10",
+        "Last_updated": "2021_05_17 10:58:37",
         "Contact_Number": "7094409938",
         "Remarks": "_"
     },
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_15 11:33:48",
+        "Last_updated": "2021_05_17 11:35:58",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 15/5/2020"
+        "Remarks": "Updated 17/5/2020"
     },
     {
         "S": {
@@ -9745,9 +9745,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_07 13:30:41",
+        "Last_updated": "2021_05_17 10:50:10",
         "Contact_Number": "9941011680",
-        "Remarks": "07_05_2021"
+        "Remarks": "17_05_2021"
     },
     {
         "S": {
@@ -12355,22 +12355,22 @@
         },
         "District": "Chennai",
         "Institution": "Be Well Hospitals, Ambattur",
-        "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "15",
-        "COVID_BEDS_Vacant": "5",
-        "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "COVID_BEDS_Total": "15",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Total": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "ICU_BEDS_Total": "3",
         "ICU_BEDS_Occupied": "3",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_16 18:50:08",
+        "Last_updated": "2021_05_17 11:19:19",
         "Contact_Number": "8939967034",
         "Remarks": ""
     },
