@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "14",
         "VENTILATOR_Occupied": "14",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 08:08:51",
+        "Last_updated": "2021_05_18 15:16:21",
         "Contact_Number": "7824821042",
-        "Remarks": "185_202 no beds available now"
+        "Remarks": "185_202 no beds available"
     },
     {
         "S": {
@@ -895,7 +895,7 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 09:20:58",
+        "Last_updated": "2021_05_18 15:06:18",
         "Contact_Number": "7825809004",
         "Remarks": "17/05/2021"
     },
@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "34",
-        "COVID_BEDS_Vacant": "16",
+        "COVID_BEDS_Occupied": "35",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "25",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "24",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "15",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 08:43:57",
+        "Last_updated": "2021_05_18 14:51:04",
         "Contact_Number": "8072738401",
         "Remarks": "Update"
     },
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_18 06:35:43",
+        "Last_updated": "2021_05_18 15:09:48",
         "Contact_Number": "9150758413",
-        "Remarks": ""
+        "Remarks": "185_2021"
     },
     {
         "S": {
@@ -6170,7 +6170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_18 06:59:44",
+        "Last_updated": "2021_05_18 15:11:30",
         "Contact_Number": "6381781885",
         "Remarks": "18/05/2021"
     },
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_18 13:12:00",
+        "Last_updated": "2021_05_18 15:02:57",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 12 RTPCR NEGATIVE BUT CT POSITIVE 7 suspected 0  REPORT AT 010PM"
+        "Remarks": "RTPCR POSITIVE 12 RTPCR NEGATIVE BUT CT POSITIVE 7 suspected 0  REPORT AT 030PM"
     },
     {
         "S": {
@@ -9045,9 +9045,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_18 10:11:09",
+        "Last_updated": "2021_05_18 14:40:18",
         "Contact_Number": "7299009287",
-        "Remarks": "18_05_2021, 09:00 AM"
+        "Remarks": "18_05_2021, 01:00 PM"
     },
     {
         "S": {
