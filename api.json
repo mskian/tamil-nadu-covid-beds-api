@@ -180,14 +180,14 @@
         },
         "District": "Chengalpattu",
         "Institution": "Deepam Hospitals, West Tambaram",
-        "COVID_BEDS_Total": "42",
-        "COVID_BEDS_Occupied": "42",
+        "COVID_BEDS_Total": "56",
+        "COVID_BEDS_Occupied": "56",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Total": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "36",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "36",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "46",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 09:10:26",
+        "Last_updated": "2021_05_18 11:56:58",
         "Contact_Number": "8300017171",
-        "Remarks": "18/05/2021 9 am"
+        "Remarks": "18/05/2021 12 NOON"
     },
     {
         "S": {
@@ -3945,9 +3945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_18 09:09:06",
+        "Last_updated": "2021_05_18 12:26:34",
         "Contact_Number": "9488834087",
-        "Remarks": "18/05 /21"
+        "Remarks": "18/5 /21"
     },
     {
         "S": {
@@ -3970,9 +3970,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 09:05:13",
+        "Last_updated": "2021_05_18 12:26:58",
         "Contact_Number": "9447276304",
-        "Remarks": "18/5/21"
+        "Remarks": "18/05/21"
     },
     {
         "S": {
@@ -4945,9 +4945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_18 09:10:36",
+        "Last_updated": "2021_05_18 12:31:57",
         "Contact_Number": "9443260714",
-        "Remarks": "185_2021 90Am vacant 15 Beds under renovation_"
+        "Remarks": "185_2021 10PM vacant 15 Beds under renovation_"
     },
     {
         "S": {
@@ -6770,9 +6770,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_14 09:51:21",
+        "Last_updated": "2021_05_18 12:33:45",
         "Contact_Number": "9952200057",
-        "Remarks": ""
+        "Remarks": "18/5/2021"
     },
     {
         "S": {
@@ -8881,11 +8881,11 @@
         "District": "Tiruvallur",
         "Institution": "SKS HOSPITAL",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "14",
-        "COVID_BEDS_Vacant": "1",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "2",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8895,7 +8895,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 07:36:04",
+        "Last_updated": "2021_05_18 12:02:24",
         "Contact_Number": "9841091403",
         "Remarks": "185_2021"
     },
@@ -9495,7 +9495,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_16 14:34:05",
+        "Last_updated": "2021_05_18 12:35:24",
         "Contact_Number": "7373004777",
         "Remarks": "Here with Updating our Hospital bed details"
     },
@@ -11395,9 +11395,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_17 12:55:39",
+        "Last_updated": "2021_05_18 12:35:13",
         "Contact_Number": "7373762266",
-        "Remarks": "1:00 PM"
+        "Remarks": "1 :00 PM"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_16 17:01:43",
+        "Last_updated": "2021_05_18 12:24:23",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
