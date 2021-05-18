@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 08:53:14",
+        "Last_updated": "2021_05_18 13:48:28",
         "Contact_Number": "4430101111",
-        "Remarks": "18_5_21 8:55 am"
+        "Remarks": "18_5_21 1_45 pm"
     },
     {
         "S": {
@@ -3005,24 +3005,24 @@
         },
         "District": "Kancheepuram",
         "Institution": "Chennai Urology & Robotics Institute Hospital Thoraippakkam",
-        "COVID_BEDS_Total": "40",
-        "COVID_BEDS_Occupied": "40",
+        "COVID_BEDS_Total": "56",
+        "COVID_BEDS_Occupied": "56",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "35",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "35",
+        "OXYGEN_SUPPORTED_BEDS_Total": "50",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "50",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Total": "6",
+        "ICU_BEDS_Occupied": "6",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_15 10:08:57",
+        "Last_updated": "2021_05_18 14:15:56",
         "Contact_Number": "9894791989",
-        "Remarks": "15_5_2021"
+        "Remarks": "18_5_2021"
     },
     {
         "S": {
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 09:13:06",
+        "Last_updated": "2021_05_18 13:47:19",
         "Contact_Number": "7824950986",
-        "Remarks": "18_05_2021 POSITIVE:10 suspected:3"
+        "Remarks": "18_05_2021 01_37PM POSITIVE:10 suspected:3"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 07:09:53",
+        "Last_updated": "2021_05_18 14:24:06",
         "Contact_Number": "8870007450",
-        "Remarks": "185_2021 Morning report"
+        "Remarks": "185_2021 Evening report"
     },
     {
         "S": {
@@ -7695,9 +7695,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_18 08:53:05",
+        "Last_updated": "2021_05_18 13:59:41",
         "Contact_Number": "9842911141",
-        "Remarks": "18/5/21 8am"
+        "Remarks": "18/5/21 2 pm"
     },
     {
         "S": {
@@ -9745,9 +9745,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 10:50:10",
+        "Last_updated": "2021_05_18 13:44:52",
         "Contact_Number": "9941011680",
-        "Remarks": "17_05_2021"
+        "Remarks": "18_05_2021"
     },
     {
         "S": {
@@ -10345,9 +10345,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 08:16:48",
+        "Last_updated": "2021_05_18 14:09:52",
         "Contact_Number": "8054484748",
-        "Remarks": "Suspect_26 Positive_6"
+        "Remarks": "Suspect_26 Positive_6 (updated)"
     },
     {
         "S": {
