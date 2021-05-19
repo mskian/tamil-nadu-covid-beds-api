@@ -1170,9 +1170,9 @@
         "VENTILATOR_Total": "32",
         "VENTILATOR_Occupied": "32",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 18:30:27",
+        "Last_updated": "2021_05_19 07:18:10",
         "Contact_Number": "7904683997",
-        "Remarks": "185_2021 4 PM"
+        "Remarks": "195_2021 7 AM"
     },
     {
         "S": {
@@ -3381,21 +3381,21 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "35",
-        "COVID_BEDS_Vacant": "15",
-        "OXYGEN_SUPPORTED_BEDS_Total": "25",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "COVID_BEDS_Occupied": "33",
+        "COVID_BEDS_Vacant": "17",
+        "OXYGEN_SUPPORTED_BEDS_Total": "20",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "20",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "10",
         "ICU_BEDS_Vacant": "0",
-        "VENTILATOR_Total": "3",
-        "VENTILATOR_Occupied": "3",
+        "VENTILATOR_Total": "4",
+        "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 16:54:46",
+        "Last_updated": "2021_05_19 07:10:29",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -6545,9 +6545,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 08:04:52",
+        "Last_updated": "2021_05_19 06:09:11",
         "Contact_Number": "9659462722",
-        "Remarks": "Nil___"
+        "Remarks": "Nil____"
     },
     {
         "S": {
@@ -6606,23 +6606,23 @@
         "District": "Chennai",
         "Institution": "Padmapriya Hospital, Adyar",
         "COVID_BEDS_Total": "5",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "1",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "3",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 08:50:39",
+        "Last_updated": "2021_05_19 07:23:35",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 18_05_2021"
+        "Remarks": "updated 19_05_2021"
     },
     {
         "S": {
@@ -6945,9 +6945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_18 07:48:05",
+        "Last_updated": "2021_05_19 07:30:17",
         "Contact_Number": "9047075271",
-        "Remarks": "185_2021"
+        "Remarks": "195_2021"
     },
     {
         "S": {
@@ -8606,21 +8606,21 @@
         "District": "Madurai",
         "Institution": "Vetri Siddha Hospital, Thaniciyam (Siddha)",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "28",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "21",
+        "COVID_BEDS_Vacant": "39",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "56",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "28",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 07:38:28",
+        "Last_updated": "2021_05_19 07:20:13",
         "Contact_Number": "9500967789",
         "Remarks": "updated 175_2021__"
     },
@@ -13106,11 +13106,11 @@
         "District": "Tirunelveli",
         "Institution": "Gold Child & Chest Hospital,Vannarpettai",
         "COVID_BEDS_Total": "13",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "7",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -13120,9 +13120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 07:45:44",
+        "Last_updated": "2021_05_19 06:57:56",
         "Contact_Number": "9488071754",
-        "Remarks": "7 beds vacant 185_2021"
+        "Remarks": "9 beds vacant 185_2021"
     },
     {
         "S": {
