@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_19 14:40:35",
+        "Last_updated": "2021_05_19 16:42:33",
         "Contact_Number": "4430101111",
-        "Remarks": "2:30 pm 19/5/2021"
+        "Remarks": "4:40 pm 19/5/2021"
     },
     {
         "S": {
@@ -2531,23 +2531,23 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "252",
-        "COVID_BEDS_Occupied": "248",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "247",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "190",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "190",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "57",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "53",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "52",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_19 09:53:38",
+        "Last_updated": "2021_05_19 17:07:48",
         "Contact_Number": "9384084606",
-        "Remarks": "195_21@ 9am"
+        "Remarks": "195_21@ 4Pm"
     },
     {
         "S": {
@@ -5170,9 +5170,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_13 08:48:05",
+        "Last_updated": "2021_05_19 16:52:42",
         "Contact_Number": "7397771405",
-        "Remarks": "20 NON OXYGEN PATIENTS14 XYGEN PATIENTS , VENTILATER 1, NON O2PATIENTS OCCUPIED IN O2 BED& ICU BED__"
+        "Remarks": "20 NON OXYGEN PATIENTS14 XYGEN PATIENTS , VENTILATER 1, NON O2PATIENTS OCCUPIED IN O2 BED& ICU BED_"
     },
     {
         "S": {
@@ -5256,21 +5256,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Maruti Hospital",
         "COVID_BEDS_Total": "83",
-        "COVID_BEDS_Occupied": "82",
-        "COVID_BEDS_Vacant": "1",
+        "COVID_BEDS_Occupied": "83",
+        "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "52",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "52",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "10",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_13 09:05:16",
+        "Last_updated": "2021_05_19 17:20:07",
         "Contact_Number": "9944920163",
         "Remarks": "Update done_"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_19 10:15:33",
+        "Last_updated": "2021_05_19 17:15:46",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 19/05/2021 10:00AM"
+        "Remarks": "UPDATED TILL 19/05/2021 04:00PM"
     },
     {
         "S": {
@@ -7195,7 +7195,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_19 13:14:50",
+        "Last_updated": "2021_05_19 16:48:56",
         "Contact_Number": "9894136398",
         "Remarks": "Update"
     },
@@ -10345,7 +10345,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_19 13:55:45",
+        "Last_updated": "2021_05_19 17:16:00",
         "Contact_Number": "8054484748",
         "Remarks": "Suspect_24 Positive_8"
     },
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_19 13:09:10",
+        "Last_updated": "2021_05_19 17:08:36",
         "Contact_Number": "9842399300",
-        "Remarks": "nill"
+        "Remarks": "NILL"
     },
     {
         "S": {
