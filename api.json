@@ -7681,11 +7681,11 @@
         "District": "Thoothukudi",
         "Institution": "City Hospital, Tuticorin",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "18",
+        "COVID_BEDS_Vacant": "7",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -7695,9 +7695,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_20 02:26:42",
+        "Last_updated": "2021_05_21 03:12:45",
         "Contact_Number": "9842911141",
-        "Remarks": "20/5/21 8 am"
+        "Remarks": "21/5/21 8am"
     },
     {
         "S": {
