@@ -2656,23 +2656,23 @@
         "District": "Dindigul",
         "Institution": "Leonard Hospital",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "36",
-        "COVID_BEDS_Vacant": "64",
+        "COVID_BEDS_Occupied": "35",
+        "COVID_BEDS_Vacant": "65",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "28",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "62",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "27",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "63",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 12:48:20",
+        "Last_updated": "2021_05_20 15:31:59",
         "Contact_Number": "8754680378",
-        "Remarks": "205_2021"
+        "Remarks": "205_21"
     },
     {
         "S": {
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 08:21:38",
+        "Last_updated": "2021_05_20 15:28:43",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -2855,11 +2855,11 @@
         },
         "District": "Kallakurichi",
         "Institution": "I Med Super Speciality Hospital",
-        "COVID_BEDS_Total": "22",
-        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Total": "0",
+        "COVID_BEDS_Occupied": "0",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
+        "OXYGEN_SUPPORTED_BEDS_Total": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
@@ -2867,10 +2867,10 @@
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
-        "VENTILATOR_Total": "1",
+        "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
-        "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_18 09:33:28",
+        "VENTILATOR_Vacant": "0",
+        "Last_updated": "2021_05_20 15:10:05",
         "Contact_Number": "9751344576",
         "Remarks": "18"
     },
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_20 07:24:09",
+        "Last_updated": "2021_05_20 15:03:04",
         "Contact_Number": "9150758413",
-        "Remarks": "205_2021"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6170,7 +6170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_20 06:33:54",
+        "Last_updated": "2021_05_20 15:21:48",
         "Contact_Number": "6381781885",
         "Remarks": "20/05/2021"
     },
@@ -8820,9 +8820,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_19 09:29:47",
+        "Last_updated": "2021_05_20 15:27:50",
         "Contact_Number": "9442282220",
-        "Remarks": "_"
+        "Remarks": ""
     },
     {
         "S": {
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_20 11:07:16",
+        "Last_updated": "2021_05_20 14:52:04",
         "Contact_Number": "9443331977",
         "Remarks": "_"
     },
