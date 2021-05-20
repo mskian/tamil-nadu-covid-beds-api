@@ -2405,22 +2405,22 @@
         },
         "District": "Coimbatore",
         "Institution": "Kovai Medical College Hospital",
-        "COVID_BEDS_Total": "461",
-        "COVID_BEDS_Occupied": "461",
+        "COVID_BEDS_Total": "502",
+        "COVID_BEDS_Occupied": "502",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "192",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "192",
+        "OXYGEN_SUPPORTED_BEDS_Total": "212",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "212",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "241",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "241",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "245",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "245",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "28",
-        "ICU_BEDS_Occupied": "28",
+        "ICU_BEDS_Total": "45",
+        "ICU_BEDS_Occupied": "45",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "28",
         "VENTILATOR_Occupied": "28",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_16 08:52:17",
+        "Last_updated": "2021_05_20 17:44:34",
         "Contact_Number": "9600400451",
         "Remarks": ""
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 13:41:52",
+        "Last_updated": "2021_05_20 18:35:46",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 13:16:43",
+        "Last_updated": "2021_05_20 17:54:53",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 20/05/2021 01:00PM"
+        "Remarks": "UPDATED TILL 20/05/2021 05:00PM"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 08:05:51",
+        "Last_updated": "2021_05_20 18:43:44",
         "Contact_Number": "9843604611",
         "Remarks": "24 Active cases____"
     },
