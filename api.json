@@ -470,9 +470,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_19 10:12:41",
+        "Last_updated": "2021_05_21 11:14:36",
         "Contact_Number": "9551841153",
-        "Remarks": "today report 19/05/2021"
+        "Remarks": "today report 21/05/2021"
     },
     {
         "S": {
@@ -6370,9 +6370,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_20 20:07:03",
+        "Last_updated": "2021_05_21 10:53:02",
         "Contact_Number": "7339565444",
-        "Remarks": "Nil_"
+        "Remarks": "Nil1"
     },
     {
         "S": {
@@ -8870,9 +8870,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 12:43:06",
+        "Last_updated": "2021_05_21 10:57:50",
         "Contact_Number": "9944903256",
-        "Remarks": "(19/5/2021)"
+        "Remarks": "(21/5/2021)"
     },
     {
         "S": {
@@ -9220,9 +9220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_16 11:16:27",
+        "Last_updated": "2021_05_21 10:55:59",
         "Contact_Number": "8248586758",
-        "Remarks": "NIL nil NIL"
+        "Remarks": "NIL NIL"
     },
     {
         "S": {
@@ -9745,9 +9745,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 10:22:00",
+        "Last_updated": "2021_05_21 11:26:44",
         "Contact_Number": "9941011680",
-        "Remarks": "20_05_2021"
+        "Remarks": "21_05_2021"
     },
     {
         "S": {
@@ -11656,21 +11656,21 @@
         "District": "Thiruchirappalli",
         "Institution": "City Medical Center, Thennur",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "16",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "5",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "4",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 12:21:20",
+        "Last_updated": "2021_05_21 11:24:54",
         "Contact_Number": "7397271129",
         "Remarks": "alternate number : 9790420251_"
     },
@@ -13406,11 +13406,11 @@
         "District": "Chennai",
         "Institution": "M/s K_M_ Hospital, Vyarsarpadi",
         "COVID_BEDS_Total": "16",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "3",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "4",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -13420,7 +13420,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 16:35:47",
+        "Last_updated": "2021_05_21 11:17:30",
         "Contact_Number": "7338779408",
         "Remarks": ""
     },
