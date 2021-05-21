@@ -2531,23 +2531,23 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "252",
-        "COVID_BEDS_Occupied": "243",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "248",
+        "COVID_BEDS_Vacant": "4",
         "OXYGEN_SUPPORTED_BEDS_Total": "190",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "190",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "57",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "48",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "53",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 09:03:46",
+        "Last_updated": "2021_05_21 11:58:37",
         "Contact_Number": "9384084606",
-        "Remarks": "215_21@9am"
+        "Remarks": "215_21@110AM"
     },
     {
         "S": {
@@ -4443,9 +4443,9 @@
         "ICU_BEDS_Occupied": "14",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "10",
-        "VENTILATOR_Occupied": "8",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_20 15:56:36",
+        "VENTILATOR_Occupied": "10",
+        "VENTILATOR_Vacant": "0",
+        "Last_updated": "2021_05_21 11:52:42",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -5070,9 +5070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 08:16:39",
+        "Last_updated": "2021_05_21 12:01:10",
         "Contact_Number": "9952495710",
-        "Remarks": "21/05/2021"
+        "Remarks": "21/05/2021__"
     },
     {
         "S": {
@@ -6495,9 +6495,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_16 15:27:30",
+        "Last_updated": "2021_05_21 12:40:26",
         "Contact_Number": "7708773633",
-        "Remarks": "Updated on 16_ 05_2021 03_30 pm updated_"
+        "Remarks": "Updated on 21_ 05_2021 010 pm updated_"
     },
     {
         "S": {
@@ -13331,11 +13331,11 @@
         "District": "Chennai",
         "Institution": "KVT Health Centre",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "6",
         "OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -13345,7 +13345,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 10:24:49",
+        "Last_updated": "2021_05_21 12:29:44",
         "Contact_Number": "8807555777",
         "Remarks": ""
     },
