@@ -1156,23 +1156,23 @@
         "District": "Chennai",
         "Institution": "Melmaruvathur Aadhiparasakthi Medical College",
         "COVID_BEDS_Total": "375",
-        "COVID_BEDS_Occupied": "370",
-        "COVID_BEDS_Vacant": "5",
+        "COVID_BEDS_Occupied": "369",
+        "COVID_BEDS_Vacant": "6",
         "OXYGEN_SUPPORTED_BEDS_Total": "125",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "125",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "150",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "145",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "144",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "100",
         "ICU_BEDS_Occupied": "100",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "32",
         "VENTILATOR_Occupied": "32",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 17:09:17",
+        "Last_updated": "2021_05_21 07:10:57",
         "Contact_Number": "7904683997",
-        "Remarks": "205_2021 4 PM"
+        "Remarks": "215_2021 6 AM"
     },
     {
         "S": {
@@ -2395,7 +2395,7 @@
         "VENTILATOR_Total": "15",
         "VENTILATOR_Occupied": "15",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 06:53:19",
+        "Last_updated": "2021_05_21 07:04:31",
         "Contact_Number": "7094316000",
         "Remarks": ""
     },
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_20 08:11:56",
+        "Last_updated": "2021_05_21 06:05:04",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 205_2021"
+        "Remarks": "Update 215_2021"
     },
     {
         "S": {
@@ -5670,9 +5670,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_20 06:06:40",
+        "Last_updated": "2021_05_21 06:58:08",
         "Contact_Number": "6381589553",
-        "Remarks": "205_2021"
+        "Remarks": "215_2021"
     },
     {
         "S": {
@@ -5895,9 +5895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 06:07:33",
+        "Last_updated": "2021_05_21 06:59:07",
         "Contact_Number": "9894208601",
-        "Remarks": "205_2021"
+        "Remarks": "215_2021"
     },
     {
         "S": {
@@ -6395,9 +6395,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_20 12:56:40",
+        "Last_updated": "2021_05_21 07:33:02",
         "Contact_Number": "9385811752",
-        "Remarks": "Nil_,"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 07:01:11",
+        "Last_updated": "2021_05_21 07:17:37",
         "Contact_Number": "9659462722",
         "Remarks": "Nil____"
     },
@@ -7395,9 +7395,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_20 13:39:33",
+        "Last_updated": "2021_05_21 07:37:35",
         "Contact_Number": "9003398211",
-        "Remarks": "205_2021 evening update"
+        "Remarks": "215_2021 Update Theni"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 08:21:13",
+        "Last_updated": "2021_05_21 07:18:32",
         "Contact_Number": "9940632392",
-        "Remarks": "20/05/2021"
+        "Remarks": "21/05/2021"
     },
     {
         "S": {
@@ -8881,11 +8881,11 @@
         "District": "Tiruvallur",
         "Institution": "SKS HOSPITAL",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "2",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 09:06:58",
+        "Last_updated": "2021_05_21 07:37:48",
         "Contact_Number": "9841091403",
-        "Remarks": "205_2021"
+        "Remarks": "215_2021"
     },
     {
         "S": {
@@ -9581,23 +9581,23 @@
         "District": "Tirunelveli",
         "Institution": "VJ Hospital",
         "COVID_BEDS_Total": "26",
-        "COVID_BEDS_Occupied": "24",
-        "COVID_BEDS_Vacant": "2",
+        "COVID_BEDS_Occupied": "25",
+        "COVID_BEDS_Vacant": "1",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 18:43:44",
+        "Last_updated": "2021_05_21 06:00:08",
         "Contact_Number": "9843604611",
-        "Remarks": "24 Active cases____"
+        "Remarks": "25 Active cases____"
     },
     {
         "S": {
@@ -9881,23 +9881,23 @@
         "District": "Thanjavur",
         "Institution": "National pharma",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "28",
-        "COVID_BEDS_Vacant": "22",
+        "COVID_BEDS_Occupied": "35",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "43",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "21",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "28",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 12:05:22",
+        "Last_updated": "2021_05_21 06:41:14",
         "Contact_Number": "9524241241",
-        "Remarks": "Positive cases_ 10"
+        "Remarks": "Positive cases_ 13"
     },
     {
         "S": {
@@ -10170,9 +10170,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_14 09:11:20",
+        "Last_updated": "2021_05_21 07:11:02",
         "Contact_Number": "7200309380",
-        "Remarks": "14_5_2021"
+        "Remarks": "21_5_2021"
     },
     {
         "S": {
@@ -11520,9 +11520,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_20 13:39:58",
+        "Last_updated": "2021_05_21 07:36:54",
         "Contact_Number": "9894447717",
-        "Remarks": "Evening update"
+        "Remarks": "21_05_2021 Morning update"
     },
     {
         "S": {
@@ -13120,9 +13120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 07:23:50",
+        "Last_updated": "2021_05_21 07:11:04",
         "Contact_Number": "9488071754",
-        "Remarks": "8 beds vacant 205_2021"
+        "Remarks": "8 beds vacant 215_2021"
     },
     {
         "S": {
