@@ -4956,8 +4956,8 @@
         "District": "Thoothukudi",
         "Institution": "Sri Hospital",
         "COVID_BEDS_Total": "18",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "1",
+        "COVID_BEDS_Occupied": "18",
+        "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -4965,14 +4965,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "4",
+        "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 13:04:00",
+        "Last_updated": "2021_05_22 07:01:45",
         "Contact_Number": "9442667069",
-        "Remarks": "SRI HOSPITALS"
+        "Remarks": "SRI HOSPITALS_"
     },
     {
         "S": {
@@ -6130,11 +6130,11 @@
         },
         "District": "Dindigul",
         "Institution": "JCB Hospitals Palani Road,",
-        "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "50",
+        "COVID_BEDS_Total": "60",
+        "COVID_BEDS_Occupied": "60",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "48",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "48",
+        "OXYGEN_SUPPORTED_BEDS_Total": "58",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "58",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
@@ -6145,7 +6145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_21 15:15:48",
+        "Last_updated": "2021_05_22 06:35:37",
         "Contact_Number": "9150758413",
         "Remarks": "Nil"
     },
@@ -6381,21 +6381,21 @@
         "District": "Thoothukudi",
         "Institution": "Public Welfare Hospital Kovilpatti",
         "COVID_BEDS_Total": "18",
-        "COVID_BEDS_Occupied": "14",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "ICU_BEDS_Total": "1",
         "ICU_BEDS_Occupied": "1",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_21 13:24:53",
+        "Last_updated": "2021_05_22 07:23:50",
         "Contact_Number": "9385811752",
         "Remarks": "Nil_,"
     },
@@ -6545,9 +6545,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 09:20:44",
+        "Last_updated": "2021_05_22 06:59:26",
         "Contact_Number": "9659462722",
-        "Remarks": "Nil____"
+        "Remarks": "Nil___"
     },
     {
         "S": {
@@ -6945,9 +6945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_21 08:25:12",
+        "Last_updated": "2021_05_22 07:15:54",
         "Contact_Number": "9047075271",
-        "Remarks": "215_2021"
+        "Remarks": "225_2021"
     },
     {
         "S": {
@@ -7395,9 +7395,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_21 14:18:10",
+        "Last_updated": "2021_05_22 07:29:43",
         "Contact_Number": "9003398211",
-        "Remarks": "215_2021 Evening update"
+        "Remarks": "Morning update"
     },
     {
         "S": {
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_21 16:27:42",
+        "Last_updated": "2021_05_22 07:26:51",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 42 Suspected: 43 UPDATED Updated"
+        "Remarks": "Covid Positive : 42 Suspected: 43 Updated"
     },
     {
         "S": {
@@ -8606,21 +8606,21 @@
         "District": "Madurai",
         "Institution": "Vetri Siddha Hospital, Thaniciyam (Siddha)",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "21",
-        "COVID_BEDS_Vacant": "39",
+        "COVID_BEDS_Occupied": "24",
+        "COVID_BEDS_Vacant": "36",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "56",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "39",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "36",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 07:59:16",
+        "Last_updated": "2021_05_22 07:30:03",
         "Contact_Number": "9500967789",
         "Remarks": "updated 175_2021__"
     },
@@ -9581,23 +9581,23 @@
         "District": "Tirunelveli",
         "Institution": "VJ Hospital",
         "COVID_BEDS_Total": "26",
-        "COVID_BEDS_Occupied": "25",
-        "COVID_BEDS_Vacant": "1",
+        "COVID_BEDS_Occupied": "26",
+        "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 06:00:08",
+        "Last_updated": "2021_05_22 07:08:05",
         "Contact_Number": "9843604611",
-        "Remarks": "25 Active cases____"
+        "Remarks": "26 Active cases____"
     },
     {
         "S": {
@@ -11520,9 +11520,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_21 14:19:09",
+        "Last_updated": "2021_05_22 07:29:18",
         "Contact_Number": "9894447717",
-        "Remarks": "21_05_2021 Evening update"
+        "Remarks": "22_05_2021 update"
     },
     {
         "S": {
@@ -12906,23 +12906,23 @@
         "District": "Tiruvallur",
         "Institution": "Chennai Health Foundation, Ambatur",
         "COVID_BEDS_Total": "32",
-        "COVID_BEDS_Occupied": "22",
-        "COVID_BEDS_Vacant": "10",
+        "COVID_BEDS_Occupied": "30",
+        "COVID_BEDS_Vacant": "2",
         "OXYGEN_SUPPORTED_BEDS_Total": "26",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "20",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "26",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_20 07:54:52",
+        "Last_updated": "2021_05_22 06:29:16",
         "Contact_Number": "9094762761",
-        "Remarks": "20/05/2021"
+        "Remarks": "22/05/2021"
     },
     {
         "S": {
@@ -13106,11 +13106,11 @@
         "District": "Tirunelveli",
         "Institution": "Gold Child & Chest Hospital,Vannarpettai",
         "COVID_BEDS_Total": "13",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -13120,9 +13120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 07:11:04",
+        "Last_updated": "2021_05_22 07:09:09",
         "Contact_Number": "9488071754",
-        "Remarks": "8 beds vacant 215_2021"
+        "Remarks": "5 beds vacant 215_2021"
     },
     {
         "S": {
