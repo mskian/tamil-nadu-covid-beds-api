@@ -2531,23 +2531,23 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "252",
-        "COVID_BEDS_Occupied": "246",
-        "COVID_BEDS_Vacant": "6",
+        "COVID_BEDS_Occupied": "249",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "190",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "190",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "57",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "51",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "54",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 09:31:58",
+        "Last_updated": "2021_05_22 14:18:30",
         "Contact_Number": "9384084606",
-        "Remarks": "225_21@9am"
+        "Remarks": "225_21@ 1pm"
     },
     {
         "S": {
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 09:05:27",
+        "Last_updated": "2021_05_22 14:23:02",
         "Contact_Number": "7824950986",
-        "Remarks": "22_05_2021"
+        "Remarks": "22_05_2021 020PM"
     },
     {
         "S": {
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_22 10:33:40",
+        "Last_updated": "2021_05_22 13:46:38",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 10 RTPCR NEGATIVE BUT CT POSITIVE 8 suspected 0  REPORT AT 090 AM"
+        "Remarks": "RTPCR POSITIVE 10 RTPCR NEGATIVE BUT CT POSITIVE 8 suspected 0  REPORT AT010"
     },
     {
         "S": {
@@ -7395,9 +7395,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_22 07:29:43",
+        "Last_updated": "2021_05_22 14:35:56",
         "Contact_Number": "9003398211",
-        "Remarks": "Morning update"
+        "Remarks": "Evening update"
     },
     {
         "S": {
@@ -9245,9 +9245,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 08:52:48",
+        "Last_updated": "2021_05_22 14:03:34",
         "Contact_Number": "9444031230",
-        "Remarks": "22/05/2021 at 9 AM"
+        "Remarks": "22/05/2021 at 1 PM"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 10:24:49",
+        "Last_updated": "2021_05_22 14:32:35",
         "Contact_Number": "9842966662",
-        "Remarks": "22/05/2021 at 90AM"
+        "Remarks": "22/05/2021 at 10PM"
     },
     {
         "S": {
@@ -11520,9 +11520,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_22 07:29:18",
+        "Last_updated": "2021_05_22 14:37:36",
         "Contact_Number": "9894447717",
-        "Remarks": "22_05_2021 update"
+        "Remarks": "Evening update"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 07:58:28",
+        "Last_updated": "2021_05_22 14:20:19",
         "Contact_Number": "6382253140",
-        "Remarks": "7_58am"
+        "Remarks": "2pm"
     },
     {
         "S": {
