@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 08:11:30",
+        "Last_updated": "2021_05_22 13:03:44",
         "Contact_Number": "8585858550",
-        "Remarks": "22_ 5_2021 8am"
+        "Remarks": "22_ 5_2021 1PM"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 08:47:37",
+        "Last_updated": "2021_05_22 13:05:55",
         "Contact_Number": "8300017171",
-        "Remarks": "21/05/2021 8_45 am"
+        "Remarks": "21/05/2021 1 pm"
     },
     {
         "S": {
@@ -570,7 +570,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 09:13:18",
+        "Last_updated": "2021_05_22 13:29:47",
         "Contact_Number": "8667243945",
         "Remarks": "22/05/21"
     },
@@ -2670,9 +2670,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 08:20:20",
+        "Last_updated": "2021_05_22 12:48:25",
         "Contact_Number": "8754680378",
-        "Remarks": "225_2021"
+        "Remarks": "22_5_2021"
     },
     {
         "S": {
@@ -4445,7 +4445,7 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 16:14:05",
+        "Last_updated": "2021_05_22 13:37:33",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -4670,9 +4670,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_22 09:01:32",
+        "Last_updated": "2021_05_22 12:53:46",
         "Contact_Number": "6381456995",
-        "Remarks": "22/05/2021 at 09:00am _Positive _ 34 Suspected_31 Total=65"
+        "Remarks": "22/05/2021 at 010pm _Positive _ 34 Suspected_31 Total=65"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 07:01:45",
+        "Last_updated": "2021_05_22 13:25:16",
         "Contact_Number": "9442667069",
-        "Remarks": "SRI HOSPITALS_"
+        "Remarks": "SRI HOSPITALS"
     },
     {
         "S": {
@@ -5070,9 +5070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 12:01:10",
+        "Last_updated": "2021_05_22 13:30:23",
         "Contact_Number": "9952495710",
-        "Remarks": "21/05/2021__"
+        "Remarks": "22/05/2021__"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 09:14:36",
+        "Last_updated": "2021_05_22 13:19:59",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_22 09:17:20",
+        "Last_updated": "2021_05_22 13:20:27",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6456,22 +6456,22 @@
         "District": "Madurai",
         "Institution": "Raksha Hospital, Anna Nagar",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "14",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 16:03:12",
-        "Contact_Number": "8012222833",
+        "Last_updated": "2021_05_22 12:50:37",
+        "Contact_Number": "9578112555",
         "Remarks": ""
     },
     {
@@ -7195,7 +7195,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_22 09:58:50",
+        "Last_updated": "2021_05_22 13:23:31",
         "Contact_Number": "9894136398",
         "Remarks": "Update"
     },
@@ -8481,23 +8481,23 @@
         "District": "Salem",
         "Institution": "Mohanraj Children's Hospital",
         "COVID_BEDS_Total": "70",
-        "COVID_BEDS_Occupied": "27",
-        "COVID_BEDS_Vacant": "43",
-        "OXYGEN_SUPPORTED_BEDS_Total": "28",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "27",
+        "COVID_BEDS_Occupied": "24",
+        "COVID_BEDS_Vacant": "46",
+        "OXYGEN_SUPPORTED_BEDS_Total": "25",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "24",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "42",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "42",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 09:31:10",
+        "Last_updated": "2021_05_22 12:46:56",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 09_30am on 22/05/2021"
+        "Remarks": "Till 12_45pm on 22/05/2021"
     },
     {
         "S": {
@@ -9495,7 +9495,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_18 12:35:24",
+        "Last_updated": "2021_05_22 13:13:57",
         "Contact_Number": "7373004777",
         "Remarks": "Here with Updating our Hospital bed details"
     },
@@ -10345,7 +10345,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 09:19:13",
+        "Last_updated": "2021_05_22 13:37:17",
         "Contact_Number": "8054484748",
         "Remarks": "Suspect_26 Positive_6"
     },
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 09:57:51",
+        "Last_updated": "2021_05_22 13:21:47",
         "Contact_Number": "9842399300",
-        "Remarks": "nill"
+        "Remarks": "Nill"
     },
     {
         "S": {
@@ -11970,7 +11970,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_22 10:21:58",
+        "Last_updated": "2021_05_22 13:33:56",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "11",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_21 13:15:12",
+        "Last_updated": "2021_05_22 13:18:32",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
