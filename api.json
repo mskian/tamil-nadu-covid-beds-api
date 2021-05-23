@@ -4693,9 +4693,9 @@
         "ICU_BEDS_Occupied": "34",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "12",
-        "VENTILATOR_Occupied": "7",
-        "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_05_22 19:11:57",
+        "VENTILATOR_Occupied": "12",
+        "VENTILATOR_Vacant": "0",
+        "Last_updated": "2021_05_23 13:40:24",
         "Contact_Number": "7094409938",
         "Remarks": "_"
     },
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_23 09:11:47",
+        "Last_updated": "2021_05_23 14:06:10",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 13 RTPCR NEGATIVE BUT CT POSITIVE 6 suspected 0  REPORT AT090"
+        "Remarks": "RTPCR POSITIVE 13 RTPCR NEGATIVE BUT CT POSITIVE 6 suspected 0  REPORT AT010"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 10:11:38",
+        "Last_updated": "2021_05_23 14:30:34",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 23/05/2021 10:00AM"
+        "Remarks": "UPDATED TILL 23/05/2021 2:00OPM"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 07:38:23",
+        "Last_updated": "2021_05_23 14:14:14",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 07_40pm on 23/05/2021"
+        "Remarks": "Till 02_15pm on 23/05/2021"
     },
     {
         "S": {
@@ -9245,9 +9245,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 10:09:34",
+        "Last_updated": "2021_05_23 13:53:54",
         "Contact_Number": "9444031230",
-        "Remarks": "23/05/2021 at 9AM"
+        "Remarks": "23/05/2021 at 1 PM"
     },
     {
         "S": {
@@ -11656,21 +11656,21 @@
         "District": "Thiruchirappalli",
         "Institution": "City Medical Center, Thennur",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 10:42:27",
+        "Last_updated": "2021_05_23 13:45:28",
         "Contact_Number": "7397271129",
         "Remarks": "alternate number : 9790420251_"
     },
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 08:58:10",
+        "Last_updated": "2021_05_23 13:49:56",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
