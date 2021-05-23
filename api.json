@@ -8483,21 +8483,21 @@
         "COVID_BEDS_Total": "70",
         "COVID_BEDS_Occupied": "24",
         "COVID_BEDS_Vacant": "46",
-        "OXYGEN_SUPPORTED_BEDS_Total": "25",
+        "OXYGEN_SUPPORTED_BEDS_Total": "24",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "24",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 14:14:14",
+        "Last_updated": "2021_05_23 18:34:15",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 02_15pm on 23/05/2021"
+        "Remarks": "Till 06_36pm on 23/05/2021"
     },
     {
         "S": {
@@ -9045,9 +9045,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_23 08:28:05",
+        "Last_updated": "2021_05_23 18:18:55",
         "Contact_Number": "7299009287",
-        "Remarks": "23_05_2021, 09:00 AM"
+        "Remarks": "23_05_2021, 04:00 PM"
     },
     {
         "S": {
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 09:21:36",
+        "Last_updated": "2021_05_23 17:51:27",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
