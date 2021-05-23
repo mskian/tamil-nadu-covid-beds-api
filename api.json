@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 09:38:44",
+        "Last_updated": "2021_05_23 17:34:10",
         "Contact_Number": "8300017171",
-        "Remarks": "22/05/2021 9_30 am"
+        "Remarks": "23/05/2021 5_30 pm"
     },
     {
         "S": {
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 09:15:31",
+        "Last_updated": "2021_05_23 17:21:55",
         "Contact_Number": "6379350953",
-        "Remarks": "May 23rd @ 9:00 AM"
+        "Remarks": "May 23rd @ 5:00 PM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 10:22:03",
+        "Last_updated": "2021_05_23 17:12:41",
         "Contact_Number": "4430101111",
-        "Remarks": "23/05/2021, 9 am first 10:20 am"
+        "Remarks": "23/05/2021, 9 am first 10:15 am, 5::12 pm"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 14:30:34",
+        "Last_updated": "2021_05_23 16:41:25",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 23/05/2021 2:00OPM"
+        "Remarks": "UPDATED TILL 23/05/2021 4:00PM"
     },
     {
         "S": {
@@ -9245,9 +9245,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 13:53:54",
+        "Last_updated": "2021_05_23 16:48:14",
         "Contact_Number": "9444031230",
-        "Remarks": "23/05/2021 at 1 PM"
+        "Remarks": "23/05/2021 at 4 PM"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 07:08:05",
+        "Last_updated": "2021_05_23 17:13:24",
         "Contact_Number": "9843604611",
         "Remarks": "26 Active cases____"
     },
@@ -11956,21 +11956,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Max Care Hospital, Annamalai Nagar",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "18",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "3",
         "ICU_BEDS_Occupied": "3",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_23 13:29:48",
+        "Last_updated": "2021_05_23 16:44:09",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
@@ -13406,11 +13406,11 @@
         "District": "Chennai",
         "Institution": "M/s K_M_ Hospital, Vyarsarpadi",
         "COVID_BEDS_Total": "16",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "7",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -13420,7 +13420,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 09:54:53",
+        "Last_updated": "2021_05_23 17:17:57",
         "Contact_Number": "7338779408",
         "Remarks": ""
     },
