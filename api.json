@@ -10330,14 +10330,14 @@
         },
         "District": "Sivagangai",
         "Institution": "Jedaiah Steve Hospital,Karaikudi",
-        "COVID_BEDS_Total": "32",
-        "COVID_BEDS_Occupied": "32",
+        "COVID_BEDS_Total": "38",
+        "COVID_BEDS_Occupied": "38",
         "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "26",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "26",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "12",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
@@ -10345,9 +10345,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 13:37:23",
+        "Last_updated": "2021_05_23 19:03:21",
         "Contact_Number": "8054484748",
-        "Remarks": "Suspect_30 Positive_2"
+        "Remarks": "Suspect_36 Positive_2"
     },
     {
         "S": {
