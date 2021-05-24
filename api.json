@@ -6031,11 +6031,11 @@
         "District": "Chengalpattu",
         "Institution": "Parvathy Hospital Chrompet,",
         "COVID_BEDS_Total": "76",
-        "COVID_BEDS_Occupied": "38",
-        "COVID_BEDS_Vacant": "38",
+        "COVID_BEDS_Occupied": "36",
+        "COVID_BEDS_Vacant": "40",
         "OXYGEN_SUPPORTED_BEDS_Total": "32",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "20",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "26",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "26",
@@ -6043,9 +6043,9 @@
         "ICU_BEDS_Occupied": "18",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "12",
-        "VENTILATOR_Occupied": "5",
-        "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_05_24 11:19:33",
+        "VENTILATOR_Occupied": "4",
+        "VENTILATOR_Vacant": "8",
+        "Last_updated": "2021_05_24 13:58:20",
         "Contact_Number": "7825830723",
         "Remarks": "245_2021"
     },
@@ -6370,9 +6370,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_24 10:33:51",
+        "Last_updated": "2021_05_24 14:27:56",
         "Contact_Number": "7339565444",
-        "Remarks": "Nil_"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:45:40",
+        "Last_updated": "2021_05_24 14:20:38",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 24/05/2021 10:00AM"
+        "Remarks": "UPDATED TILL 24/05/2021 2:00PM"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 07:41:57",
+        "Last_updated": "2021_05_24 14:28:08",
         "Contact_Number": "8870007450",
-        "Remarks": "245_2021 Morning report"
+        "Remarks": "245_2021 Evening report"
     },
     {
         "S": {
@@ -7395,9 +7395,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_23 07:53:37",
+        "Last_updated": "2021_05_24 14:39:01",
         "Contact_Number": "9003398211",
-        "Remarks": "23_05_2021 update"
+        "Remarks": "24_05_2021 update"
     },
     {
         "S": {
@@ -10345,7 +10345,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:07:49",
+        "Last_updated": "2021_05_24 13:50:56",
         "Contact_Number": "8054484748",
         "Remarks": "Suspect_37 Positive_1"
     },
@@ -10806,11 +10806,11 @@
         "District": "Chengalpattu",
         "Institution": "RKP Hospital,Nanmangalam",
         "COVID_BEDS_Total": "36",
-        "COVID_BEDS_Occupied": "36",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "31",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "26",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "26",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -10820,7 +10820,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 13:21:16",
+        "Last_updated": "2021_05_24 13:40:59",
         "Contact_Number": "9842966662",
         "Remarks": "24/05/2021 at 010pm"
     },
@@ -11420,7 +11420,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 08:42:41",
+        "Last_updated": "2021_05_24 14:18:58",
         "Contact_Number": "9843461901",
         "Remarks": "_"
     },
@@ -11520,9 +11520,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_23 07:53:02",
+        "Last_updated": "2021_05_24 14:38:31",
         "Contact_Number": "9894447717",
-        "Remarks": "Morning update"
+        "Remarks": "Evening update"
     },
     {
         "S": {
