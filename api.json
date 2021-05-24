@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 08:00:14",
+        "Last_updated": "2021_05_24 13:20:46",
         "Contact_Number": "8300017171",
-        "Remarks": "24/05/2021 80 am"
+        "Remarks": "24/05/2021 1 pm"
     },
     {
         "S": {
@@ -570,7 +570,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 11:52:31",
+        "Last_updated": "2021_05_24 12:51:47",
         "Contact_Number": "8667243945",
         "Remarks": "24/05/21"
     },
@@ -720,9 +720,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 10:15:41",
-        "Contact_Number": "8825779308",
-        "Remarks": "225_2021"
+        "Last_updated": "2021_05_24 13:19:09",
+        "Contact_Number": "9176911860",
+        "Remarks": "245_2021"
     },
     {
         "S": {
@@ -1956,23 +1956,23 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "400",
-        "COVID_BEDS_Occupied": "90",
-        "COVID_BEDS_Vacant": "310",
+        "COVID_BEDS_Occupied": "88",
+        "COVID_BEDS_Vacant": "312",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "45",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "339",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "29",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "310",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "27",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "312",
         "ICU_BEDS_Total": "16",
         "ICU_BEDS_Occupied": "16",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 11:06:57",
+        "Last_updated": "2021_05_24 13:09:33",
         "Contact_Number": "4430101111",
-        "Remarks": "24/05/2021 11 am"
+        "Remarks": "24/05/2021 12:50 pm"
     },
     {
         "S": {
@@ -2656,21 +2656,21 @@
         "District": "Dindigul",
         "Institution": "Leonard Hospital",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "36",
-        "COVID_BEDS_Vacant": "64",
+        "COVID_BEDS_Occupied": "31",
+        "COVID_BEDS_Vacant": "69",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "28",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "62",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "23",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "67",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 08:31:24",
+        "Last_updated": "2021_05_24 13:11:11",
         "Contact_Number": "8754680378",
         "Remarks": "245_2021"
     },
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:04:42",
+        "Last_updated": "2021_05_24 13:05:37",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -4670,9 +4670,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_24 09:04:49",
+        "Last_updated": "2021_05_24 13:16:13",
         "Contact_Number": "6381456995",
-        "Remarks": "24/05/2021 at 09:00am _Positive _ 23 Suspected_42 Total=65"
+        "Remarks": "24/05/2021 at 01:00pm _Positive _ 23 Suspected_42 Total=65"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:17:31",
+        "Last_updated": "2021_05_24 13:12:55",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_24 09:26:22",
+        "Last_updated": "2021_05_24 13:13:20",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 08:58:37",
+        "Last_updated": "2021_05_24 13:30:09",
         "Contact_Number": "7824950986",
-        "Remarks": "24_05_2021"
+        "Remarks": "24_05_2021 01_30pm"
     },
     {
         "S": {
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_24 09:18:45",
+        "Last_updated": "2021_05_24 13:03:30",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 15 RTPCR NEGATIVE BUT CT POSITIVE 4 suspected 0  REPORT AT090"
+        "Remarks": "RTPCR POSITIVE 15 RTPCR NEGATIVE BUT CT POSITIVE 4 suspected 0  REPORT AT 010PM"
     },
     {
         "S": {
@@ -7195,7 +7195,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_24 08:55:59",
+        "Last_updated": "2021_05_24 12:55:58",
         "Contact_Number": "9894136398",
         "Remarks": "Update"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:16:29",
+        "Last_updated": "2021_05_24 13:09:11",
         "Contact_Number": "7397591935",
-        "Remarks": "Updated 24_5_2021@8Am"
+        "Remarks": "Updated 24_5_2021@1pm"
     },
     {
         "S": {
@@ -9245,9 +9245,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:16:12",
+        "Last_updated": "2021_05_24 13:20:21",
         "Contact_Number": "9444031230",
-        "Remarks": "24/05/2021 at 9 AM"
+        "Remarks": "24/05/2021 at 1 PM"
     },
     {
         "S": {
@@ -10805,24 +10805,24 @@
         },
         "District": "Chengalpattu",
         "Institution": "RKP Hospital,Nanmangalam",
-        "COVID_BEDS_Total": "22",
-        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Total": "36",
+        "COVID_BEDS_Occupied": "36",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
+        "OXYGEN_SUPPORTED_BEDS_Total": "26",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "26",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "0",
-        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Total": "10",
+        "ICU_BEDS_Occupied": "10",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:35:18",
+        "Last_updated": "2021_05_24 13:21:16",
         "Contact_Number": "9842966662",
-        "Remarks": "24/05/2021 at 090am"
+        "Remarks": "24/05/2021 at 010pm"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 07:48:47",
+        "Last_updated": "2021_05_24 13:18:58",
         "Contact_Number": "6382253140",
-        "Remarks": "8am"
+        "Remarks": "1_19PM"
     },
     {
         "S": {
@@ -13420,8 +13420,8 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_23 17:17:57",
-        "Contact_Number": "7338779408",
+        "Last_updated": "2021_05_24 12:51:11",
+        "Contact_Number": "7604844496",
         "Remarks": ""
     },
     {
