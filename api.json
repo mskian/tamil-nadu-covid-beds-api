@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 08:57:09",
+        "Last_updated": "2021_05_25 11:20:57",
         "Contact_Number": "4430101111",
-        "Remarks": "25/05/2021 8:55 am"
+        "Remarks": "25/05/2021 11:15 am"
     },
     {
         "S": {
@@ -4445,7 +4445,7 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 10:47:21",
+        "Last_updated": "2021_05_25 11:37:49",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:40:08",
+        "Last_updated": "2021_05_25 11:34:31",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 24/5/2020"
+        "Remarks": "Updated 25/5/2020"
     },
     {
         "S": {
@@ -7956,23 +7956,23 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "77",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "85",
+        "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "50",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "23",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "12",
         "ICU_BEDS_Occupied": "12",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_25 08:43:29",
+        "Last_updated": "2021_05_25 11:14:34",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 35 Suspected: 42 Updated"
+        "Remarks": "Covid Positive : 35 Suspected: 50 Updated : 1 PM"
     },
     {
         "S": {
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 18:28:13",
+        "Last_updated": "2021_05_25 11:32:41",
         "Contact_Number": "9842399300",
-        "Remarks": "NILL"
+        "Remarks": "nill"
     },
     {
         "S": {
@@ -11656,21 +11656,21 @@
         "District": "Thiruchirappalli",
         "Institution": "City Medical Center, Thennur",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "6",
+        "COVID_BEDS_Occupied": "21",
+        "COVID_BEDS_Vacant": "4",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 11:19:25",
+        "Last_updated": "2021_05_25 11:16:06",
         "Contact_Number": "7397271129",
         "Remarks": "alternate number : 9790420251_"
     },
@@ -12370,7 +12370,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 17:21:28",
+        "Last_updated": "2021_05_25 11:48:17",
         "Contact_Number": "8939967034",
         "Remarks": ""
     },
