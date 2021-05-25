@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "16",
         "VENTILATOR_Occupied": "16",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 13:00:57",
+        "Last_updated": "2021_05_25 17:15:19",
         "Contact_Number": "7824821042",
-        "Remarks": "255_202 no beds available"
+        "Remarks": "255_202 no beds available now"
     },
     {
         "S": {
@@ -255,24 +255,24 @@
         },
         "District": "Chennai",
         "Institution": "Appasamy Hospital",
-        "COVID_BEDS_Total": "91",
-        "COVID_BEDS_Occupied": "86",
-        "COVID_BEDS_Vacant": "5",
-        "OXYGEN_SUPPORTED_BEDS_Total": "82",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "77",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "COVID_BEDS_Total": "86",
+        "COVID_BEDS_Occupied": "83",
+        "COVID_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Total": "79",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "76",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "6",
-        "ICU_BEDS_Occupied": "6",
+        "ICU_BEDS_Total": "7",
+        "ICU_BEDS_Occupied": "7",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 09:32:39",
+        "Last_updated": "2021_05_25 17:10:50",
         "Contact_Number": "6379350953",
-        "Remarks": "May 25th @ 9:00 AM"
+        "Remarks": "May 25th @ 5:00 PM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 15:43:30",
+        "Last_updated": "2021_05_25 17:37:03",
         "Contact_Number": "4430101111",
-        "Remarks": "25/05/2021 3:45PM"
+        "Remarks": "25/05/2021 5:40PM"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 12:53:33",
+        "Last_updated": "2021_05_25 17:24:16",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 09:30:30",
+        "Last_updated": "2021_05_25 16:53:52",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -10345,9 +10345,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 13:32:15",
+        "Last_updated": "2021_05_25 17:31:56",
         "Contact_Number": "8054484748",
-        "Remarks": "Suspect_36 Positive_2"
+        "Remarks": "Suspect_36 Positive_2 updated"
     },
     {
         "S": {
