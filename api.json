@@ -183,11 +183,11 @@
         "COVID_BEDS_Total": "60",
         "COVID_BEDS_Occupied": "60",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "25",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "OXYGEN_SUPPORTED_BEDS_Total": "32",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "32",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "35",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "28",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "28",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 16:17:29",
+        "Last_updated": "2021_05_25 20:03:36",
         "Contact_Number": "8300017171",
-        "Remarks": "25/05/2021 4 pm"
+        "Remarks": "25/05/2021 8 pm"
     },
     {
         "S": {
@@ -10806,11 +10806,11 @@
         "District": "Chengalpattu",
         "Institution": "RKP Hospital,Nanmangalam",
         "COVID_BEDS_Total": "36",
-        "COVID_BEDS_Occupied": "31",
-        "COVID_BEDS_Vacant": "5",
+        "COVID_BEDS_Occupied": "34",
+        "COVID_BEDS_Vacant": "2",
         "OXYGEN_SUPPORTED_BEDS_Total": "26",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "24",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 17:45:00",
+        "Last_updated": "2021_05_25 19:58:01",
         "Contact_Number": "9842966662",
-        "Remarks": "25/05/2021 at 040pm"
+        "Remarks": "25/05/2021 at 080pm"
     },
     {
         "S": {
