@@ -1830,14 +1830,14 @@
         },
         "District": "Chennai",
         "Institution": "Srinivas Priya Hospital Perambur",
-        "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "25",
+        "COVID_BEDS_Total": "18",
+        "COVID_BEDS_Occupied": "18",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Total": "16",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
@@ -1845,9 +1845,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 09:14:52",
+        "Last_updated": "2021_05_25 11:51:20",
         "Contact_Number": "7550057577",
-        "Remarks": "245_2021"
+        "Remarks": "255_2021"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 08:35:56",
+        "Last_updated": "2021_05_25 12:53:33",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 07:39:09",
+        "Last_updated": "2021_05_25 12:36:06",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 07_38am on 25/05/2021"
+        "Remarks": "Till 12_30pm on 25/05/2021"
     },
     {
         "S": {
@@ -8820,9 +8820,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_22 11:26:52",
+        "Last_updated": "2021_05_25 11:58:39",
         "Contact_Number": "9442282220",
-        "Remarks": "_"
+        "Remarks": ""
     },
     {
         "S": {
@@ -9495,7 +9495,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 13:13:57",
+        "Last_updated": "2021_05_25 11:52:03",
         "Contact_Number": "7373004777",
         "Remarks": "Here with Updating our Hospital bed details"
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 07:50:21",
+        "Last_updated": "2021_05_25 12:32:55",
         "Contact_Number": "6382253140",
-        "Remarks": "8am"
+        "Remarks": "1pm"
     },
     {
         "S": {
