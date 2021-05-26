@@ -2670,7 +2670,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_26 13:20:17",
+        "Last_updated": "2021_05_26 15:23:11",
         "Contact_Number": "8754680378",
         "Remarks": "265_2021"
     },
@@ -5456,11 +5456,11 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "900",
-        "COVID_BEDS_Occupied": "876",
-        "COVID_BEDS_Vacant": "24",
+        "COVID_BEDS_Occupied": "892",
+        "COVID_BEDS_Vacant": "8",
         "OXYGEN_SUPPORTED_BEDS_Total": "774",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "750",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "24",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "766",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "74",
         "VENTILATOR_Occupied": "74",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_26 09:00:52",
+        "Last_updated": "2021_05_26 15:41:30",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_26 07:50:10",
+        "Last_updated": "2021_05_26 15:08:12",
         "Contact_Number": "9150758413",
-        "Remarks": "265_2021"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 11:34:31",
+        "Last_updated": "2021_05_26 15:29:03",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 25/5/2020"
+        "Remarks": "Updated 26/5/2020"
     },
     {
         "S": {
@@ -8606,21 +8606,21 @@
         "District": "Madurai",
         "Institution": "Vetri Siddha Hospital, Thaniciyam (Siddha)",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "41",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "45",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "56",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "41",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_26 07:32:52",
+        "Last_updated": "2021_05_26 15:41:20",
         "Contact_Number": "9500967789",
         "Remarks": "26_5_2021"
     },
@@ -9245,9 +9245,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_26 09:40:14",
+        "Last_updated": "2021_05_26 15:20:21",
         "Contact_Number": "9444031230",
-        "Remarks": "26/05/2021 at 9 AM"
+        "Remarks": "26/05/2021 at 4 PM"
     },
     {
         "S": {
@@ -11520,9 +11520,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_25 14:37:19",
+        "Last_updated": "2021_05_26 15:08:36",
         "Contact_Number": "9894447717",
-        "Remarks": "Evening update"
+        "Remarks": "265_2021 Eveningupdate"
     },
     {
         "S": {
