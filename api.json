@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 15:10:20",
+        "Last_updated": "2021_05_27 18:51:59",
         "Contact_Number": "8300017171",
-        "Remarks": "27/05/2021 3 pm"
+        "Remarks": "27/05/2021 7 pm"
     },
     {
         "S": {
@@ -970,9 +970,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_17 11:48:38",
+        "Last_updated": "2021_05_27 17:55:50",
         "Contact_Number": "9500054797",
-        "Remarks": "17_5_2021"
+        "Remarks": "27_5_2021"
     },
     {
         "S": {
@@ -6031,8 +6031,8 @@
         "District": "Chengalpattu",
         "Institution": "Parvathy Hospital Chrompet,",
         "COVID_BEDS_Total": "76",
-        "COVID_BEDS_Occupied": "43",
-        "COVID_BEDS_Vacant": "33",
+        "COVID_BEDS_Occupied": "42",
+        "COVID_BEDS_Vacant": "34",
         "OXYGEN_SUPPORTED_BEDS_Total": "32",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
@@ -6040,12 +6040,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "16",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "ICU_BEDS_Total": "18",
-        "ICU_BEDS_Occupied": "15",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "14",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "12",
-        "VENTILATOR_Occupied": "8",
-        "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_27 15:57:16",
+        "VENTILATOR_Occupied": "6",
+        "VENTILATOR_Vacant": "6",
+        "Last_updated": "2021_05_27 18:56:13",
         "Contact_Number": "7825830723",
         "Remarks": "275_2021"
     },
