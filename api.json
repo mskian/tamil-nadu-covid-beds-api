@@ -181,11 +181,11 @@
         "District": "Chengalpattu",
         "Institution": "Deepam Hospitals, West Tambaram",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "56",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "57",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "48",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "49",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 08:09:29",
+        "Last_updated": "2021_05_27 15:10:20",
         "Contact_Number": "8300017171",
-        "Remarks": "27/05/2021 8 am"
+        "Remarks": "27/05/2021 3 pm"
     },
     {
         "S": {
@@ -2656,21 +2656,21 @@
         "District": "Dindigul",
         "Institution": "Leonard Hospital",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "44",
-        "COVID_BEDS_Vacant": "56",
+        "COVID_BEDS_Occupied": "37",
+        "COVID_BEDS_Vacant": "63",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "34",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "56",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "27",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "63",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 12:56:42",
+        "Last_updated": "2021_05_27 15:57:51",
         "Contact_Number": "8754680378",
         "Remarks": "275_2021"
     },
@@ -5456,11 +5456,11 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "900",
-        "COVID_BEDS_Occupied": "872",
-        "COVID_BEDS_Vacant": "28",
+        "COVID_BEDS_Occupied": "891",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "734",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "706",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "725",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "74",
         "VENTILATOR_Occupied": "74",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:00:31",
+        "Last_updated": "2021_05_27 15:34:32",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6045,7 +6045,7 @@
         "VENTILATOR_Total": "12",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_27 10:27:06",
+        "Last_updated": "2021_05_27 15:57:16",
         "Contact_Number": "7825830723",
         "Remarks": "275_2021"
     },
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_27 07:37:41",
+        "Last_updated": "2021_05_27 15:05:42",
         "Contact_Number": "9150758413",
-        "Remarks": "275_2021"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 12:42:51",
+        "Last_updated": "2021_05_27 15:35:15",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 12_40 pm on 27/05/2021"
+        "Remarks": "Till 03_30 pm on 27/05/2021"
     },
     {
         "S": {
@@ -12370,7 +12370,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 10:52:28",
+        "Last_updated": "2021_05_27 15:53:09",
         "Contact_Number": "8939967034",
         "Remarks": ""
     },
