@@ -1956,23 +1956,23 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "81",
-        "COVID_BEDS_Vacant": "329",
+        "COVID_BEDS_Occupied": "84",
+        "COVID_BEDS_Vacant": "326",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "45",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "329",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "23",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "326",
         "ICU_BEDS_Total": "16",
         "ICU_BEDS_Occupied": "16",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 11:35:22",
+        "Last_updated": "2021_05_27 17:41:06",
         "Contact_Number": "4430101111",
-        "Remarks": "27/05/2021 07:30AM"
+        "Remarks": "27/05/2021 05:40PM"
     },
     {
         "S": {
@@ -2395,7 +2395,7 @@
         "VENTILATOR_Total": "15",
         "VENTILATOR_Occupied": "15",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 10:21:23",
+        "Last_updated": "2021_05_27 17:51:21",
         "Contact_Number": "7094316000",
         "Remarks": ""
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 12:49:33",
+        "Last_updated": "2021_05_27 17:01:54",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -6806,23 +6806,23 @@
         "District": "Kancheepuram",
         "Institution": "TCS, Sirucherry",
         "COVID_BEDS_Total": "40",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "21",
+        "COVID_BEDS_Occupied": "21",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "0",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "19",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "21",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:13:18",
+        "Last_updated": "2021_05_27 17:21:13",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 27/05/2021 9:00AM"
+        "Remarks": "UPDATED TILL 27/05/2021 5:15PM"
     },
     {
         "S": {
@@ -9745,9 +9745,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_25 10:21:14",
+        "Last_updated": "2021_05_27 17:24:07",
         "Contact_Number": "9941011680",
-        "Remarks": "25_05_2021"
+        "Remarks": "27_05_2021"
     },
     {
         "S": {
@@ -10345,7 +10345,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 13:37:01",
+        "Last_updated": "2021_05_27 17:25:10",
         "Contact_Number": "8054484748",
         "Remarks": "Suspect_30 Positive_8 ( updated)"
     },
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:47:41",
+        "Last_updated": "2021_05_27 17:15:16",
         "Contact_Number": "9842399300",
-        "Remarks": "nill"
+        "Remarks": "NILL"
     },
     {
         "S": {
