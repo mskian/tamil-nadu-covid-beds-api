@@ -2545,9 +2545,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:05:41",
+        "Last_updated": "2021_05_27 13:40:46",
         "Contact_Number": "9384084606",
-        "Remarks": "275_21 @9am"
+        "Remarks": "275_21 @1 pm"
     },
     {
         "S": {
@@ -4670,9 +4670,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_27 09:36:58",
+        "Last_updated": "2021_05_27 13:54:43",
         "Contact_Number": "6381456995",
-        "Remarks": "27/05/2021 at 090am _Positive _ 17 Suspected_48 Total=65"
+        "Remarks": "27/05/2021 at 010PM _Positive _ 17 Suspected_48 Total=65"
     },
     {
         "S": {
@@ -4705,14 +4705,14 @@
         },
         "District": "Thanjavur",
         "Institution": "Meenakshi Multispeciality Hospital",
-        "COVID_BEDS_Total": "130",
-        "COVID_BEDS_Occupied": "130",
+        "COVID_BEDS_Total": "145",
+        "COVID_BEDS_Occupied": "145",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "40",
+        "OXYGEN_SUPPORTED_BEDS_Total": "50",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "50",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "60",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "60",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "65",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "65",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "30",
         "ICU_BEDS_Occupied": "30",
@@ -4720,7 +4720,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:09:08",
+        "Last_updated": "2021_05_27 13:59:41",
         "Contact_Number": "7402605570",
         "Remarks": ""
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 08:47:10",
+        "Last_updated": "2021_05_27 13:56:53",
         "Contact_Number": "9442667069",
-        "Remarks": "SRI HOSPITALS"
+        "Remarks": "SRI HOSPITALS_"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 13:09:13",
+        "Last_updated": "2021_05_27 13:17:17",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_27 09:07:00",
+        "Last_updated": "2021_05_27 13:25:05",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 15 RTPCR NEGATIVE BUT CT POSITIVE 4 suspected 0  REPORT AT090"
+        "Remarks": "RTPCR POSITIVE 15 RTPCR NEGATIVE BUT CT POSITIVE 4 suspected 0  REPORT AT010"
     },
     {
         "S": {
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_26 15:29:03",
+        "Last_updated": "2021_05_27 13:30:13",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 26/5/2020"
+        "Remarks": "Updated 27/5/2020"
     },
     {
         "S": {
@@ -9245,9 +9245,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 10:44:35",
+        "Last_updated": "2021_05_27 14:01:10",
         "Contact_Number": "9444031230",
-        "Remarks": "27/05/2021 at 9 AM"
+        "Remarks": "27/05/2021 at 1 PM"
     },
     {
         "S": {
@@ -10345,7 +10345,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:39:20",
+        "Last_updated": "2021_05_27 13:37:01",
         "Contact_Number": "8054484748",
         "Remarks": "Suspect_30 Positive_8 ( updated)"
     },
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:20:40",
+        "Last_updated": "2021_05_27 13:56:05",
         "Contact_Number": "9842966662",
-        "Remarks": "27/05/2021 at 090am"
+        "Remarks": "27/05/2021 at 010pm"
     },
     {
         "S": {
