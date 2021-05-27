@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 13:00:56",
+        "Last_updated": "2021_05_27 16:03:26",
         "Contact_Number": "8585858550",
-        "Remarks": "27_ 5_2021 1PM"
+        "Remarks": "27_ 5_2021 4PM"
     },
     {
         "S": {
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "16",
         "VENTILATOR_Occupied": "16",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 13:10:21",
+        "Last_updated": "2021_05_27 16:51:24",
         "Contact_Number": "7824821042",
-        "Remarks": "275_202 no beds available now"
+        "Remarks": "275_202 no beds available"
     },
     {
         "S": {
@@ -2545,9 +2545,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 13:40:46",
+        "Last_updated": "2021_05_27 16:43:21",
         "Contact_Number": "9384084606",
-        "Remarks": "275_21 @1 pm"
+        "Remarks": "275_21 @4pm"
     },
     {
         "S": {
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 07:59:00",
+        "Last_updated": "2021_05_27 16:15:35",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -4670,9 +4670,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_27 13:54:43",
+        "Last_updated": "2021_05_27 16:06:37",
         "Contact_Number": "6381456995",
-        "Remarks": "27/05/2021 at 010PM _Positive _ 17 Suspected_48 Total=65"
+        "Remarks": "27/05/2021 at 04:00PM _Positive _ 17 Suspected_48 Total=65"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 13:17:17",
+        "Last_updated": "2021_05_27 16:03:53",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL_"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_27 13:09:43",
+        "Last_updated": "2021_05_27 16:04:41",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6331,11 +6331,11 @@
         "District": "Sivagangai",
         "Institution": "Karthick Multi Speciality Hospital",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "17",
+        "COVID_BEDS_Vacant": "6",
         "OXYGEN_SUPPORTED_BEDS_Total": "18",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_27 13:25:05",
+        "Last_updated": "2021_05_27 16:07:06",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 15 RTPCR NEGATIVE BUT CT POSITIVE 4 suspected 0  REPORT AT010"
+        "Remarks": "RTPCR POSITIVE 13 RTPCR NEGATIVE BUT CT POSITIVE 4 suspected 0  REPORT AT040"
     },
     {
         "S": {
@@ -7031,8 +7031,8 @@
         "District": "Madurai",
         "Institution": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "30",
-        "COVID_BEDS_Vacant": "20",
+        "COVID_BEDS_Occupied": "23",
+        "COVID_BEDS_Vacant": "27",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
@@ -7040,12 +7040,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "33",
-        "ICU_BEDS_Occupied": "20",
-        "ICU_BEDS_Vacant": "13",
+        "ICU_BEDS_Occupied": "13",
+        "ICU_BEDS_Vacant": "20",
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_27 07:19:49",
+        "Last_updated": "2021_05_27 16:08:03",
         "Contact_Number": "9003900349",
         "Remarks": "27_05_2021"
     },
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:35:00",
+        "Last_updated": "2021_05_27 16:08:13",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7195,7 +7195,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_27 13:11:26",
+        "Last_updated": "2021_05_27 16:02:42",
         "Contact_Number": "9894136398",
         "Remarks": "Update"
     },
@@ -7931,23 +7931,23 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "48",
-        "COVID_BEDS_Vacant": "12",
+        "COVID_BEDS_Occupied": "55",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "33",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "40",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:05:02",
+        "Last_updated": "2021_05_27 16:04:49",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 27_5_2021@9AM"
+        "Remarks": "UPDATED 27_5_2021@4PM"
     },
     {
         "S": {
@@ -9245,9 +9245,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 14:01:10",
+        "Last_updated": "2021_05_27 16:18:31",
         "Contact_Number": "9444031230",
-        "Remarks": "27/05/2021 at 1 PM"
+        "Remarks": "27/05/2021 at 4 PM"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 13:56:05",
+        "Last_updated": "2021_05_27 16:12:01",
         "Contact_Number": "9842966662",
-        "Remarks": "27/05/2021 at 010pm"
+        "Remarks": "27/05/2021 at 040pm"
     },
     {
         "S": {
@@ -11956,21 +11956,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Max Care Hospital, Annamalai Nagar",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "21",
-        "COVID_BEDS_Vacant": "2",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "1",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "3",
         "ICU_BEDS_Occupied": "3",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 12:59:10",
+        "Last_updated": "2021_05_27 16:06:28",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 12:54:43",
+        "Last_updated": "2021_05_27 16:14:26",
         "Contact_Number": "6382253140",
-        "Remarks": "1pm"
+        "Remarks": "4_14PM"
     },
     {
         "S": {
@@ -12155,11 +12155,11 @@
         },
         "District": "Thiruchirappalli",
         "Institution": "Silverline Speciality Hospital, Thillai Nagar",
-        "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "20",
+        "COVID_BEDS_Total": "25",
+        "COVID_BEDS_Occupied": "25",
         "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Total": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 09:10:31",
+        "Last_updated": "2021_05_27 16:21:21",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
