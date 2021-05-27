@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 18:51:59",
+        "Last_updated": "2021_05_27 21:44:12",
         "Contact_Number": "8300017171",
-        "Remarks": "27/05/2021 7 pm"
+        "Remarks": "27/05/2021 9 pm"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 19:52:23",
+        "Last_updated": "2021_05_27 21:31:08",
         "Contact_Number": "4430101111",
-        "Remarks": "27/05/2021 07:52PM"
+        "Remarks": "27/05/2021 09:32PM"
     },
     {
         "S": {
@@ -9431,21 +9431,21 @@
         "District": "Chennai",
         "Institution": "Srinivasa Hospital, Kodampakkam",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "25",
-        "COVID_BEDS_Vacant": "5",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "18",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "5",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_22 16:17:40",
+        "Last_updated": "2021_05_27 21:11:24",
         "Contact_Number": "9840102493",
         "Remarks": ""
     },
@@ -10070,7 +10070,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 08:51:58",
+        "Last_updated": "2021_05_27 21:43:46",
         "Contact_Number": "7200084041",
         "Remarks": ""
     },
