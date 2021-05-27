@@ -470,9 +470,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_24 10:58:29",
+        "Last_updated": "2021_05_27 14:38:57",
         "Contact_Number": "9551841153",
-        "Remarks": "today report 24/05/2021"
+        "Remarks": "today report 27/05/2021"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 07:23:37",
+        "Last_updated": "2021_05_27 14:41:01",
         "Contact_Number": "8870007450",
-        "Remarks": "275_2021 Morning report"
+        "Remarks": "275_2021 Evening report"
     },
     {
         "S": {
@@ -8045,9 +8045,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_26 18:53:29",
-        "Contact_Number": "9629187705",
-        "Remarks": "26/05/2021"
+        "Last_updated": "2021_05_27 14:29:09",
+        "Contact_Number": "9362622723",
+        "Remarks": "27/05/2021"
     },
     {
         "S": {
@@ -11456,11 +11456,11 @@
         "District": "Theni",
         "Institution": "Krishnammal Memorial hospital_",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "22",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "23",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -11470,7 +11470,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 07:23:51",
+        "Last_updated": "2021_05_27 14:40:36",
         "Contact_Number": "9786629040",
         "Remarks": "Ok"
     },
@@ -11520,9 +11520,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_26 15:08:36",
+        "Last_updated": "2021_05_27 14:32:45",
         "Contact_Number": "9894447717",
-        "Remarks": "265_2021 Eveningupdate"
+        "Remarks": "Evening update"
     },
     {
         "S": {
