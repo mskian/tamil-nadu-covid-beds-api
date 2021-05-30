@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 08:11:11",
+        "Last_updated": "2021_05_30 12:59:23",
         "Contact_Number": "8585858550",
-        "Remarks": "30_ 5_2021 8am"
+        "Remarks": "30_ 5_2021 1 PM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 10:56:47",
+        "Last_updated": "2021_05_30 12:54:50",
         "Contact_Number": "4430101111",
-        "Remarks": "30/05/2021 110 AM"
+        "Remarks": "30/05/2021 010 PM"
     },
     {
         "S": {
@@ -2670,7 +2670,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 08:46:32",
+        "Last_updated": "2021_05_30 12:34:40",
         "Contact_Number": "8754680378",
         "Remarks": "305_2021"
     },
@@ -3281,21 +3281,21 @@
         "District": "Krishnagiri",
         "Institution": "Chandrasekara Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "50",
-        "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "44",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "44",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "46",
+        "COVID_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Total": "45",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "42",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "ICU_BEDS_Total": "4",
+        "ICU_BEDS_Occupied": "4",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_29 10:51:32",
+        "Last_updated": "2021_05_30 13:15:09",
         "Contact_Number": "9655206585",
         "Remarks": "50"
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 09:03:44",
+        "Last_updated": "2021_05_30 13:31:08",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 09:19:24",
+        "Last_updated": "2021_05_30 12:53:40",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_30 09:22:52",
+        "Last_updated": "2021_05_30 12:54:59",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 11:52:17",
-        "Contact_Number": "9843108100",
-        "Remarks": ""
+        "Last_updated": "2021_05_30 12:55:39",
+        "Contact_Number": "9789149585",
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6331,11 +6331,11 @@
         "District": "Sivagangai",
         "Institution": "Karthick Multi Speciality Hospital",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "15",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "17",
+        "COVID_BEDS_Vacant": "6",
         "OXYGEN_SUPPORTED_BEDS_Total": "18",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_30 09:00:26",
+        "Last_updated": "2021_05_30 13:11:25",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 9 RTPCR NEGATIVE BUT CT POSITIVE 6 suspected 0  REPORT AT090"
+        "Remarks": "RTPCR POSITIVE 11 RTPCR NEGATIVE BUT CT POSITIVE 6 suspected 0  REPORT AT010"
     },
     {
         "S": {
@@ -6920,7 +6920,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_29 10:50:43",
+        "Last_updated": "2021_05_30 13:15:55",
         "Contact_Number": "9655206592",
         "Remarks": "90 beds"
     },
@@ -7031,8 +7031,8 @@
         "District": "Madurai",
         "Institution": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "20",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "28",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
@@ -7040,12 +7040,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "33",
-        "ICU_BEDS_Occupied": "10",
-        "ICU_BEDS_Vacant": "23",
+        "ICU_BEDS_Occupied": "12",
+        "ICU_BEDS_Vacant": "21",
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_30 07:28:14",
+        "Last_updated": "2021_05_30 12:19:24",
         "Contact_Number": "9003900349",
         "Remarks": "30_05_2021"
     },
@@ -7195,7 +7195,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_05_30 11:52:27",
+        "Last_updated": "2021_05_30 13:12:56",
         "Contact_Number": "9894136398",
         "Remarks": "Update"
     },
@@ -7681,11 +7681,11 @@
         "District": "Thoothukudi",
         "Institution": "City Hospital, Tuticorin",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -7695,9 +7695,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_29 06:02:01",
+        "Last_updated": "2021_05_30 12:32:53",
         "Contact_Number": "9842911141",
-        "Remarks": "29/5/21 8 am"
+        "Remarks": "30/5/21 8 am"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 09:00:35",
+        "Last_updated": "2021_05_30 13:08:09",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 30_5_2021@9AM"
+        "Remarks": "UPDATED 30_5_2021@1:00pm"
     },
     {
         "S": {
@@ -9495,7 +9495,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_28 12:13:28",
+        "Last_updated": "2021_05_30 13:08:04",
         "Contact_Number": "7373004777",
         "Remarks": "Here with Updating our Hospital bed details"
     },
@@ -11495,7 +11495,7 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 09:27:13",
+        "Last_updated": "2021_05_30 12:12:59",
         "Contact_Number": "9842399300",
         "Remarks": "nill"
     },
@@ -11956,11 +11956,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Max Care Hospital, Annamalai Nagar",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "18",
-        "COVID_BEDS_Vacant": "5",
+        "COVID_BEDS_Occupied": "16",
+        "COVID_BEDS_Vacant": "7",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -11970,7 +11970,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_29 16:31:40",
+        "Last_updated": "2021_05_30 13:11:17",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 09:04:20",
+        "Last_updated": "2021_05_30 12:40:03",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
