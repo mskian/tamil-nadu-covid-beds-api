@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 12:59:23",
+        "Last_updated": "2021_05_30 16:00:19",
         "Contact_Number": "8585858550",
-        "Remarks": "30_ 5_2021 1 PM"
+        "Remarks": "30_ 5_2021 4 PM"
     },
     {
         "S": {
@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "16",
         "VENTILATOR_Occupied": "16",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 09:35:37",
+        "Last_updated": "2021_05_30 15:50:59",
         "Contact_Number": "7824821042",
         "Remarks": "305_202 no beds available"
     },
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 08:34:10",
+        "Last_updated": "2021_05_30 15:49:57",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3206,21 +3206,21 @@
         "District": "Kanyakumari",
         "Institution": "Vasantham Health Centre",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "99",
-        "COVID_BEDS_Vacant": "1",
+        "COVID_BEDS_Occupied": "92",
+        "COVID_BEDS_Vacant": "8",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "50",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "33",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "32",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "ICU_BEDS_Total": "17",
         "ICU_BEDS_Occupied": "17",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_05_14 18:15:02",
+        "Last_updated": "2021_05_30 15:36:58",
         "Contact_Number": "9003200684",
         "Remarks": ""
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 13:31:08",
+        "Last_updated": "2021_05_30 15:54:01",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -5456,11 +5456,11 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "900",
-        "COVID_BEDS_Occupied": "879",
-        "COVID_BEDS_Vacant": "21",
+        "COVID_BEDS_Occupied": "891",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "734",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "713",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "725",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "74",
         "VENTILATOR_Occupied": "74",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 09:00:50",
+        "Last_updated": "2021_05_30 15:53:33",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_05_30 07:36:58",
+        "Last_updated": "2021_05_30 15:37:56",
         "Contact_Number": "9150758413",
-        "Remarks": "305_2021"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6345,9 +6345,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_05_30 13:11:25",
+        "Last_updated": "2021_05_30 15:59:25",
         "Contact_Number": "8883894416",
-        "Remarks": "RTPCR POSITIVE 11 RTPCR NEGATIVE BUT CT POSITIVE 6 suspected 0  REPORT AT010"
+        "Remarks": "RTPCR POSITIVE 11 RTPCR NEGATIVE BUT CT POSITIVE 6 suspected 0  REPORT AT040"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 08:41:08",
+        "Last_updated": "2021_05_30 15:13:25",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 08_40 am on 30/05/2021"
+        "Remarks": "Till 030 pm on 30/05/2021"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_30 13:44:52",
+        "Last_updated": "2021_05_30 15:56:49",
         "Contact_Number": "6382253140",
-        "Remarks": "1_45pm"
+        "Remarks": "3_57pm"
     },
     {
         "S": {
