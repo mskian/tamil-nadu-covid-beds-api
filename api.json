@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_01 17:17:22",
+        "Last_updated": "2021_06_01 19:15:33",
         "Contact_Number": "4430101111",
-        "Remarks": "01/06/2021 05_16 PM"
+        "Remarks": "01/06/2021 7_16 PM"
     },
     {
         "S": {
@@ -4956,23 +4956,23 @@
         "District": "Thoothukudi",
         "Institution": "Sri Hospital",
         "COVID_BEDS_Total": "18",
-        "COVID_BEDS_Occupied": "18",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_01 15:59:57",
+        "Last_updated": "2021_06_01 18:44:50",
         "Contact_Number": "9442667069",
-        "Remarks": "SRI HOSPITALS_"
+        "Remarks": "SRI HOSPITALS"
     },
     {
         "S": {
@@ -13331,11 +13331,11 @@
         "District": "Chennai",
         "Institution": "KVT Health Centre",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "14",
-        "COVID_BEDS_Vacant": "6",
+        "COVID_BEDS_Occupied": "17",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -13345,7 +13345,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_28 10:39:46",
+        "Last_updated": "2021_06_01 19:38:07",
         "Contact_Number": "8807555777",
         "Remarks": ""
     },
