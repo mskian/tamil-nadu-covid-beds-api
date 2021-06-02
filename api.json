@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_02 13:04:35",
+        "Last_updated": "2021_06_02 17:26:24",
         "Contact_Number": "8300017171",
-        "Remarks": "02/06/2021 @ 1 pm"
+        "Remarks": "02/06/2021 @ 5 pm"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_02 09:11:01",
+        "Last_updated": "2021_06_02 17:42:19",
         "Contact_Number": "4430101111",
-        "Remarks": "02/06/2021 2_56 AM"
+        "Remarks": "02/06/2021 05_41 PM"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_02 14:52:32",
+        "Last_updated": "2021_06_02 17:42:31",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -4445,7 +4445,7 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_02 10:21:13",
+        "Last_updated": "2021_06_02 17:04:24",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -4831,21 +4831,21 @@
         "District": "Tiruvallur",
         "Institution": "Ravina Health Care Pvt Ltd",
         "COVID_BEDS_Total": "54",
-        "COVID_BEDS_Occupied": "24",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "21",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "ICU_BEDS_Total": "8",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "4",
+        "ICU_BEDS_Occupied": "7",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_02 09:32:35",
+        "Last_updated": "2021_06_02 18:01:02",
         "Contact_Number": "9840036349",
         "Remarks": "Updated /026_2021"
     },
@@ -7045,7 +7045,7 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_02 14:47:26",
+        "Last_updated": "2021_06_02 18:12:43",
         "Contact_Number": "9003900349",
         "Remarks": "02_06_2021"
     },
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_02 09:16:39",
+        "Last_updated": "2021_06_02 17:11:40",
         "Contact_Number": "9842966662",
-        "Remarks": "0206/2021 at 090AM"
+        "Remarks": "02/06/2021 at 040 PM"
     },
     {
         "S": {
@@ -12156,21 +12156,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Silverline Speciality Hospital, Thillai Nagar",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "ICU_BEDS_Total": "3",
         "ICU_BEDS_Occupied": "3",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_02 16:19:01",
+        "Last_updated": "2021_06_02 17:44:01",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
