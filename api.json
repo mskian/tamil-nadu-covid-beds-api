@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "14",
         "VENTILATOR_Occupied": "14",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_03 07:59:00",
+        "Last_updated": "2021_06_03 16:53:12",
         "Contact_Number": "7824821042",
         "Remarks": "036_2021"
     },
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_03 07:53:18",
+        "Last_updated": "2021_06_03 17:04:55",
         "Contact_Number": "4430101111",
-        "Remarks": "03/06/2021 07_50 AM"
+        "Remarks": "03/06/2021 055 PM"
     },
     {
         "S": {
@@ -2381,21 +2381,21 @@
         "District": "Coimbatore",
         "Institution": "Kongunad Hospital",
         "COVID_BEDS_Total": "295",
-        "COVID_BEDS_Occupied": "291",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "295",
+        "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "165",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "165",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "100",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "96",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "100",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "30",
         "ICU_BEDS_Occupied": "30",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "20",
         "VENTILATOR_Occupied": "20",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_03 07:55:08",
+        "Last_updated": "2021_06_03 17:00:58",
         "Contact_Number": "7094316000",
         "Remarks": ""
     },
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_03 14:14:03",
+        "Last_updated": "2021_06_03 16:24:40",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_03 13:15:07",
+        "Last_updated": "2021_06_03 16:25:11",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_03 13:15:46",
+        "Last_updated": "2021_06_03 16:25:36",
         "Contact_Number": "9095505550",
         "Remarks": "nil_"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_03 09:59:48",
+        "Last_updated": "2021_06_03 16:45:21",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 03/06/2021 09_59AM"
+        "Remarks": "Updated 03/06/2021 04_45 PM"
     },
     {
         "S": {
@@ -7045,7 +7045,7 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_03 12:04:03",
+        "Last_updated": "2021_06_03 17:24:45",
         "Contact_Number": "9003900349",
         "Remarks": "03_06_2021"
     },
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_03 09:37:26",
+        "Last_updated": "2021_06_03 16:26:17",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
