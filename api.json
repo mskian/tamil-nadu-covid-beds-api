@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_04 17:15:42",
+        "Last_updated": "2021_06_04 19:10:21",
         "Contact_Number": "4430101111",
-        "Remarks": "04/06/2021 5_14 AM"
+        "Remarks": "04/06/202 078PM"
     },
     {
         "S": {
@@ -2381,21 +2381,21 @@
         "District": "Coimbatore",
         "Institution": "Kongunad Hospital",
         "COVID_BEDS_Total": "295",
-        "COVID_BEDS_Occupied": "285",
-        "COVID_BEDS_Vacant": "10",
+        "COVID_BEDS_Occupied": "290",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "165",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "165",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "100",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "95",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "30",
         "ICU_BEDS_Occupied": "30",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "20",
         "VENTILATOR_Occupied": "20",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_04 11:13:38",
+        "Last_updated": "2021_06_04 18:11:36",
         "Contact_Number": "7094316000",
         "Remarks": ""
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_04 14:32:51",
+        "Last_updated": "2021_06_04 19:24:33",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 04/06/2021 01:00 PM"
+        "Remarks": "UPDATED TILL 04/06/2021 05:00 PM"
     },
     {
         "S": {
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_04 09:30:52",
+        "Last_updated": "2021_06_04 18:06:04",
         "Contact_Number": "8098011072",
-        "Remarks": "4_6_2021"
+        "Remarks": "4_6_2021 / 60PM"
     },
     {
         "S": {
