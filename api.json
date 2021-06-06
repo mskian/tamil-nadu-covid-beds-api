@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 13:53:37",
+        "Last_updated": "2021_06_06 17:02:05",
         "Contact_Number": "8300017171",
-        "Remarks": "06/06/2021 @ 10 pm"
+        "Remarks": "06/06/2021 @ 50 pm"
     },
     {
         "S": {
@@ -1956,23 +1956,23 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "66",
-        "COVID_BEDS_Vacant": "344",
+        "COVID_BEDS_Occupied": "68",
+        "COVID_BEDS_Vacant": "342",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "38",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "39",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "332",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "18",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "331",
         "ICU_BEDS_Total": "16",
         "ICU_BEDS_Occupied": "11",
         "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 13:46:20",
+        "Last_updated": "2021_06_06 16:30:53",
         "Contact_Number": "4430101111",
-        "Remarks": "06/06/2021 13:43PM"
+        "Remarks": "06/06/2021 16:27PM"
     },
     {
         "S": {
@@ -2670,9 +2670,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 13:05:10",
+        "Last_updated": "2021_06_06 16:58:33",
         "Contact_Number": "8754680378",
-        "Remarks": "066_2021"
+        "Remarks": "066_21"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 13:18:18",
+        "Last_updated": "2021_06_06 16:07:41",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 06/06/2021 01_18PM"
+        "Remarks": "Updated 06/06/2021 047PM"
     },
     {
         "S": {
@@ -7131,21 +7131,21 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "35",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "30",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "18",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 09:48:50",
+        "Last_updated": "2021_06_06 17:03:27",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 14:04:38",
+        "Last_updated": "2021_06_06 16:16:40",
         "Contact_Number": "9842399300",
-        "Remarks": "Nill"
+        "Remarks": "nill"
     },
     {
         "S": {
