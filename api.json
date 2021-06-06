@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 08:08:05",
+        "Last_updated": "2021_06_06 13:01:34",
         "Contact_Number": "8585858550",
-        "Remarks": "06 _ 6_2021 8am"
+        "Remarks": "06 _ 6_2021 1 pm"
     },
     {
         "S": {
@@ -1831,11 +1831,11 @@
         "District": "Chennai",
         "Institution": "Srinivas Priya Hospital Perambur",
         "COVID_BEDS_Total": "18",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "7",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -1845,9 +1845,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_05 12:15:06",
+        "Last_updated": "2021_06_06 12:12:07",
         "Contact_Number": "7550057577",
-        "Remarks": "056_2021"
+        "Remarks": "066_2021"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 10:48:21",
+        "Last_updated": "2021_06_06 11:52:22",
         "Contact_Number": "4430101111",
-        "Remarks": "06/06/2021 09:08AM"
+        "Remarks": "06/06/2021 11:49AM"
     },
     {
         "S": {
@@ -2670,7 +2670,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 08:18:02",
+        "Last_updated": "2021_06_06 13:05:10",
         "Contact_Number": "8754680378",
         "Remarks": "066_2021"
     },
@@ -3095,9 +3095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_05 08:55:23",
+        "Last_updated": "2021_06_06 11:48:07",
         "Contact_Number": "9551288366",
-        "Remarks": "Updated 056_2021"
+        "Remarks": "Updated 066_2021"
     },
     {
         "S": {
@@ -6031,23 +6031,23 @@
         "District": "Chengalpattu",
         "Institution": "Parvathy Hospital Chrompet,",
         "COVID_BEDS_Total": "76",
-        "COVID_BEDS_Occupied": "35",
-        "COVID_BEDS_Vacant": "41",
+        "COVID_BEDS_Occupied": "30",
+        "COVID_BEDS_Vacant": "46",
         "OXYGEN_SUPPORTED_BEDS_Total": "43",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "32",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "33",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "26",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "ICU_BEDS_Total": "7",
         "ICU_BEDS_Occupied": "7",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_05 18:11:35",
+        "Last_updated": "2021_06_06 12:08:59",
         "Contact_Number": "7825830723",
-        "Remarks": "05/05/2021"
+        "Remarks": "06/05/2021"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_05 08:13:50",
+        "Last_updated": "2021_06_06 11:35:12",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 05_06_2021"
+        "Remarks": "updated 06_06_2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 09:17:26",
+        "Last_updated": "2021_06_06 13:01:39",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 6_6_2021@9Am"
+        "Remarks": "UPDATED 6_6_2021@1pm"
     },
     {
         "S": {
