@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 13:01:34",
+        "Last_updated": "2021_06_06 15:57:51",
         "Contact_Number": "8585858550",
-        "Remarks": "06 _ 6_2021 1 pm"
+        "Remarks": "06 _ 6_2021 4pm"
     },
     {
         "S": {
@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "14",
         "VENTILATOR_Occupied": "14",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 08:50:12",
+        "Last_updated": "2021_06_06 15:11:08",
         "Contact_Number": "7824821042",
         "Remarks": "066_2021"
     },
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 08:01:33",
+        "Last_updated": "2021_06_06 15:54:14",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3706,21 +3706,21 @@
         "District": "Mayiladuthurai",
         "Institution": "Cahoj Hospital",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "10",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_05 09:39:46",
+        "Last_updated": "2021_06_06 15:25:59",
         "Contact_Number": "9488755241",
         "Remarks": "nil"
     },
@@ -4445,7 +4445,7 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_06 10:01:13",
+        "Last_updated": "2021_06_06 15:51:14",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 13:24:43",
+        "Last_updated": "2021_06_06 15:59:41",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_06 13:25:55",
+        "Last_updated": "2021_06_06 16:00:39",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5456,11 +5456,11 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "900",
-        "COVID_BEDS_Occupied": "692",
-        "COVID_BEDS_Vacant": "208",
+        "COVID_BEDS_Occupied": "711",
+        "COVID_BEDS_Vacant": "189",
         "OXYGEN_SUPPORTED_BEDS_Total": "554",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "525",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "544",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "179",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "179",
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "74",
         "VENTILATOR_Occupied": "74",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 08:28:02",
+        "Last_updated": "2021_06_06 15:20:56",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_06 07:15:05",
+        "Last_updated": "2021_06_06 15:16:42",
         "Contact_Number": "9150758413",
-        "Remarks": "066_2021"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -7931,23 +7931,23 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "51",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "53",
+        "COVID_BEDS_Vacant": "7",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "36",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "38",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 13:01:39",
+        "Last_updated": "2021_06_06 16:02:39",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 6_6_2021@1pm"
+        "Remarks": "UPDATED 6_6_2021@4pm"
     },
     {
         "S": {
