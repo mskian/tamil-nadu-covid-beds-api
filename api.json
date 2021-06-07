@@ -256,23 +256,23 @@
         "District": "Chennai",
         "Institution": "Appasamy Hospital",
         "COVID_BEDS_Total": "68",
-        "COVID_BEDS_Occupied": "24",
-        "COVID_BEDS_Vacant": "44",
+        "COVID_BEDS_Occupied": "21",
+        "COVID_BEDS_Vacant": "47",
         "OXYGEN_SUPPORTED_BEDS_Total": "59",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "41",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "43",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "9",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_07 10:07:30",
+        "Last_updated": "2021_06_07 18:58:19",
         "Contact_Number": "6379350953",
-        "Remarks": "June 7th @ 9:00 AM"
+        "Remarks": "June 7th @ 5:00 PM"
     },
     {
         "S": {
@@ -1981,11 +1981,11 @@
         "District": "Chennai",
         "Institution": "The Guest Hospital, Kilpauk",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "7",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -1995,7 +1995,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_07 10:16:05",
+        "Last_updated": "2021_06_07 18:25:49",
         "Contact_Number": "8903573717",
         "Remarks": "07/06/2021"
     },
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_05 11:42:13",
+        "Last_updated": "2021_06_07 18:43:36",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 5/6/2020"
+        "Remarks": "Updated 7/6/2020"
     },
     {
         "S": {
@@ -9045,9 +9045,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_07 11:11:02",
+        "Last_updated": "2021_06_07 19:33:26",
         "Contact_Number": "7299009287",
-        "Remarks": "07_06_2021, 09:00 AM"
+        "Remarks": "07_06_2021, 04:00 PM"
     },
     {
         "S": {
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_07 09:54:46",
+        "Last_updated": "2021_06_07 18:43:31",
         "Contact_Number": "8098011072",
-        "Remarks": "7_6_2021"
+        "Remarks": "7_6_2021 / 70PM"
     },
     {
         "S": {
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_03 18:58:50",
+        "Last_updated": "2021_06_07 18:39:15",
         "Contact_Number": "9597221977",
         "Remarks": "_"
     },
