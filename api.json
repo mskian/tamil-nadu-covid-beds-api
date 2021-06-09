@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_09 03:36:15",
+        "Last_updated": "2021_06_09 06:14:41",
         "Contact_Number": "4430101111",
-        "Remarks": "09/06/2021 03:33am"
+        "Remarks": "09/06/2021 06:11am"
     },
     {
         "S": {
@@ -3381,21 +3381,21 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "80",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "63",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "65",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "35",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "36",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "25",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "25",
         "ICU_BEDS_Total": "10",
-        "ICU_BEDS_Occupied": "7",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "6",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "4",
-        "VENTILATOR_Occupied": "3",
-        "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_08 18:47:42",
+        "VENTILATOR_Occupied": "2",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_06_09 06:54:56",
         "Contact_Number": "8072738401",
         "Remarks": "Update"
     },
@@ -4956,8 +4956,8 @@
         "District": "Thoothukudi",
         "Institution": "Sri Hospital",
         "COVID_BEDS_Total": "18",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
@@ -4965,14 +4965,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_08 12:45:22",
+        "Last_updated": "2021_06_09 07:10:47",
         "Contact_Number": "9442667069",
-        "Remarks": "SRI HOSPITALS"
+        "Remarks": "096_21"
     },
     {
         "S": {
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_08 09:23:12",
+        "Last_updated": "2021_06_09 07:01:41",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 086_2021"
+        "Remarks": "Updated on 096_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_08 15:16:07",
+        "Last_updated": "2021_06_09 07:14:10",
         "Contact_Number": "9150758413",
-        "Remarks": "Nil"
+        "Remarks": "096_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "65",
-        "COVID_BEDS_Vacant": "25",
+        "COVID_BEDS_Occupied": "61",
+        "COVID_BEDS_Vacant": "29",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "64",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "60",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_08 07:04:28",
+        "Last_updated": "2021_06_09 07:01:41",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_08 07:49:21",
+        "Last_updated": "2021_06_09 07:24:27",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 08_06_2021"
+        "Remarks": "updated 09_06_2021"
     },
     {
         "S": {
@@ -7045,9 +7045,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_08 08:15:40",
+        "Last_updated": "2021_06_09 07:23:10",
         "Contact_Number": "9003900349",
-        "Remarks": "08_06_2021"
+        "Remarks": "09_06_2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_08 09:22:48",
+        "Last_updated": "2021_06_09 07:02:00",
         "Contact_Number": "9487701007",
-        "Remarks": "086_2021"
+        "Remarks": "096_2021"
     },
     {
         "S": {
