@@ -2670,9 +2670,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_09 08:24:43",
+        "Last_updated": "2021_06_09 12:48:18",
         "Contact_Number": "8754680378",
-        "Remarks": "096_2021"
+        "Remarks": "09_6_2021"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_09 09:06:07",
+        "Last_updated": "2021_06_09 12:41:11",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 090am 096_2021"
+        "Remarks": "Till 12_40am 096_2021"
     },
     {
         "S": {
@@ -12656,11 +12656,11 @@
         "District": "Chennai",
         "Institution": "Anand Hospital,Manali",
         "COVID_BEDS_Total": "14",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "12",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -12670,7 +12670,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_08 13:08:33",
+        "Last_updated": "2021_06_09 12:39:01",
         "Contact_Number": "9094006311",
         "Remarks": ""
     },
