@@ -1956,23 +1956,23 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "52",
-        "COVID_BEDS_Vacant": "358",
+        "COVID_BEDS_Occupied": "51",
+        "COVID_BEDS_Vacant": "359",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "32",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "337",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "338",
         "ICU_BEDS_Total": "16",
         "ICU_BEDS_Occupied": "8",
         "ICU_BEDS_Vacant": "8",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_10 16:59:47",
+        "Last_updated": "2021_06_10 18:58:40",
         "Contact_Number": "4430101111",
-        "Remarks": "10/06/2021 50pm"
+        "Remarks": "10/06/2021 6_55pm"
     },
     {
         "S": {
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_08 18:45:45",
+        "Last_updated": "2021_06_10 19:03:11",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 8/6/2020"
+        "Remarks": "Updated 10/6/2020"
     },
     {
         "S": {
@@ -8106,11 +8106,11 @@
         "District": "Kanyakumari",
         "Institution": "Thasiah Medical centre, Marthandam",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "21",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "23",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
@@ -8120,9 +8120,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_09 13:53:31",
+        "Last_updated": "2021_06_10 19:10:17",
         "Contact_Number": "9952249470",
-        "Remarks": "_"
+        "Remarks": ""
     },
     {
         "S": {
@@ -9031,11 +9031,11 @@
         "District": "Chengalpattu",
         "Institution": "Kasthuri Hospital , Thambaram",
         "COVID_BEDS_Total": "37",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "34",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "34",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "34",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "33",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -9045,9 +9045,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_10 07:34:12",
+        "Last_updated": "2021_06_10 18:57:49",
         "Contact_Number": "7299009287",
-        "Remarks": "10_06_2021, 09:00 AM"
+        "Remarks": "10_06_2021, 04:00 PM"
     },
     {
         "S": {
