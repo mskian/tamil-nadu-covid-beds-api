@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_11 09:40:47",
+        "Last_updated": "2021_06_11 13:38:06",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 07:29:32",
+        "Last_updated": "2021_06_11 14:19:30",
         "Contact_Number": "8870007450",
-        "Remarks": "116_2021 Morning report"
+        "Remarks": "116_2021 Evening report"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 09:44:16",
+        "Last_updated": "2021_06_11 13:55:21",
         "Contact_Number": "9842966662",
-        "Remarks": "11/06/2021 at 090 AM"
+        "Remarks": "11/06/2021 at 010 pM"
     },
     {
         "S": {
@@ -11456,21 +11456,21 @@
         "District": "Theni",
         "Institution": "Krishnammal Memorial hospital_",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "22",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "29",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 08:12:22",
+        "Last_updated": "2021_06_11 14:26:48",
         "Contact_Number": "9786629040",
         "Remarks": "Ok"
     },
