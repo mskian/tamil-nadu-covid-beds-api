@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 09:22:03",
+        "Last_updated": "2021_06_11 12:57:11",
         "Contact_Number": "8585858550",
-        "Remarks": "11_ 6_2021 9 AM"
+        "Remarks": "11_ 6_2021 1 PM"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_11 09:29:00",
+        "Last_updated": "2021_06_11 12:45:19",
         "Contact_Number": "8300017171",
-        "Remarks": "11/06/2021 @ 90 am"
+        "Remarks": "11/06/2021 @ 10 pm"
     },
     {
         "S": {
@@ -3381,21 +3381,21 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "80",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "67",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "68",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "38",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "25",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "25",
         "ICU_BEDS_Total": "10",
-        "ICU_BEDS_Occupied": "7",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_11 09:06:40",
+        "Last_updated": "2021_06_11 13:30:19",
         "Contact_Number": "8072738401",
         "Remarks": "Update"
     },
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 09:36:02",
+        "Last_updated": "2021_06_11 13:37:30",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 09:07:17",
+        "Last_updated": "2021_06_11 13:06:44",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 11_6_2021@9:10am"
+        "Remarks": "UPDATED 11_6_2021@1:10pm"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 08:37:48",
+        "Last_updated": "2021_06_11 13:32:13",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 08_30pm 116_2021"
+        "Remarks": "Till 01_30pm 126_2021"
     },
     {
         "S": {
@@ -11956,21 +11956,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Max Care Hospital, Annamalai Nagar",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "16",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "ICU_BEDS_Total": "3",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_10 13:00:11",
+        "Last_updated": "2021_06_11 13:18:58",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
