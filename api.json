@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 09:01:31",
+        "Last_updated": "2021_06_12 13:03:22",
         "Contact_Number": "8585858550",
-        "Remarks": "12_ 6_2021 9 AM"
+        "Remarks": "12_ 6_2021 1 PM l"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_11 22:43:50",
+        "Last_updated": "2021_06_12 12:56:50",
         "Contact_Number": "8300017171",
-        "Remarks": "11/06/2021 @ 10_30 pm"
+        "Remarks": "11/06/2021 @ 1 pm"
     },
     {
         "S": {
@@ -5006,21 +5006,21 @@
         "District": "Tirunelveli",
         "Institution": "Ponra Multispeciality Hospital",
         "COVID_BEDS_Total": "17",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "12",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "13",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_10 09:57:13",
+        "Last_updated": "2021_06_12 12:49:30",
         "Contact_Number": "8300508737",
         "Remarks": "__"
     },
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 10:32:09",
+        "Last_updated": "2021_06_12 13:10:58",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5331,21 +5331,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Dr_G_Viswanathan Hospital Mambalasalai",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "35",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "32",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "23",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "23",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_10 13:39:29",
+        "Last_updated": "2021_06_12 13:03:41",
         "Contact_Number": "9344270185",
         "Remarks": "NIL_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_12 11:00:03",
+        "Last_updated": "2021_06_12 13:11:30",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 10:16:01",
+        "Last_updated": "2021_06_12 13:05:16",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 12/06/2021 10_15 AM"
+        "Remarks": "Updated 12/06/2021 015PM"
     },
     {
         "S": {
@@ -7195,7 +7195,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_10 13:08:26",
+        "Last_updated": "2021_06_12 13:35:43",
         "Contact_Number": "9894136398",
         "Remarks": "Update"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 09:00:45",
+        "Last_updated": "2021_06_12 13:14:11",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 12_6_2021@9Am"
+        "Remarks": "UPDATED 12_6_2021@1pm"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 09:55:02",
+        "Last_updated": "2021_06_12 13:17:23",
         "Contact_Number": "9842966662",
-        "Remarks": "12/06/2021 at 090 AM"
+        "Remarks": "12/06/2021 at 010 PM"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 12:17:31",
+        "Last_updated": "2021_06_12 13:30:56",
         "Contact_Number": "6382253140",
-        "Remarks": "12_17PM"
+        "Remarks": "1pm"
     },
     {
         "S": {
