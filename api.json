@@ -7031,8 +7031,8 @@
         "District": "Madurai",
         "Institution": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "43",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "42",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -7040,12 +7040,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "33",
-        "ICU_BEDS_Occupied": "5",
-        "ICU_BEDS_Vacant": "28",
+        "ICU_BEDS_Occupied": "6",
+        "ICU_BEDS_Vacant": "27",
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_12 09:20:00",
+        "Last_updated": "2021_06_12 11:45:04",
         "Contact_Number": "9003900349",
         "Remarks": "12_06_2021"
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 07:42:45",
+        "Last_updated": "2021_06_12 12:27:04",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 07_30pm 126_2021"
+        "Remarks": "Till 12_30pm 126_2021"
     },
     {
         "S": {
@@ -12081,11 +12081,11 @@
         "District": "Thoothukudi",
         "Institution": "Sasi Hospital, Kovilpatti",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "12",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 15:59:08",
+        "Last_updated": "2021_06_12 12:17:31",
         "Contact_Number": "6382253140",
-        "Remarks": "4pm"
+        "Remarks": "12_17PM"
     },
     {
         "S": {
@@ -13420,8 +13420,8 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_11 10:43:31",
-        "Contact_Number": "7338779408",
+        "Last_updated": "2021_06_12 12:06:20",
+        "Contact_Number": "7604844496",
         "Remarks": ""
     },
     {
