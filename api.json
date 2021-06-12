@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 13:03:22",
+        "Last_updated": "2021_06_12 16:04:46",
         "Contact_Number": "8585858550",
-        "Remarks": "12_ 6_2021 1 PM l"
+        "Remarks": "12_ 6_2021 4 PM"
     },
     {
         "S": {
@@ -2656,21 +2656,21 @@
         "District": "Dindigul",
         "Institution": "Leonard Hospital",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "23",
-        "COVID_BEDS_Vacant": "77",
+        "COVID_BEDS_Occupied": "21",
+        "COVID_BEDS_Vacant": "79",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "13",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "77",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "79",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 08:08:43",
+        "Last_updated": "2021_06_12 15:47:48",
         "Contact_Number": "8754680378",
         "Remarks": "126_2021"
     },
@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "80",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "69",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "68",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "38",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "25",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "25",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_12 14:44:57",
+        "Last_updated": "2021_06_12 16:31:20",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 13:10:58",
+        "Last_updated": "2021_06_12 16:18:20",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_12 13:11:30",
+        "Last_updated": "2021_06_12 16:19:03",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6130,22 +6130,22 @@
         },
         "District": "Dindigul",
         "Institution": "JCB Hospitals Palani Road,",
-        "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "60",
-        "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "58",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "58",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "COVID_BEDS_Total": "50",
+        "COVID_BEDS_Occupied": "43",
+        "COVID_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Total": "48",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "41",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
-        "VENTILATOR_Total": "2",
+        "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_12 07:19:05",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_06_12 15:48:28",
         "Contact_Number": "9150758413",
         "Remarks": "126_2021"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 13:05:16",
+        "Last_updated": "2021_06_12 16:33:56",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 12/06/2021 015PM"
+        "Remarks": "Updated 12/06/2021 04_33PM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 13:14:11",
+        "Last_updated": "2021_06_12 16:02:26",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 12_6_2021@1pm"
+        "Remarks": "UPDATED 12_6_2021@4pm"
     },
     {
         "S": {
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 09:43:18",
+        "Last_updated": "2021_06_12 16:02:29",
         "Contact_Number": "9842399300",
-        "Remarks": "nill"
+        "Remarks": "NILL"
     },
     {
         "S": {
