@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "12",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_13 09:33:36",
+        "Last_updated": "2021_06_13 17:53:31",
         "Contact_Number": "7824821042",
         "Remarks": "136_2021"
     },
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 12:06:42",
+        "Last_updated": "2021_06_13 17:49:59",
         "Contact_Number": "8098011072",
-        "Remarks": "136_2021 / 120PM"
+        "Remarks": "136_2021 / 060PM"
     },
     {
         "S": {
@@ -11956,11 +11956,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Max Care Hospital, Annamalai Nagar",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "12",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
@@ -11970,7 +11970,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 10:25:03",
+        "Last_updated": "2021_06_13 17:53:24",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
