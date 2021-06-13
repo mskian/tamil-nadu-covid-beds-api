@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 13:07:05",
+        "Last_updated": "2021_06_13 15:57:07",
         "Contact_Number": "8585858550",
-        "Remarks": "13_ 6_2021 1 PM"
+        "Remarks": "13_ 6_2021 4 PM"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_13 13:58:50",
+        "Last_updated": "2021_06_13 16:12:51",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 13:06:49",
+        "Last_updated": "2021_06_13 16:01:26",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_13 13:07:28",
+        "Last_updated": "2021_06_13 16:02:34",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 09:29:29",
+        "Last_updated": "2021_06_13 16:25:39",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 13/06/2021 09_29AM"
+        "Remarks": "Updated 13/06/2021 04_25PM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 13:01:03",
+        "Last_updated": "2021_06_13 16:01:21",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 13/06/2021 13:00"
+        "Remarks": "UPDATED TILL 13/06/2021 16:00"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 08:59:30",
+        "Last_updated": "2021_06_13 16:14:49",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 13_6_2021@9Am"
+        "Remarks": "UPDATED 13_6_2021@4pm"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 08:56:19",
+        "Last_updated": "2021_06_13 16:09:07",
         "Contact_Number": "9940632392",
-        "Remarks": "13/06/2021"
+        "Remarks": "13/06/2021 4_10 pm"
     },
     {
         "S": {
@@ -12156,11 +12156,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Silverline Speciality Hospital, Thillai Nagar",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "12",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 09:01:51",
+        "Last_updated": "2021_06_13 15:50:07",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
