@@ -1956,23 +1956,23 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "39",
-        "COVID_BEDS_Vacant": "371",
+        "COVID_BEDS_Occupied": "38",
+        "COVID_BEDS_Vacant": "372",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "26",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "338",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "339",
         "ICU_BEDS_Total": "16",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "14",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 13:02:29",
+        "Last_updated": "2021_06_13 15:07:34",
         "Contact_Number": "4430101111",
-        "Remarks": "13/06/2021 01:07 Pm"
+        "Remarks": "13/06/2021 03:07 Pm"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_13 07:19:22",
+        "Last_updated": "2021_06_13 14:53:48",
         "Contact_Number": "9150758413",
-        "Remarks": "136_2021"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 06:59:07",
+        "Last_updated": "2021_06_13 14:42:52",
         "Contact_Number": "8870007450",
-        "Remarks": "136_2021 Morning report"
+        "Remarks": "136_2021 Evening report"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 10:23:26",
+        "Last_updated": "2021_06_13 15:37:25",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 100am 136_2021"
+        "Remarks": "Till 030am 136_2021"
     },
     {
         "S": {
