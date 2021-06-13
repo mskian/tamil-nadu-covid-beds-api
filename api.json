@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "80",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "68",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "67",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "38",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "37",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "25",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "25",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_12 16:31:20",
+        "Last_updated": "2021_06_13 08:12:18",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -5455,22 +5455,22 @@
         },
         "District": "Vellore",
         "Institution": "Christian Medical College",
-        "COVID_BEDS_Total": "629",
-        "COVID_BEDS_Occupied": "604",
-        "COVID_BEDS_Vacant": "25",
-        "OXYGEN_SUPPORTED_BEDS_Total": "462",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "437",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
+        "COVID_BEDS_Total": "607",
+        "COVID_BEDS_Occupied": "517",
+        "COVID_BEDS_Vacant": "90",
+        "OXYGEN_SUPPORTED_BEDS_Total": "440",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "353",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "87",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "167",
-        "ICU_BEDS_Occupied": "167",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "164",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "74",
         "VENTILATOR_Occupied": "74",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 15:17:34",
+        "Last_updated": "2021_06_13 08:29:22",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7045,9 +7045,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_12 11:45:04",
+        "Last_updated": "2021_06_13 08:28:50",
         "Contact_Number": "9003900349",
-        "Remarks": "12_06_2021"
+        "Remarks": "13_06_2021"
     },
     {
         "S": {
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_12 09:48:06",
+        "Last_updated": "2021_06_13 08:19:11",
         "Contact_Number": "7092820884",
-        "Remarks": "12/06/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "13/06/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "47",
-        "COVID_BEDS_Vacant": "38",
+        "COVID_BEDS_Occupied": "43",
+        "COVID_BEDS_Vacant": "42",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "39",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "35",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_12 09:15:52",
+        "Last_updated": "2021_06_13 08:18:07",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 22 Suspected: 28 Updated"
+        "Remarks": "Covid Positive : 16 Suspected: 27 Updated"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 08:30:45",
+        "Last_updated": "2021_06_13 08:24:38",
         "Contact_Number": "7871081082",
-        "Remarks": "126_2021"
+        "Remarks": "136_2021"
     },
     {
         "S": {
