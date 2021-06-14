@@ -1995,9 +1995,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 16:41:41",
+        "Last_updated": "2021_06_14 10:27:02",
         "Contact_Number": "8903573717",
-        "Remarks": "13/06/2021"
+        "Remarks": "14/06/2021"
     },
     {
         "S": {
@@ -2381,8 +2381,8 @@
         "District": "Coimbatore",
         "Institution": "Kongunad Hospital",
         "COVID_BEDS_Total": "295",
-        "COVID_BEDS_Occupied": "267",
-        "COVID_BEDS_Vacant": "28",
+        "COVID_BEDS_Occupied": "268",
+        "COVID_BEDS_Vacant": "27",
         "OXYGEN_SUPPORTED_BEDS_Total": "165",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "155",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -2390,12 +2390,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "85",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "ICU_BEDS_Total": "30",
-        "ICU_BEDS_Occupied": "27",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "28",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "20",
-        "VENTILATOR_Occupied": "18",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_12 09:26:31",
+        "VENTILATOR_Occupied": "20",
+        "VENTILATOR_Vacant": "0",
+        "Last_updated": "2021_06_14 09:40:49",
         "Contact_Number": "7094316000",
         "Remarks": ""
     },
@@ -3320,9 +3320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 10:15:20",
+        "Last_updated": "2021_06_14 09:43:53",
         "Contact_Number": "7402733320",
-        "Remarks": "N"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -4431,21 +4431,21 @@
         "District": "Salem",
         "Institution": "Kauvery Hospital, Salem",
         "COVID_BEDS_Total": "150",
-        "COVID_BEDS_Occupied": "131",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "116",
+        "COVID_BEDS_Vacant": "34",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "43",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "40",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "86",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "74",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "62",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "24",
         "ICU_BEDS_Total": "14",
         "ICU_BEDS_Occupied": "14",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "10",
-        "VENTILATOR_Occupied": "7",
-        "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_12 17:17:25",
+        "VENTILATOR_Occupied": "6",
+        "VENTILATOR_Vacant": "4",
+        "Last_updated": "2021_06_14 10:16:25",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -5206,11 +5206,11 @@
         "District": "Thiruchirappalli",
         "Institution": "G V N Hospital Pvt Ltd",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "20",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "19",
+        "COVID_BEDS_Vacant": "1",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 16:01:26",
+        "Last_updated": "2021_06_14 09:42:31",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "22",
-        "COVID_BEDS_Vacant": "11",
+        "COVID_BEDS_Occupied": "24",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "20",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,9 +5370,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_13 16:02:34",
+        "Last_updated": "2021_06_14 09:52:04",
         "Contact_Number": "9095505550",
-        "Remarks": "nil"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 16:01:21",
+        "Last_updated": "2021_06_14 09:45:23",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 13/06/2021 16:00"
+        "Remarks": "UPDATED TILL 14/06/2021 090:00"
     },
     {
         "S": {
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 09:00:02",
+        "Last_updated": "2021_06_14 09:46:48",
         "Contact_Number": "9600240521",
-        "Remarks": "13/06/2021"
+        "Remarks": "14/06/2021"
     },
     {
         "S": {
@@ -8620,9 +8620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_06 08:56:42",
+        "Last_updated": "2021_06_14 10:18:56",
         "Contact_Number": "9500967789",
-        "Remarks": "056_2021"
+        "Remarks": "146_2021"
     },
     {
         "S": {
@@ -9895,9 +9895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 12:39:58",
+        "Last_updated": "2021_06_14 10:32:34",
         "Contact_Number": "9524241241",
-        "Remarks": "Positive cases_ 10"
+        "Remarks": "Positive cases_ 9"
     },
     {
         "S": {
@@ -12156,11 +12156,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Silverline Speciality Hospital, Thillai Nagar",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 15:50:07",
+        "Last_updated": "2021_06_14 09:57:22",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
