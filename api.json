@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 09:01:57",
+        "Last_updated": "2021_06_14 13:06:27",
         "Contact_Number": "8585858550",
-        "Remarks": "14_ 6_2021 9 am"
+        "Remarks": "14_ 6_2021 1 pm"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_14 08:50:53",
+        "Last_updated": "2021_06_14 13:20:46",
         "Contact_Number": "8300017171",
-        "Remarks": "14/06/2021 @ 9 am"
+        "Remarks": "14/06/2021 @ 1 pm"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 09:42:31",
+        "Last_updated": "2021_06_14 13:28:41",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5256,11 +5256,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Maruti Hospital",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "59",
-        "COVID_BEDS_Vacant": "27",
+        "COVID_BEDS_Occupied": "60",
+        "COVID_BEDS_Vacant": "26",
         "OXYGEN_SUPPORTED_BEDS_Total": "54",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "41",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "42",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "14",
@@ -5270,9 +5270,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 09:27:33",
+        "Last_updated": "2021_06_14 13:08:36",
         "Contact_Number": "9944920163",
-        "Remarks": "Update done"
+        "Remarks": "Update done__"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_14 09:52:04",
+        "Last_updated": "2021_06_14 13:29:08",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 09:45:23",
+        "Last_updated": "2021_06_14 13:01:44",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 14/06/2021 090:00"
+        "Remarks": "UPDATED TILL 14/06/2021 13:00"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 08:51:23",
+        "Last_updated": "2021_06_14 13:01:00",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 14_6_2021@9Am"
+        "Remarks": "UPDATED 14_6_2021@1PM"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 11:08:48",
+        "Last_updated": "2021_06_14 13:19:37",
         "Contact_Number": "9842966662",
-        "Remarks": "14/06/2021 at 090 AM"
+        "Remarks": "14/06/2021 at 010 PM"
     },
     {
         "S": {
