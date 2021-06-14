@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 08:54:52",
+        "Last_updated": "2021_06_14 11:15:43",
         "Contact_Number": "4430101111",
-        "Remarks": "14/06/2021 8_55 am"
+        "Remarks": "14/06/2021 10_15 am"
     },
     {
         "S": {
@@ -6031,23 +6031,23 @@
         "District": "Chengalpattu",
         "Institution": "Parvathy Hospital Chrompet,",
         "COVID_BEDS_Total": "76",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "60",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "62",
         "OXYGEN_SUPPORTED_BEDS_Total": "43",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "26",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "21",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "ICU_BEDS_Total": "7",
         "ICU_BEDS_Occupied": "7",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 10:08:25",
+        "Last_updated": "2021_06_14 10:43:47",
         "Contact_Number": "7825830723",
-        "Remarks": "13/05/2021"
+        "Remarks": "14/05/2021"
     },
     {
         "S": {
@@ -8106,23 +8106,23 @@
         "District": "Kanyakumari",
         "Institution": "Thasiah Medical centre, Marthandam",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "23",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "25",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_10 19:10:17",
+        "Last_updated": "2021_06_14 10:43:24",
         "Contact_Number": "9952249470",
-        "Remarks": ""
+        "Remarks": "_"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 17:38:08",
+        "Last_updated": "2021_06_14 11:08:48",
         "Contact_Number": "9842966662",
-        "Remarks": "12/06/2021 at 040 PM"
+        "Remarks": "14/06/2021 at 090 AM"
     },
     {
         "S": {
