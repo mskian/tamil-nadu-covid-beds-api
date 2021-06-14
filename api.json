@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 10:34:20",
+        "Last_updated": "2021_06_14 12:06:40",
         "Contact_Number": "6379350953",
-        "Remarks": "June 13th @ 9:00 AM"
+        "Remarks": "June 14th @ 9:00 AM"
     },
     {
         "S": {
@@ -3720,9 +3720,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 09:46:13",
+        "Last_updated": "2021_06_14 12:37:40",
         "Contact_Number": "9488755241",
-        "Remarks": "nil"
+        "Remarks": ""
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 08:24:38",
+        "Last_updated": "2021_06_14 11:39:39",
         "Contact_Number": "7871081082",
-        "Remarks": "136_2021"
+        "Remarks": "146_2021"
     },
     {
         "S": {
@@ -12795,9 +12795,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 09:11:13",
+        "Last_updated": "2021_06_14 12:18:45",
         "Contact_Number": "9965530302",
-        "Remarks": "136_2021"
+        "Remarks": "146_2021"
     },
     {
         "S": {
@@ -14056,11 +14056,11 @@
         "District": "Kanyakumari",
         "Institution": "William Hospital,Nagercoil",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "8",
         "OXYGEN_SUPPORTED_BEDS_Total": "9",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_12 21:12:27",
+        "Last_updated": "2021_06_14 12:38:03",
         "Contact_Number": "9597221977",
         "Remarks": "_"
     },
