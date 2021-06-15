@@ -8106,23 +8106,23 @@
         "District": "Kanyakumari",
         "Institution": "Thasiah Medical centre, Marthandam",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "27",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "28",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_14 19:46:28",
+        "Last_updated": "2021_06_15 18:46:16",
         "Contact_Number": "9952249470",
-        "Remarks": ""
+        "Remarks": "_"
     },
     {
         "S": {
@@ -11820,7 +11820,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 09:24:05",
+        "Last_updated": "2021_06_15 18:42:39",
         "Contact_Number": "8098011072",
         "Remarks": "156_2021"
     },
