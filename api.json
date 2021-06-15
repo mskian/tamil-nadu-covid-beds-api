@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 09:51:15",
+        "Last_updated": "2021_06_15 12:17:02",
         "Contact_Number": "4430101111",
-        "Remarks": "15/06/2021 09_41 AM"
+        "Remarks": "15/06/2021 12_16 PM"
     },
     {
         "S": {
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 16:46:27",
+        "Last_updated": "2021_06_15 12:14:25",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 14/6/2020"
+        "Remarks": "Updated 15/6/2020"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 08:07:38",
+        "Last_updated": "2021_06_15 12:35:51",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 080am 156_2021"
+        "Remarks": "Till 12_30pm 156_2021"
     },
     {
         "S": {
@@ -9881,21 +9881,21 @@
         "District": "Thanjavur",
         "Institution": "National pharma",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "14",
-        "COVID_BEDS_Vacant": "36",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "40",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "43",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "36",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 10:32:34",
+        "Last_updated": "2021_06_15 11:45:01",
         "Contact_Number": "9524241241",
         "Remarks": "Positive cases_ 9"
     },
@@ -11480,22 +11480,22 @@
         },
         "District": "Tiruppur",
         "Institution": "Sri Kumaran Hospital",
-        "COVID_BEDS_Total": "160",
-        "COVID_BEDS_Occupied": "94",
-        "COVID_BEDS_Vacant": "66",
-        "OXYGEN_SUPPORTED_BEDS_Total": "100",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "60",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "32",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "22",
-        "ICU_BEDS_Total": "28",
-        "ICU_BEDS_Occupied": "24",
-        "ICU_BEDS_Vacant": "4",
+        "COVID_BEDS_Total": "104",
+        "COVID_BEDS_Occupied": "74",
+        "COVID_BEDS_Vacant": "30",
+        "OXYGEN_SUPPORTED_BEDS_Total": "65",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "47",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "14",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "ICU_BEDS_Total": "25",
+        "ICU_BEDS_Occupied": "20",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_12 16:02:29",
+        "Last_updated": "2021_06_15 12:36:27",
         "Contact_Number": "9842399300",
         "Remarks": "NILL"
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 08:01:33",
+        "Last_updated": "2021_06_15 12:41:29",
         "Contact_Number": "6382253140",
-        "Remarks": "8am"
+        "Remarks": "12_41pm"
     },
     {
         "S": {
