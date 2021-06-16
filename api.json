@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_16 09:49:28",
+        "Last_updated": "2021_06_16 12:26:52",
         "Contact_Number": "4430101111",
-        "Remarks": "16/06/2021 09_45 AM"
+        "Remarks": "16/06/2021 12_25 PM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 16:10:19",
+        "Last_updated": "2021_06_16 11:53:37",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 15/06/2021 16:00"
+        "Remarks": "UPDATED TILL 16/06/2021 9:00"
     },
     {
         "S": {
@@ -8620,9 +8620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 10:18:56",
+        "Last_updated": "2021_06_16 12:20:13",
         "Contact_Number": "9500967789",
-        "Remarks": "146_2021"
+        "Remarks": "166_2021"
     },
     {
         "S": {
@@ -9481,21 +9481,21 @@
         "District": "Salem",
         "Institution": "RK hospital",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "15",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 13:08:58",
+        "Last_updated": "2021_06_16 12:26:47",
         "Contact_Number": "7373004777",
         "Remarks": "Here with Updating our Hospital bed details"
     },
