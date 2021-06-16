@@ -470,9 +470,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_27 14:38:57",
+        "Last_updated": "2021_06_16 17:13:51",
         "Contact_Number": "9551841153",
-        "Remarks": "today report 27/05/2021"
+        "Remarks": "today report 16/06/2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 13:08:04",
+        "Last_updated": "2021_06_16 17:14:50",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 16_6_2021@1PM"
+        "Remarks": "UPDATED 16_6_2021@4PM"
     },
     {
         "S": {
@@ -12156,11 +12156,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Silverline Speciality Hospital, Thillai Nagar",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "17",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "18",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 09:41:51",
+        "Last_updated": "2021_06_16 16:50:13",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
