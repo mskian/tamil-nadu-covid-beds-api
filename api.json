@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_16 15:16:52",
+        "Last_updated": "2021_06_16 18:02:07",
         "Contact_Number": "4430101111",
-        "Remarks": "16/06/2021 03_15 PM"
+        "Remarks": "16/06/2021 062 PM"
     },
     {
         "S": {
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 12:14:25",
+        "Last_updated": "2021_06_16 18:10:27",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 15/6/2020"
+        "Remarks": "Updated 16/6/2020"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 07:36:10",
+        "Last_updated": "2021_06_16 18:49:40",
         "Contact_Number": "9940632392",
-        "Remarks": "16/06/2021 16/06/2021"
+        "Remarks": "16/06/2021"
     },
     {
         "S": {
@@ -9031,8 +9031,8 @@
         "District": "Chengalpattu",
         "Institution": "Kasthuri Hospital , Thambaram",
         "COVID_BEDS_Total": "37",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "34",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "36",
         "OXYGEN_SUPPORTED_BEDS_Total": "34",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "34",
@@ -9040,14 +9040,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "3",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "3",
-        "VENTILATOR_Occupied": "1",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_12 10:08:16",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_06_16 17:44:55",
         "Contact_Number": "7299009287",
-        "Remarks": "12_06_2021, 09:00 AM"
+        "Remarks": "16_06_2021, 04:00 AM"
     },
     {
         "S": {
@@ -14056,11 +14056,11 @@
         "District": "Kanyakumari",
         "Institution": "William Hospital,Nagercoil",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "9",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_15 16:18:27",
+        "Last_updated": "2021_06_16 18:22:30",
         "Contact_Number": "9597221977",
         "Remarks": "_"
     },
