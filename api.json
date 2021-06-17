@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 10:55:45",
+        "Last_updated": "2021_06_17 11:30:48",
         "Contact_Number": "6379350953",
-        "Remarks": "June 16th @ 9:00 AM"
+        "Remarks": "June 17th @ 9:00 AM"
     },
     {
         "S": {
@@ -556,21 +556,21 @@
         "District": "Chennai",
         "Institution": "CSI Kalyani General Hospital",
         "COVID_BEDS_Total": "110",
-        "COVID_BEDS_Occupied": "58",
-        "COVID_BEDS_Vacant": "52",
+        "COVID_BEDS_Occupied": "50",
+        "COVID_BEDS_Vacant": "60",
         "OXYGEN_SUPPORTED_BEDS_Total": "35",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "35",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "65",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "13",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "52",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "15",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "10",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 10:03:10",
+        "Last_updated": "2021_06_17 10:45:35",
         "Contact_Number": "8667243945",
         "Remarks": "17/06/21"
     },
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_17 09:31:06",
+        "Last_updated": "2021_06_17 11:17:48",
         "Contact_Number": "4430101111",
-        "Remarks": "17/06/2021 09_35 AM"
+        "Remarks": "17/06/2021 11_18 AM"
     },
     {
         "S": {
