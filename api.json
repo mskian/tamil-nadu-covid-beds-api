@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_17 11:17:48",
+        "Last_updated": "2021_06_17 15:23:01",
         "Contact_Number": "4430101111",
-        "Remarks": "17/06/2021 11_18 AM"
+        "Remarks": "17/06/2021 03_22 PM"
     },
     {
         "S": {
@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "36",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "26",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "29",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_17 09:03:26",
+        "Last_updated": "2021_06_17 15:06:57",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -5945,9 +5945,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 16:31:16",
+        "Last_updated": "2021_06_17 15:20:05",
         "Contact_Number": "9884850982",
-        "Remarks": "Date 16/06/2021"
+        "Remarks": "Date 17/06/2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_17 06:57:34",
+        "Last_updated": "2021_06_17 14:54:08",
         "Contact_Number": "9150758413",
-        "Remarks": "176_2021"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 07:03:58",
+        "Last_updated": "2021_06_17 15:15:22",
         "Contact_Number": "8870007450",
-        "Remarks": "176_2021 Morning report"
+        "Remarks": "176_2021 Evening report"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 09:09:50",
+        "Last_updated": "2021_06_17 14:54:50",
         "Contact_Number": "9842966662",
-        "Remarks": "17/06/2021 at 090 AM"
+        "Remarks": "17/06/2021 at 010 PM"
     },
     {
         "S": {
@@ -11456,11 +11456,11 @@
         "District": "Theni",
         "Institution": "Krishnammal Memorial hospital_",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "27",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -11470,7 +11470,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 06:19:16",
+        "Last_updated": "2021_06_17 14:48:28",
         "Contact_Number": "9786629040",
         "Remarks": "Ok"
     },
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 13:55:36",
+        "Last_updated": "2021_06_17 14:54:41",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
