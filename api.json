@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 16:01:16",
+        "Last_updated": "2021_06_18 13:08:42",
         "Contact_Number": "8585858550",
-        "Remarks": "17_ 6_2021 4 pm"
+        "Remarks": "18_ 6_2021 1pm"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_18 08:46:45",
+        "Last_updated": "2021_06_18 13:04:11",
         "Contact_Number": "8300017171",
-        "Remarks": "18/06/2021 @ 8 am"
+        "Remarks": "18/06/2021 @ 1 pm"
     },
     {
         "S": {
@@ -2656,23 +2656,23 @@
         "District": "Dindigul",
         "Institution": "Leonard Hospital",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "83",
+        "COVID_BEDS_Occupied": "16",
+        "COVID_BEDS_Vacant": "84",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "90",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "80",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "81",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 08:29:43",
+        "Last_updated": "2021_06_18 12:58:58",
         "Contact_Number": "8754680378",
-        "Remarks": "176_2021"
+        "Remarks": "186_2021"
     },
     {
         "S": {
@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "36",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 10:06:17",
+        "Last_updated": "2021_06_18 13:35:10",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -5206,21 +5206,21 @@
         "District": "Thiruchirappalli",
         "Institution": "G V N Hospital Pvt Ltd",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 09:19:11",
+        "Last_updated": "2021_06_18 13:07:32",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_18 09:41:12",
+        "Last_updated": "2021_06_18 13:08:11",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 09:05:28",
+        "Last_updated": "2021_06_18 13:00:38",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 18/06/2021 9:00"
+        "Remarks": "UPDATED TILL 18/06/2021 13:00"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 09:00:06",
+        "Last_updated": "2021_06_18 13:11:18",
         "Contact_Number": "7397591935",
-        "Remarks": "UPDATED 18_6_2021@9AM"
+        "Remarks": "UPDATED 18_6_2021@1:10pM"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 07:52:55",
+        "Last_updated": "2021_06_18 12:56:52",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 07_45am 186_2021"
+        "Remarks": "Till 12_45am 186_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 10:10:56",
+        "Last_updated": "2021_06_18 13:08:46",
         "Contact_Number": "9842966662",
-        "Remarks": "18/06/2021 at 090 AM"
+        "Remarks": "18/06/2021 at 010 PM"
     },
     {
         "S": {
@@ -12081,8 +12081,8 @@
         "District": "Thoothukudi",
         "Institution": "Sasi Hospital, Kovilpatti",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "23",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "24",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
@@ -12090,14 +12090,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "2",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 08:05:23",
+        "Last_updated": "2021_06_18 12:56:45",
         "Contact_Number": "6382253140",
-        "Remarks": "8am"
+        "Remarks": "1pm"
     },
     {
         "S": {
