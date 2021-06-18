@@ -1981,23 +1981,23 @@
         "District": "Chennai",
         "Institution": "The Guest Hospital, Kilpauk",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "10",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "12",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 08:25:40",
+        "Last_updated": "2021_06_18 08:15:05",
         "Contact_Number": "8903573717",
-        "Remarks": "17/06/2021"
+        "Remarks": "18/06/2021"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_16 07:28:14",
+        "Last_updated": "2021_06_18 07:54:15",
         "Contact_Number": "9442667069",
-        "Remarks": "166_21"
+        "Remarks": "SRI HOSPITALS"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 07:58:14",
+        "Last_updated": "2021_06_18 08:15:14",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 17_06_2021"
+        "Remarks": "updated 18_06_2021"
     },
     {
         "S": {
@@ -7006,11 +7006,11 @@
         "District": "Madurai",
         "Institution": "Grace Kennett Foundation Hospital, Kennett Road",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "7",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -7018,11 +7018,11 @@
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "2",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 08:46:47",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_06_18 08:32:19",
         "Contact_Number": "9943450401",
-        "Remarks": "ADMISSION _ 3"
+        "Remarks": "NO CHANGE"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "41",
-        "COVID_BEDS_Vacant": "44",
+        "COVID_BEDS_Occupied": "38",
+        "COVID_BEDS_Vacant": "47",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "34",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "31",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_17 08:32:40",
+        "Last_updated": "2021_06_18 08:17:54",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 16 Suspected: 25 Updated"
+        "Remarks": "Covid Positive : 15 Suspected: 23 Updated"
     },
     {
         "S": {
@@ -8256,23 +8256,23 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "74",
-        "COVID_BEDS_Vacant": "26",
+        "COVID_BEDS_Occupied": "72",
+        "COVID_BEDS_Vacant": "28",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "35",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "34",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "25",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "24",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "ICU_BEDS_Total": "15",
         "ICU_BEDS_Occupied": "14",
         "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 05:54:28",
+        "Last_updated": "2021_06_18 07:32:20",
         "Contact_Number": "9600240521",
-        "Remarks": "17/06/2021"
+        "Remarks": "18/06/2021"
     },
     {
         "S": {
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "34",
-        "COVID_BEDS_Vacant": "106",
+        "COVID_BEDS_Occupied": "31",
+        "COVID_BEDS_Vacant": "109",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "65",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "67",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "ICU_BEDS_Total": "27",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "21",
+        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Vacant": "22",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_17 07:54:53",
+        "Last_updated": "2021_06_18 07:45:41",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
@@ -8481,11 +8481,11 @@
         "District": "Salem",
         "Institution": "Mohanraj Children's Hospital",
         "COVID_BEDS_Total": "70",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "61",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "63",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 16:21:36",
+        "Last_updated": "2021_06_18 07:52:55",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 040pm 176_2021"
+        "Remarks": "Till 07_45am 186_2021"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 07:39:29",
+        "Last_updated": "2021_06_18 08:40:18",
         "Contact_Number": "7871081082",
-        "Remarks": "176_2021"
+        "Remarks": "186_2021"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 15:51:03",
+        "Last_updated": "2021_06_18 08:05:23",
         "Contact_Number": "6382253140",
-        "Remarks": "4pm"
+        "Remarks": "8am"
     },
     {
         "S": {
