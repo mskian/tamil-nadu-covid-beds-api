@@ -256,11 +256,11 @@
         "District": "Chennai",
         "Institution": "Appasamy Hospital",
         "COVID_BEDS_Total": "68",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "63",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "64",
         "OXYGEN_SUPPORTED_BEDS_Total": "59",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "57",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "58",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 11:30:48",
+        "Last_updated": "2021_06_18 10:08:54",
         "Contact_Number": "6379350953",
-        "Remarks": "June 17th @ 9:00 AM"
+        "Remarks": "June 18th @ 9:00 AM"
     },
     {
         "S": {
@@ -1831,11 +1831,11 @@
         "District": "Chennai",
         "Institution": "Srinivas Priya Hospital Perambur",
         "COVID_BEDS_Total": "18",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "17",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -1845,9 +1845,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_15 10:22:42",
+        "Last_updated": "2021_06_18 10:27:52",
         "Contact_Number": "7550057577",
-        "Remarks": "156_2021"
+        "Remarks": "186_2021"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_18 08:42:51",
+        "Last_updated": "2021_06_18 09:56:10",
         "Contact_Number": "4430101111",
-        "Remarks": "18/06/2021 08_41AM"
+        "Remarks": "18/06/2021 09_55AM"
     },
     {
         "S": {
@@ -2381,21 +2381,21 @@
         "District": "Coimbatore",
         "Institution": "Kongunad Hospital",
         "COVID_BEDS_Total": "295",
-        "COVID_BEDS_Occupied": "147",
-        "COVID_BEDS_Vacant": "148",
+        "COVID_BEDS_Occupied": "144",
+        "COVID_BEDS_Vacant": "151",
         "OXYGEN_SUPPORTED_BEDS_Total": "165",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "102",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "63",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "100",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "65",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "100",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "78",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "79",
         "ICU_BEDS_Total": "30",
         "ICU_BEDS_Occupied": "23",
         "ICU_BEDS_Vacant": "7",
         "VENTILATOR_Total": "20",
         "VENTILATOR_Occupied": "19",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_17 12:44:12",
+        "Last_updated": "2021_06_18 10:20:03",
         "Contact_Number": "7094316000",
         "Remarks": ""
     },
@@ -3034,18 +3034,18 @@
         "COVID_BEDS_Occupied": "8",
         "COVID_BEDS_Vacant": "542",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "534",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "531",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "528",
         "ICU_BEDS_Total": "6",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "4",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "2",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 10:36:42",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "1",
+        "Last_updated": "2021_06_18 10:23:14",
         "Contact_Number": "8870209559",
         "Remarks": ""
     },
@@ -3320,9 +3320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 09:07:42",
+        "Last_updated": "2021_06_18 10:09:18",
         "Contact_Number": "7402733320",
-        "Remarks": "Nill"
+        "Remarks": "N"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 06:55:30",
+        "Last_updated": "2021_06_18 10:06:17",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "17",
+        "COVID_BEDS_Vacant": "16",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_17 15:46:27",
+        "Last_updated": "2021_06_18 09:41:12",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 18:46:40",
+        "Last_updated": "2021_06_18 09:47:04",
         "Contact_Number": "9940632392",
-        "Remarks": "17/06/2021"
+        "Remarks": "18/06/2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 21:44:22",
+        "Last_updated": "2021_06_18 10:10:56",
         "Contact_Number": "9842966662",
-        "Remarks": "17/06/2021 at 080 PM"
+        "Remarks": "18/06/2021 at 090 AM"
     },
     {
         "S": {
@@ -11968,9 +11968,9 @@
         "ICU_BEDS_Occupied": "1",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "1",
-        "VENTILATOR_Occupied": "1",
-        "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 16:08:30",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "1",
+        "Last_updated": "2021_06_18 09:50:41",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
