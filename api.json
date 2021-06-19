@@ -570,9 +570,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 13:40:12",
+        "Last_updated": "2021_06_19 09:58:21",
         "Contact_Number": "8667243945",
-        "Remarks": "18/06/21"
+        "Remarks": "19/06/21"
     },
     {
         "S": {
@@ -3281,11 +3281,11 @@
         "District": "Krishnagiri",
         "Institution": "Chandrasekara Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "43",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "40",
         "OXYGEN_SUPPORTED_BEDS_Total": "44",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "37",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
@@ -3295,7 +3295,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 10:40:13",
+        "Last_updated": "2021_06_19 10:31:56",
         "Contact_Number": "9655206585",
         "Remarks": "50"
     },
@@ -3320,9 +3320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 10:09:18",
+        "Last_updated": "2021_06_19 09:57:26",
         "Contact_Number": "7402733320",
-        "Remarks": "N"
+        "Remarks": "Nill"
     },
     {
         "S": {
@@ -3720,9 +3720,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 09:35:19",
+        "Last_updated": "2021_06_19 09:57:10",
         "Contact_Number": "9488755241",
-        "Remarks": ""
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5206,23 +5206,23 @@
         "District": "Thiruchirappalli",
         "Institution": "G V N Hospital Pvt Ltd",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "10",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "8",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 16:03:22",
+        "Last_updated": "2021_06_19 10:00:07",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5370,9 +5370,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_18 16:04:04",
+        "Last_updated": "2021_06_19 10:16:06",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 17:55:21",
+        "Last_updated": "2021_06_19 10:25:37",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 18/06/2021 18:00"
+        "Remarks": "UPDATED TILL 19/06/2021 9:00"
     },
     {
         "S": {
@@ -6906,11 +6906,11 @@
         "District": "Krishnagiri",
         "Institution": "Sri Chandrasekaran Hospital unit _2, Hosur",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "36",
-        "COVID_BEDS_Vacant": "54",
+        "COVID_BEDS_Occupied": "33",
+        "COVID_BEDS_Vacant": "57",
         "OXYGEN_SUPPORTED_BEDS_Total": "69",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "28",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "41",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
@@ -6920,7 +6920,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 10:40:58",
+        "Last_updated": "2021_06_19 10:30:38",
         "Contact_Number": "9655206592",
         "Remarks": "90 beds"
     },
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 09:47:04",
+        "Last_updated": "2021_06_19 09:55:23",
         "Contact_Number": "9940632392",
-        "Remarks": "18/06/2021"
+        "Remarks": "19/06/2021"
     },
     {
         "S": {
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 16:02:48",
+        "Last_updated": "2021_06_19 10:19:54",
         "Contact_Number": "9842399300",
-        "Remarks": "nill"
+        "Remarks": "NILL"
     },
     {
         "S": {
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 11:16:51",
+        "Last_updated": "2021_06_19 10:02:12",
         "Contact_Number": "8098011072",
-        "Remarks": "186_2021"
+        "Remarks": "196_2021"
     },
     {
         "S": {
@@ -11956,11 +11956,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Max Care Hospital, Annamalai Nagar",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "17",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
@@ -11970,7 +11970,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_18 16:24:09",
+        "Last_updated": "2021_06_19 10:17:34",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
@@ -12156,11 +12156,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Silverline Speciality Hospital, Thillai Nagar",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "18",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "23",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_17 10:13:20",
+        "Last_updated": "2021_06_19 10:09:52",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
@@ -12795,9 +12795,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 09:18:04",
+        "Last_updated": "2021_06_19 09:53:16",
         "Contact_Number": "9965530302",
-        "Remarks": "166_2021"
+        "Remarks": "196_2021"
     },
     {
         "S": {
