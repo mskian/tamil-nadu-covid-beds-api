@@ -3380,8 +3380,8 @@
         },
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
-        "COVID_BEDS_Total": "36",
-        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Total": "35",
+        "COVID_BEDS_Occupied": "4",
         "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
@@ -3389,13 +3389,13 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "6",
-        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Total": "5",
+        "ICU_BEDS_Occupied": "4",
         "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 07:10:24",
+        "Last_updated": "2021_06_19 15:19:05",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_19 07:17:01",
+        "Last_updated": "2021_06_19 15:07:48",
         "Contact_Number": "9150758413",
-        "Remarks": "196_2021"
+        "Remarks": "19_6_2021"
     },
     {
         "S": {
