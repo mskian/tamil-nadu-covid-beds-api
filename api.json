@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_18 10:08:54",
+        "Last_updated": "2021_06_19 10:46:57",
         "Contact_Number": "6379350953",
-        "Remarks": "June 18th @ 9:00 AM"
+        "Remarks": "June 19th @ 9:00 AM"
     },
     {
         "S": {
@@ -13331,11 +13331,11 @@
         "District": "Chennai",
         "Institution": "KVT Health Centre",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "17",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -13345,7 +13345,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_08 13:15:38",
+        "Last_updated": "2021_06_19 11:20:35",
         "Contact_Number": "8807555777",
         "Remarks": ""
     },
