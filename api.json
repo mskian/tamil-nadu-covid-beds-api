@@ -181,11 +181,11 @@
         "District": "Chengalpattu",
         "Institution": "Deepam Hospitals, West Tambaram",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "14",
-        "COVID_BEDS_Vacant": "16",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "20",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_19 21:45:28",
+        "Last_updated": "2021_06_20 10:20:35",
         "Contact_Number": "8300017171",
-        "Remarks": "19/06/2021 @ 9 pm"
+        "Remarks": "20/06/2021 @ 10_30 am"
     },
     {
         "S": {
@@ -470,9 +470,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 17:13:51",
+        "Last_updated": "2021_06_20 10:38:01",
         "Contact_Number": "9551841153",
-        "Remarks": "today report 16/06/2021"
+        "Remarks": "today report 19/06/2021"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_20 08:42:27",
+        "Last_updated": "2021_06_20 09:51:49",
         "Contact_Number": "4430101111",
-        "Remarks": "19/06/2021 08_41 AM"
+        "Remarks": "19/06/2021 09_51 AM"
     },
     {
         "S": {
@@ -1995,9 +1995,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 17:26:43",
+        "Last_updated": "2021_06_20 09:58:38",
         "Contact_Number": "8903573717",
-        "Remarks": "19/06/2021"
+        "Remarks": "20/06/2021"
     },
     {
         "S": {
@@ -5206,23 +5206,23 @@
         "District": "Thiruchirappalli",
         "Institution": "G V N Hospital Pvt Ltd",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "8",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "14",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 15:58:23",
+        "Last_updated": "2021_06_20 09:57:16",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "16",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_19 16:02:42",
+        "Last_updated": "2021_06_20 10:07:13",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6306,11 +6306,11 @@
         "District": "Sivagangai",
         "Institution": "Devaki Multi Speciality Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "22",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "25",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 09:05:45",
+        "Last_updated": "2021_06_20 09:46:25",
         "Contact_Number": "7824950986",
-        "Remarks": "19_06_2021"
+        "Remarks": "20_06_2021"
     },
     {
         "S": {
@@ -7045,9 +7045,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_19 07:27:17",
+        "Last_updated": "2021_06_20 09:51:16",
         "Contact_Number": "9003900349",
-        "Remarks": "19_06_2021"
+        "Remarks": "20_06_2021"
     },
     {
         "S": {
@@ -8756,11 +8756,11 @@
         "District": "Chengalpattu",
         "Institution": "DAISY HOSPITAL,CHROMPET",
         "COVID_BEDS_Total": "14",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "12",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 09:55:23",
+        "Last_updated": "2021_06_20 10:11:09",
         "Contact_Number": "9940632392",
-        "Remarks": "19/06/2021"
+        "Remarks": "20/06/2021"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 09:25:32",
+        "Last_updated": "2021_06_20 10:24:04",
         "Contact_Number": "9843604611",
         "Remarks": "5 Active cases____"
     },
