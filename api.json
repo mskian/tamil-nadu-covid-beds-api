@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_20 10:20:35",
+        "Last_updated": "2021_06_20 14:07:59",
         "Contact_Number": "8300017171",
-        "Remarks": "20/06/2021 @ 10_30 am"
+        "Remarks": "20/06/2021 @ 2 pm"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 09:14:58",
+        "Last_updated": "2021_06_20 14:21:42",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 20/06/2021 09:00 AM"
+        "Remarks": "UPDATED TILL 20/06/2021 14:00 AM"
     },
     {
         "S": {
@@ -7356,11 +7356,11 @@
         "District": "Theni",
         "Institution": "Nalam Hospital, Allinagaram",
         "COVID_BEDS_Total": "12",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "12",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 07:30:10",
+        "Last_updated": "2021_06_20 13:59:54",
         "Contact_Number": "8870007450",
-        "Remarks": "206_2021 Morning report"
+        "Remarks": "206_2021 Evening report"
     },
     {
         "S": {
