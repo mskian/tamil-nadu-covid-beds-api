@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 07:43:43",
+        "Last_updated": "2021_06_20 07:29:53",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 196_2021"
+        "Remarks": "Updated on 206_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "71",
+        "COVID_BEDS_Occupied": "18",
+        "COVID_BEDS_Vacant": "72",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "71",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "72",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,9 +6545,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 07:49:29",
+        "Last_updated": "2021_06_20 07:13:58",
         "Contact_Number": "9659462722",
-        "Remarks": "Nil___"
+        "Remarks": "Nil____"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 13:53:41",
+        "Last_updated": "2021_06_20 07:30:10",
         "Contact_Number": "8870007450",
-        "Remarks": "196_2021 Evening report"
+        "Remarks": "206_2021 Morning report"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 07:44:32",
+        "Last_updated": "2021_06_20 07:29:30",
         "Contact_Number": "9487701007",
-        "Remarks": "196_2021"
+        "Remarks": "206_2021"
     },
     {
         "S": {
@@ -11456,11 +11456,11 @@
         "District": "Theni",
         "Institution": "Krishnammal Memorial hospital_",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -11470,7 +11470,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 06:53:04",
+        "Last_updated": "2021_06_20 07:03:03",
         "Contact_Number": "9786629040",
         "Remarks": "Ok"
     },
