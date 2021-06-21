@@ -255,12 +255,12 @@
         },
         "District": "Chennai",
         "Institution": "Appasamy Hospital",
-        "COVID_BEDS_Total": "68",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "67",
-        "OXYGEN_SUPPORTED_BEDS_Total": "59",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "59",
+        "COVID_BEDS_Total": "56",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "54",
+        "OXYGEN_SUPPORTED_BEDS_Total": "47",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_21 10:20:53",
+        "Last_updated": "2021_06_21 17:43:13",
         "Contact_Number": "6379350953",
-        "Remarks": "June 20th @ 9:00 AM"
+        "Remarks": "June 21st @ 5:00 PM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_21 15:26:23",
+        "Last_updated": "2021_06_21 18:02:24",
         "Contact_Number": "4430101111",
-        "Remarks": "21/06/2021 3_25 Pm"
+        "Remarks": "21/06/2021 6:01 Pm"
     },
     {
         "S": {
@@ -7031,11 +7031,11 @@
         "District": "Madurai",
         "Institution": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "39",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "37",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -7045,7 +7045,7 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_21 07:02:15",
+        "Last_updated": "2021_06_21 17:46:11",
         "Contact_Number": "9003900349",
         "Remarks": "21_06_2021"
     },
