@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_21 13:14:18",
+        "Last_updated": "2021_06_21 16:44:23",
         "Contact_Number": "8300017171",
-        "Remarks": "21/06/2021 @ 1 pm"
+        "Remarks": "21/06/2021 @ 4 pm"
     },
     {
         "S": {
@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "12",
         "VENTILATOR_Occupied": "12",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 09:35:24",
+        "Last_updated": "2021_06_21 16:42:23",
         "Contact_Number": "7824821042",
         "Remarks": "216_2021"
     },
@@ -3205,22 +3205,22 @@
         },
         "District": "Kanyakumari",
         "Institution": "Vasantham Health Centre",
-        "COVID_BEDS_Total": "75",
-        "COVID_BEDS_Occupied": "68",
-        "COVID_BEDS_Vacant": "7",
-        "OXYGEN_SUPPORTED_BEDS_Total": "25",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "33",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "26",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
-        "ICU_BEDS_Total": "17",
-        "ICU_BEDS_Occupied": "17",
-        "ICU_BEDS_Vacant": "0",
+        "COVID_BEDS_Total": "50",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "38",
+        "OXYGEN_SUPPORTED_BEDS_Total": "35",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "ICU_BEDS_Total": "10",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "7",
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_09 17:27:57",
+        "Last_updated": "2021_06_21 16:38:15",
         "Contact_Number": "9003200684",
         "Remarks": ""
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 13:34:06",
+        "Last_updated": "2021_06_21 17:05:00",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 21/06/2021 01_33 PM"
+        "Remarks": "Updated 21/06/2021 054 PM"
     },
     {
         "S": {
@@ -9895,9 +9895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 16:35:33",
+        "Last_updated": "2021_06_21 16:36:42",
         "Contact_Number": "9524241241",
-        "Remarks": "Positive cases_ 40"
+        "Remarks": "Positive cases_ 4"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "16",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "18",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "13",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 12:42:08",
+        "Last_updated": "2021_06_21 16:51:54",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
