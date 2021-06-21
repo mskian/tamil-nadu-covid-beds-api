@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_20 17:48:54",
+        "Last_updated": "2021_06_21 07:16:54",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_20 07:51:58",
+        "Last_updated": "2021_06_21 06:43:18",
         "Contact_Number": "9442667069",
-        "Remarks": "206_21"
+        "Remarks": "216_21"
     },
     {
         "S": {
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 07:29:53",
+        "Last_updated": "2021_06_21 07:04:32",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 206_2021"
+        "Remarks": "Updated on 216_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_20 14:59:24",
+        "Last_updated": "2021_06_21 07:16:46",
         "Contact_Number": "9150758413",
-        "Remarks": "20_6_2021"
+        "Remarks": "216_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "18",
-        "COVID_BEDS_Vacant": "72",
+        "COVID_BEDS_Occupied": "16",
+        "COVID_BEDS_Vacant": "74",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "72",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "74",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,9 +6545,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 07:13:58",
+        "Last_updated": "2021_06_21 07:12:55",
         "Contact_Number": "9659462722",
-        "Remarks": "Nil____"
+        "Remarks": "Nil___"
     },
     {
         "S": {
@@ -7045,9 +7045,9 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_20 09:51:16",
+        "Last_updated": "2021_06_21 07:02:15",
         "Contact_Number": "9003900349",
-        "Remarks": "20_06_2021"
+        "Remarks": "21_06_2021"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 13:59:54",
+        "Last_updated": "2021_06_21 07:25:16",
         "Contact_Number": "8870007450",
-        "Remarks": "206_2021 Evening report"
+        "Remarks": "216_2021 Morning report"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "40",
-        "COVID_BEDS_Vacant": "45",
+        "COVID_BEDS_Occupied": "32",
+        "COVID_BEDS_Vacant": "53",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "35",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "27",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_20 08:38:23",
+        "Last_updated": "2021_06_21 07:25:51",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 20 Suspected: 20 Updated"
+        "Remarks": "Covid Positive : 15 Suspected: 17 Updated"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 07:29:30",
+        "Last_updated": "2021_06_21 07:05:03",
         "Contact_Number": "9487701007",
-        "Remarks": "206_2021"
+        "Remarks": "Updated 216_2021"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 10:24:04",
+        "Last_updated": "2021_06_21 07:25:20",
         "Contact_Number": "9843604611",
         "Remarks": "5 Active cases____"
     },
