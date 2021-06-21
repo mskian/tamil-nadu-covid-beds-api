@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_21 09:50:06",
+        "Last_updated": "2021_06_21 13:08:25",
         "Contact_Number": "8585858550",
-        "Remarks": "21_ 6_2021 9AM"
+        "Remarks": "21_ 6_2021 1 PM"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_21 08:19:45",
+        "Last_updated": "2021_06_21 13:14:18",
         "Contact_Number": "8300017171",
-        "Remarks": "21/06/2021 @ 8 am"
+        "Remarks": "21/06/2021 @ 1 pm"
     },
     {
         "S": {
@@ -556,21 +556,21 @@
         "District": "Chennai",
         "Institution": "CSI Kalyani General Hospital",
         "COVID_BEDS_Total": "110",
-        "COVID_BEDS_Occupied": "38",
-        "COVID_BEDS_Vacant": "72",
+        "COVID_BEDS_Occupied": "48",
+        "COVID_BEDS_Vacant": "62",
         "OXYGEN_SUPPORTED_BEDS_Total": "35",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "23",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "65",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "60",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "15",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "10",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 09:17:05",
+        "Last_updated": "2021_06_21 13:20:51",
         "Contact_Number": "8667243945",
         "Remarks": "21/06/21"
     },
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 09:41:45",
+        "Last_updated": "2021_06_21 12:59:22",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_21 09:51:01",
+        "Last_updated": "2021_06_21 12:59:45",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 09:40:49",
+        "Last_updated": "2021_06_21 13:34:06",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 21/06/2021 09_40 AM"
+        "Remarks": "Updated 21/06/2021 01_33 PM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 09:01:02",
+        "Last_updated": "2021_06_21 13:08:03",
         "Contact_Number": "7397591935",
-        "Remarks": "21_6_2021@9AM"
+        "Remarks": "21_6_2021@1PM"
     },
     {
         "S": {
@@ -8481,11 +8481,11 @@
         "District": "Salem",
         "Institution": "Mohanraj Children's Hospital",
         "COVID_BEDS_Total": "70",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "65",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "63",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 07:54:06",
+        "Last_updated": "2021_06_21 12:50:17",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 80am 216_2021"
+        "Remarks": "Till 12_45pm 216_2021"
     },
     {
         "S": {
@@ -11970,7 +11970,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_21 12:04:01",
+        "Last_updated": "2021_06_21 13:40:41",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 07:47:47",
+        "Last_updated": "2021_06_21 12:51:50",
         "Contact_Number": "6382253140",
-        "Remarks": "8am"
+        "Remarks": "1pm"
     },
     {
         "S": {
