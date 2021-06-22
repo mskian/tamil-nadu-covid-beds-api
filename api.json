@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_22 08:29:16",
+        "Last_updated": "2021_06_22 12:56:22",
         "Contact_Number": "8585858550",
-        "Remarks": "22_ 6_2021 9 AM"
+        "Remarks": "22_ 6_2021 1 pm"
     },
     {
         "S": {
@@ -570,9 +570,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 13:20:51",
+        "Last_updated": "2021_06_22 12:52:15",
         "Contact_Number": "8667243945",
-        "Remarks": "21/06/21"
+        "Remarks": "22/06/21"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_22 09:33:36",
+        "Last_updated": "2021_06_22 13:07:47",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 08:50:47",
+        "Last_updated": "2021_06_22 13:04:55",
         "Contact_Number": "7397591935",
-        "Remarks": "22_6_2021@9AM"
+        "Remarks": "22_6_2021@1PM"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "18",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "17",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 16:51:54",
+        "Last_updated": "2021_06_22 13:16:25",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
