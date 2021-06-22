@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_22 10:16:19",
+        "Last_updated": "2021_06_22 17:47:05",
         "Contact_Number": "6379350953",
-        "Remarks": "June 22nd @ 9:00 AM"
+        "Remarks": "June 22nd @ 5:00 PM"
     },
     {
         "S": {
@@ -470,9 +470,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_20 10:38:01",
+        "Last_updated": "2021_06_22 17:44:44",
         "Contact_Number": "9551841153",
-        "Remarks": "today report 19/06/2021"
+        "Remarks": "today report 22/06/2021"
     },
     {
         "S": {
@@ -9220,9 +9220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_19 09:07:02",
+        "Last_updated": "2021_06_22 18:37:40",
         "Contact_Number": "8248586758",
-        "Remarks": "NIL nil NIL"
+        "Remarks": "NIL NIL"
     },
     {
         "S": {
@@ -10056,11 +10056,11 @@
         "District": "Chengalpattu",
         "Institution": "Das Nursing Home,Chengalpattu",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "10",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
@@ -10070,7 +10070,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_15 19:13:26",
+        "Last_updated": "2021_06_22 18:44:04",
         "Contact_Number": "7200084041",
         "Remarks": ""
     },
