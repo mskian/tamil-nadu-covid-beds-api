@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_22 08:21:51",
+        "Last_updated": "2021_06_22 14:14:05",
         "Contact_Number": "8300017171",
-        "Remarks": "22/06/2021 @ 8 am"
+        "Remarks": "22/06/2021 @ 1 pm"
     },
     {
         "S": {
@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "32",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_22 09:09:05",
+        "Last_updated": "2021_06_22 14:23:16",
         "Contact_Number": "8072738401",
         "Remarks": "Update"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 09:20:06",
+        "Last_updated": "2021_06_22 13:50:17",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 22/06/2021 09_20 AM"
+        "Remarks": "Updated 22/06/2021 01_50 PM"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 08:21:42",
+        "Last_updated": "2021_06_22 14:15:28",
         "Contact_Number": "8870007450",
-        "Remarks": "226_2021 Morning report"
+        "Remarks": "226_2021 Evening report"
     },
     {
         "S": {
@@ -11956,21 +11956,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Max Care Hospital, Annamalai Nagar",
         "COVID_BEDS_Total": "23",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "18",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "ICU_BEDS_Total": "3",
         "ICU_BEDS_Occupied": "1",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_21 13:40:41",
+        "Last_updated": "2021_06_22 13:44:19",
         "Contact_Number": "9600073580",
         "Remarks": "Nil_"
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 08:52:24",
+        "Last_updated": "2021_06_22 14:36:12",
         "Contact_Number": "6382253140",
-        "Remarks": "8Am"
+        "Remarks": "1pm"
     },
     {
         "S": {
