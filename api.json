@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "56",
-        "COVID_BEDS_Vacant": "60",
+        "COVID_BEDS_Occupied": "49",
+        "COVID_BEDS_Vacant": "67",
         "OXYGEN_SUPPORTED_BEDS_Total": "97",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "37",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "60",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "32",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "65",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "19",
-        "ICU_BEDS_Occupied": "19",
-        "ICU_BEDS_Vacant": "0",
-        "VENTILATOR_Total": "12",
-        "VENTILATOR_Occupied": "12",
+        "ICU_BEDS_Occupied": "17",
+        "ICU_BEDS_Vacant": "2",
+        "VENTILATOR_Total": "7",
+        "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 16:42:23",
+        "Last_updated": "2021_06_22 07:55:21",
         "Contact_Number": "7824821042",
-        "Remarks": "216_2021"
+        "Remarks": "226_2021"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_22 04:24:36",
+        "Last_updated": "2021_06_22 06:01:31",
         "Contact_Number": "4430101111",
-        "Remarks": "22/06/2021 04:29 Am"
+        "Remarks": "22/06/2021 06:00 Am"
     },
     {
         "S": {
@@ -3381,21 +3381,21 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "31",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "3",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_21 15:32:34",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_06_22 06:53:09",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 07:04:32",
+        "Last_updated": "2021_06_22 07:03:53",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 216_2021"
+        "Remarks": "Updated on 226_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_21 15:09:57",
+        "Last_updated": "2021_06_22 07:26:31",
         "Contact_Number": "9150758413",
-        "Remarks": "216_21"
+        "Remarks": "226_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "74",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "75",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "74",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "75",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6543,9 +6543,9 @@
         "ICU_BEDS_Occupied": "1",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "1",
-        "VENTILATOR_Occupied": "1",
-        "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 07:12:55",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "1",
+        "Last_updated": "2021_06_22 07:12:35",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 07:05:03",
+        "Last_updated": "2021_06_22 07:03:27",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 216_2021"
+        "Remarks": "Updated 226_2021"
     },
     {
         "S": {
@@ -9581,23 +9581,23 @@
         "District": "Tirunelveli",
         "Institution": "VJ Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "21",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "2",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 08:29:31",
+        "Last_updated": "2021_06_22 07:12:05",
         "Contact_Number": "9843604611",
-        "Remarks": "6 Active cases____"
+        "Remarks": "4 Active cases____"
     },
     {
         "S": {
