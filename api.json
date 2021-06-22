@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_22 17:07:46",
+        "Last_updated": "2021_06_22 19:07:07",
         "Contact_Number": "4430101111",
-        "Remarks": "22/06/2021 056 PM"
+        "Remarks": "22/06/2021 076 PM"
     },
     {
         "S": {
@@ -6570,9 +6570,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_16 18:10:27",
+        "Last_updated": "2021_06_22 19:01:00",
         "Contact_Number": "7299021425",
-        "Remarks": "Updated 16/6/2020"
+        "Remarks": "Updated 22/6/2020"
     },
     {
         "S": {
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "124",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "127",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "70",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "71",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "32",
         "ICU_BEDS_Total": "27",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "25",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "24",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_22 08:06:22",
+        "Last_updated": "2021_06_22 19:15:55",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
