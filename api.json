@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 07:03:53",
+        "Last_updated": "2021_06_23 07:44:57",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 226_2021"
+        "Remarks": "Updated on 236_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_22 15:08:55",
+        "Last_updated": "2021_06_23 07:25:18",
         "Contact_Number": "9150758413",
-        "Remarks": "226_21"
+        "Remarks": "236_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "15",
-        "COVID_BEDS_Vacant": "75",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "76",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "75",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "76",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_22 07:12:35",
+        "Last_updated": "2021_06_23 07:17:55",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "127",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "128",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "71",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "70",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "32",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "33",
         "ICU_BEDS_Total": "27",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "24",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "25",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_22 19:15:55",
+        "Last_updated": "2021_06_23 07:36:57",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
@@ -8481,11 +8481,11 @@
         "District": "Salem",
         "Institution": "Mohanraj Children's Hospital",
         "COVID_BEDS_Total": "70",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "64",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "63",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 16:38:55",
+        "Last_updated": "2021_06_23 07:35:56",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 040pm 226_2021"
+        "Remarks": "Till 07_30am 236_2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 07:03:27",
+        "Last_updated": "2021_06_23 07:45:49",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 226_2021"
+        "Remarks": "Updated 236_2021"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_22 14:36:12",
+        "Last_updated": "2021_06_23 07:45:40",
         "Contact_Number": "6382253140",
-        "Remarks": "1pm"
+        "Remarks": "8am"
     },
     {
         "S": {
