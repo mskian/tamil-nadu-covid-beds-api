@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_24 09:42:00",
+        "Last_updated": "2021_06_24 13:19:17",
         "Contact_Number": "8585858550",
-        "Remarks": "24_ 6_2021 9 AM"
+        "Remarks": "24_ 6_2021 1 PM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_24 08:59:04",
+        "Last_updated": "2021_06_24 13:29:27",
         "Contact_Number": "4430101111",
-        "Remarks": "24/06/2021 08_58AM"
+        "Remarks": "24/06/2021 01_28 PM"
     },
     {
         "S": {
@@ -3045,7 +3045,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_22 09:53:03",
+        "Last_updated": "2021_06_24 12:38:45",
         "Contact_Number": "8870209559",
         "Remarks": ""
     },
@@ -3655,24 +3655,24 @@
         },
         "District": "Madurai",
         "Institution": "Vadamalayan Hospital",
-        "COVID_BEDS_Total": "91",
-        "COVID_BEDS_Occupied": "91",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Total": "100",
+        "COVID_BEDS_Occupied": "16",
+        "COVID_BEDS_Vacant": "84",
         "OXYGEN_SUPPORTED_BEDS_Total": "84",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "84",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "77",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "ICU_BEDS_Total": "7",
         "ICU_BEDS_Occupied": "7",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_12 16:24:14",
+        "Last_updated": "2021_06_24 13:01:33",
         "Contact_Number": "4522545400",
-        "Remarks": "Updated 12_05_2021_"
+        "Remarks": "Updated 24_06_2021_"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 09:22:33",
+        "Last_updated": "2021_06_24 13:14:15",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5270,9 +5270,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_24 09:55:54",
+        "Last_updated": "2021_06_24 13:20:10",
         "Contact_Number": "9944920163",
-        "Remarks": "Update done__"
+        "Remarks": "Update done"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_24 09:26:04",
+        "Last_updated": "2021_06_24 13:15:01",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 08:45:10",
+        "Last_updated": "2021_06_24 13:00:51",
         "Contact_Number": "7397591935",
-        "Remarks": "24_6_2021@9AM"
+        "Remarks": "24_6_2021@1PM"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 09:09:53",
+        "Last_updated": "2021_06_24 12:37:06",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 090pm 246_2021"
+        "Remarks": "Till 12_30pm 246_2021"
     },
     {
         "S": {
@@ -9745,9 +9745,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_23 11:48:32",
+        "Last_updated": "2021_06_24 12:56:31",
         "Contact_Number": "9941011680",
-        "Remarks": "23_06_2021"
+        "Remarks": "24_06_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_23 16:20:48",
+        "Last_updated": "2021_06_24 13:01:13",
         "Contact_Number": "9842966662",
-        "Remarks": "23/06/2021 at 04:00 PM"
+        "Remarks": "24/06/2021 at 01:00 PM"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 07:47:34",
+        "Last_updated": "2021_06_24 12:48:25",
         "Contact_Number": "6382253140",
-        "Remarks": "8am"
+        "Remarks": "1pm"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "17",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "18",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_23 13:25:48",
+        "Last_updated": "2021_06_24 13:04:23",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
