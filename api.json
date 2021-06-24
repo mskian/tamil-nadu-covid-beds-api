@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_24 13:29:27",
+        "Last_updated": "2021_06_24 18:37:40",
         "Contact_Number": "4430101111",
-        "Remarks": "24/06/2021 01_28 PM"
+        "Remarks": "24/06/2021 06_38 PM"
     },
     {
         "S": {
@@ -8106,21 +8106,21 @@
         "District": "Kanyakumari",
         "Institution": "Thasiah Medical centre, Marthandam",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "25",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "28",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_23 14:19:34",
+        "Last_updated": "2021_06_24 18:22:34",
         "Contact_Number": "9952249470",
         "Remarks": ""
     },
