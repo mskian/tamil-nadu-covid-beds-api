@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_25 05:01:04",
+        "Last_updated": "2021_06_25 07:02:44",
         "Contact_Number": "4430101111",
-        "Remarks": "25/06/2021 050 AM"
+        "Remarks": "25/06/2021 070 AM"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_24 18:55:45",
+        "Last_updated": "2021_06_25 07:04:24",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_23 08:05:38",
+        "Last_updated": "2021_06_25 07:41:26",
         "Contact_Number": "9442667069",
-        "Remarks": "236_21"
+        "Remarks": "256_21"
     },
     {
         "S": {
@@ -5020,7 +5020,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_13 09:23:49",
+        "Last_updated": "2021_06_25 07:53:45",
         "Contact_Number": "8300508737",
         "Remarks": "__"
     },
@@ -5131,11 +5131,11 @@
         "District": "Thiruvarur",
         "Institution": "Thiruvarur Medical Centre",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "18",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "21",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_24 07:25:13",
+        "Last_updated": "2021_06_25 06:37:38",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 246_2021"
+        "Remarks": "Update 256_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_24 15:58:59",
+        "Last_updated": "2021_06_25 07:21:31",
         "Contact_Number": "9150758413",
-        "Remarks": "246_2021"
+        "Remarks": "256_2021"
     },
     {
         "S": {
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_24 07:22:59",
+        "Last_updated": "2021_06_25 06:36:26",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 14:13:43",
+        "Last_updated": "2021_06_25 07:27:03",
         "Contact_Number": "8870007450",
-        "Remarks": "246_2021 Evening report"
+        "Remarks": "256_2021 Morning report"
     },
     {
         "S": {
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "130",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "132",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "71",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "34",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
         "ICU_BEDS_Total": "27",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "25",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "26",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_24 07:55:15",
+        "Last_updated": "2021_06_25 07:48:42",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
@@ -11456,11 +11456,11 @@
         "District": "Theni",
         "Institution": "Krishnammal Memorial hospital_",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -11470,7 +11470,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 14:15:37",
+        "Last_updated": "2021_06_25 07:25:20",
         "Contact_Number": "9786629040",
         "Remarks": "Ok"
     },
