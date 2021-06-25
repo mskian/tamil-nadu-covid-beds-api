@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_24 17:06:55",
+        "Last_updated": "2021_06_25 10:04:19",
         "Contact_Number": "6379350953",
-        "Remarks": "June 25th@ 5:00 PM"
+        "Remarks": "June 25th@ 9:00 AM"
     },
     {
         "S": {
@@ -2530,22 +2530,22 @@
         },
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
-        "COVID_BEDS_Total": "110",
+        "COVID_BEDS_Total": "80",
         "COVID_BEDS_Occupied": "78",
-        "COVID_BEDS_Vacant": "32",
-        "OXYGEN_SUPPORTED_BEDS_Total": "58",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "58",
+        "COVID_BEDS_Vacant": "2",
+        "OXYGEN_SUPPORTED_BEDS_Total": "38",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "38",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "32",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "30",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "28",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "ICU_BEDS_Total": "12",
         "ICU_BEDS_Occupied": "12",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_25 09:38:51",
+        "Last_updated": "2021_06_25 10:01:32",
         "Contact_Number": "9384084606",
         "Remarks": "256__21"
     },
@@ -5256,11 +5256,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Maruti Hospital",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "26",
-        "COVID_BEDS_Vacant": "60",
+        "COVID_BEDS_Occupied": "27",
+        "COVID_BEDS_Vacant": "59",
         "OXYGEN_SUPPORTED_BEDS_Total": "54",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "38",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "37",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "22",
@@ -5270,9 +5270,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_24 13:20:10",
+        "Last_updated": "2021_06_25 09:42:18",
         "Contact_Number": "9944920163",
-        "Remarks": "Update done"
+        "Remarks": "Update done__"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 16:09:33",
+        "Last_updated": "2021_06_25 09:55:59",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 24/06/2021 049 PM"
+        "Remarks": "Updated 25/06/2021 09_55 AM"
     },
     {
         "S": {
@@ -8756,10 +8756,10 @@
         "District": "Chengalpattu",
         "Institution": "DAISY HOSPITAL,CHROMPET",
         "COVID_BEDS_Total": "14",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 09:28:08",
+        "Last_updated": "2021_06_25 09:51:21",
         "Contact_Number": "9940632392",
-        "Remarks": "24/06/2021"
+        "Remarks": "25/06/2021"
     },
     {
         "S": {
@@ -9745,9 +9745,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 12:56:31",
+        "Last_updated": "2021_06_25 09:56:35",
         "Contact_Number": "9941011680",
-        "Remarks": "24_06_2021"
+        "Remarks": "25_06_2021"
     },
     {
         "S": {
@@ -11656,11 +11656,11 @@
         "District": "Thiruchirappalli",
         "Institution": "City Medical Center, Thennur",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "24",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "25",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -11670,7 +11670,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_21 09:58:15",
+        "Last_updated": "2021_06_25 10:06:43",
         "Contact_Number": "9790420251",
         "Remarks": "alternate number : 7397271129"
     },
@@ -12168,9 +12168,9 @@
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "3",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_24 09:42:31",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_06_25 10:23:49",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
