@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_25 12:37:57",
+        "Last_updated": "2021_06_25 18:11:36",
         "Contact_Number": "4430101111",
-        "Remarks": "25/06/2021 12_37 PM"
+        "Remarks": "25/06/2021 06_10 PM"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_25 07:41:26",
+        "Last_updated": "2021_06_25 18:12:49",
         "Contact_Number": "9442667069",
-        "Remarks": "256_21"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -8356,11 +8356,11 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "132",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "133",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "71",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "72",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
@@ -8370,7 +8370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_25 07:48:42",
+        "Last_updated": "2021_06_25 17:49:31",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_25 08:43:30",
+        "Last_updated": "2021_06_25 17:41:13",
         "Contact_Number": "6382253140",
-        "Remarks": "8am"
+        "Remarks": "5pm"
     },
     {
         "S": {
@@ -12170,7 +12170,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_25 10:23:49",
+        "Last_updated": "2021_06_25 18:11:29",
         "Contact_Number": "9384875957",
         "Remarks": ""
     },
