@@ -3656,11 +3656,11 @@
         "District": "Madurai",
         "Institution": "Vadamalayan Hospital",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "84",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "88",
         "OXYGEN_SUPPORTED_BEDS_Total": "84",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "77",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "81",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
@@ -3670,9 +3670,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 13:01:33",
+        "Last_updated": "2021_06_25 11:11:51",
         "Contact_Number": "4522545400",
-        "Remarks": "Updated 24_06_2021_"
+        "Remarks": "Updated 25_06_2021_"
     },
     {
         "S": {
@@ -4431,21 +4431,21 @@
         "District": "Salem",
         "Institution": "Kauvery Hospital, Salem",
         "COVID_BEDS_Total": "150",
-        "COVID_BEDS_Occupied": "67",
-        "COVID_BEDS_Vacant": "83",
+        "COVID_BEDS_Occupied": "62",
+        "COVID_BEDS_Vacant": "88",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "29",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "28",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "86",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "24",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "62",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "66",
         "ICU_BEDS_Total": "14",
         "ICU_BEDS_Occupied": "14",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_24 11:18:33",
+        "Last_updated": "2021_06_25 10:46:48",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 16:08:04",
+        "Last_updated": "2021_06_25 10:40:38",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 040pm 246_2021"
+        "Remarks": "Till 100am 256_2021"
     },
     {
         "S": {
@@ -9895,7 +9895,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 11:22:51",
+        "Last_updated": "2021_06_25 11:05:34",
         "Contact_Number": "9524241241",
         "Remarks": "Positive cases_ 6"
     },
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_24 09:22:10",
+        "Last_updated": "2021_06_25 11:29:47",
         "Contact_Number": "8098011072",
-        "Remarks": "246_2021"
+        "Remarks": "256_2021"
     },
     {
         "S": {
