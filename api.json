@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_25 09:16:49",
+        "Last_updated": "2021_06_25 13:07:42",
         "Contact_Number": "8585858550",
-        "Remarks": "25_6_2021 9 am"
+        "Remarks": "25_6_2021 1 PM"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_25 08:46:21",
+        "Last_updated": "2021_06_25 13:33:16",
         "Contact_Number": "8300017171",
-        "Remarks": "25/06/2021 @ 9 am"
+        "Remarks": "25/06/2021 @ 1 pm"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_25 08:53:03",
+        "Last_updated": "2021_06_25 12:37:57",
         "Contact_Number": "4430101111",
-        "Remarks": "25/06/2021 08_52 AM"
+        "Remarks": "25/06/2021 12_37 PM"
     },
     {
         "S": {
@@ -5270,9 +5270,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_25 09:42:18",
+        "Last_updated": "2021_06_25 13:31:18",
         "Contact_Number": "9944920163",
-        "Remarks": "Update done__"
+        "Remarks": "Update done"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_25 09:22:41",
+        "Last_updated": "2021_06_25 13:21:32",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_25 09:55:59",
+        "Last_updated": "2021_06_25 13:14:12",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 25/06/2021 09_55 AM"
+        "Remarks": "Updated 25/06/2021 01_14 PM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_25 09:06:03",
+        "Last_updated": "2021_06_25 12:39:36",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 25/06/2021 09:00"
+        "Remarks": "UPDATED TILL 25/06/2021 13:00"
     },
     {
         "S": {
@@ -7031,8 +7031,8 @@
         "District": "Madurai",
         "Institution": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "31",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "37",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -7040,14 +7040,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "33",
-        "ICU_BEDS_Occupied": "12",
-        "ICU_BEDS_Vacant": "21",
+        "ICU_BEDS_Occupied": "6",
+        "ICU_BEDS_Vacant": "27",
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_23 17:25:15",
+        "Last_updated": "2021_06_25 13:21:23",
         "Contact_Number": "9003900349",
-        "Remarks": "23_06_2021"
+        "Remarks": "25_06_2021"
     },
     {
         "S": {
