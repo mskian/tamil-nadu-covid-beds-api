@@ -3381,8 +3381,8 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
@@ -3390,12 +3390,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "3",
-        "VENTILATOR_Occupied": "1",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_25 07:04:24",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_06_25 14:19:25",
         "Contact_Number": "8072738401",
         "Remarks": "Update"
     },
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_25 07:27:03",
+        "Last_updated": "2021_06_25 14:10:15",
         "Contact_Number": "8870007450",
-        "Remarks": "256_2021 Morning report"
+        "Remarks": "256_2021 Evening report"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_25 08:51:30",
+        "Last_updated": "2021_06_25 13:51:41",
         "Contact_Number": "7397591935",
-        "Remarks": "25_6_2021@9AM"
+        "Remarks": "25_6_2021@1:51pM"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_25 09:01:11",
+        "Last_updated": "2021_06_25 14:16:20",
         "Contact_Number": "9842966662",
-        "Remarks": "25/06/2021 at 09:00 AM"
+        "Remarks": "25/06/2021 at 01:00 PM"
     },
     {
         "S": {
