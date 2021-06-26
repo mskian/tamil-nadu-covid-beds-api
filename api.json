@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_06_26 13:04:40",
+        "Last_updated": "2021_06_26 16:30:04",
         "Contact_Number": "8585858550",
-        "Remarks": "26_6_2021 1 PM"
+        "Remarks": "26_6_2021 4 PM"
     },
     {
         "S": {
@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_26 09:53:22",
+        "Last_updated": "2021_06_26 16:28:21",
         "Contact_Number": "7824821042",
         "Remarks": "266_2021"
     },
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 08:10:39",
+        "Last_updated": "2021_06_26 15:56:51",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -7131,11 +7131,11 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "28",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "27",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 09:26:25",
+        "Last_updated": "2021_06_26 15:44:59",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -10806,11 +10806,11 @@
         "District": "Chengalpattu",
         "Institution": "RKP Hospital,Nanmangalam",
         "COVID_BEDS_Total": "19",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "18",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 13:03:45",
+        "Last_updated": "2021_06_26 15:56:41",
         "Contact_Number": "9842966662",
-        "Remarks": "26/06/2021 at 01:00 PM"
+        "Remarks": "26/06/2021 at 04:00 PM"
     },
     {
         "S": {
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 09:12:49",
+        "Last_updated": "2021_06_26 16:12:09",
         "Contact_Number": "9842399300",
-        "Remarks": "NILL"
+        "Remarks": "nill"
     },
     {
         "S": {
