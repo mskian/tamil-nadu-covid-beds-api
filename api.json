@@ -256,11 +256,11 @@
         "District": "Chennai",
         "Institution": "Appasamy Hospital",
         "COVID_BEDS_Total": "56",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "53",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "52",
         "OXYGEN_SUPPORTED_BEDS_Total": "47",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_26 10:01:49",
+        "Last_updated": "2021_06_26 19:04:52",
         "Contact_Number": "6379350953",
-        "Remarks": "June 26th@ 9:00 AM"
+        "Remarks": "June 26th@ 5:00 PM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_26 08:42:33",
+        "Last_updated": "2021_06_26 18:52:15",
         "Contact_Number": "4430101111",
-        "Remarks": "26/06/2021 08_41 AM"
+        "Remarks": "26/06/2021 06_51 PM"
     },
     {
         "S": {
