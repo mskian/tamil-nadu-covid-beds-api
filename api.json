@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_26 21:10:18",
+        "Last_updated": "2021_06_27 09:44:42",
         "Contact_Number": "8300017171",
-        "Remarks": "26/06/2021 @ 9 pm"
+        "Remarks": "27/06/2021 @ 9 am"
     },
     {
         "S": {
@@ -6581,11 +6581,11 @@
         "District": "Chennai",
         "Institution": "K_G_J Hospitals, Korattur",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "18",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 09:48:48",
+        "Last_updated": "2021_06_27 10:09:37",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 26/06/2021 09_48 AM"
+        "Remarks": "Updated 27/06/2021 109 AM"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 10:11:21",
+        "Last_updated": "2021_06_27 09:58:34",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 26_06_2021"
+        "Remarks": "updated 27_06_2021"
     },
     {
         "S": {
@@ -7131,11 +7131,11 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "27",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "25",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 15:44:59",
+        "Last_updated": "2021_06_27 10:00:21",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_24 08:57:11",
+        "Last_updated": "2021_06_27 10:07:41",
         "Contact_Number": "7092820884",
-        "Remarks": "24/06/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "27/06/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -8106,23 +8106,23 @@
         "District": "Kanyakumari",
         "Institution": "Thasiah Medical centre, Marthandam",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "28",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "13",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_24 18:22:34",
+        "Last_updated": "2021_06_27 10:14:18",
         "Contact_Number": "9952249470",
-        "Remarks": ""
+        "Remarks": "_"
     },
     {
         "S": {
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 09:07:13",
+        "Last_updated": "2021_06_27 10:26:15",
         "Contact_Number": "8098011072",
-        "Remarks": "266_2021"
+        "Remarks": "276_2021"
     },
     {
         "S": {
