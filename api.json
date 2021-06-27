@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_27 09:08:48",
+        "Last_updated": "2021_06_27 17:08:12",
         "Contact_Number": "6379350953",
-        "Remarks": "June 27th@ 9:00 AM"
+        "Remarks": "June 27th@ 5:00 PM"
     },
     {
         "S": {
@@ -1981,11 +1981,11 @@
         "District": "Chennai",
         "Institution": "The Guest Hospital, Kilpauk",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "12",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -1995,7 +1995,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 09:23:44",
+        "Last_updated": "2021_06_27 17:28:39",
         "Contact_Number": "8903573717",
         "Remarks": "27/06/2021"
     },
@@ -2706,21 +2706,21 @@
         "District": "Dindigul",
         "Institution": "Vel Multispeciality Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "41",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "40",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "4",
         "ICU_BEDS_Vacant": "6",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 09:09:54",
+        "Last_updated": "2021_06_27 16:59:39",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -8120,9 +8120,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_27 10:14:18",
+        "Last_updated": "2021_06_27 17:21:13",
         "Contact_Number": "9952249470",
-        "Remarks": "_"
+        "Remarks": ""
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 15:56:41",
+        "Last_updated": "2021_06_27 17:17:31",
         "Contact_Number": "9842966662",
-        "Remarks": "26/06/2021 at 04:00 PM"
+        "Remarks": "27/06/2021 at 04:00 PM"
     },
     {
         "S": {
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 09:18:26",
+        "Last_updated": "2021_06_27 17:26:08",
         "Contact_Number": "9842399300",
-        "Remarks": "NILL"
+        "Remarks": "nill"
     },
     {
         "S": {
