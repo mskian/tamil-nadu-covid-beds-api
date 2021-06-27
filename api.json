@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_06_27 12:57:35",
+        "Last_updated": "2021_06_27 15:57:07",
         "Contact_Number": "8585858550",
-        "Remarks": "27_6_2021 1 PM"
+        "Remarks": "27_6_2021 4 PM"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_27 12:59:00",
+        "Last_updated": "2021_06_27 16:10:39",
         "Contact_Number": "8300017171",
-        "Remarks": "27/06/2021 @ 1 pm"
+        "Remarks": "27/06/2021 @ 4 pm"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_27 13:30:20",
+        "Last_updated": "2021_06_27 16:02:12",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_27 13:52:53",
+        "Last_updated": "2021_06_27 16:00:17",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6581,11 +6581,11 @@
         "District": "Chennai",
         "Institution": "K_G_J Hospitals, Korattur",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "20",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 10:09:37",
+        "Last_updated": "2021_06_27 16:03:39",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 27/06/2021 109 AM"
+        "Remarks": "Updated 27/06/2021 043 PM"
     },
     {
         "S": {
@@ -7131,11 +7131,11 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "25",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "27",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 10:00:21",
+        "Last_updated": "2021_06_27 16:06:46",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 13:00:56",
+        "Last_updated": "2021_06_27 16:04:25",
         "Contact_Number": "7397591935",
-        "Remarks": "positive :19(suspected and negative:10)27_6_2021@1pM"
+        "Remarks": "positive :19(suspected and negative:10)27_6_2021@4pM"
     },
     {
         "S": {
