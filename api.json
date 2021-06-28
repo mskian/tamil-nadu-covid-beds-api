@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_27 16:10:39",
+        "Last_updated": "2021_06_28 08:06:01",
         "Contact_Number": "8300017171",
-        "Remarks": "27/06/2021 @ 4 pm"
+        "Remarks": "28/06/2021 @ 8 am"
     },
     {
         "S": {
@@ -1956,11 +1956,11 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "18",
-        "COVID_BEDS_Vacant": "392",
+        "COVID_BEDS_Occupied": "19",
+        "COVID_BEDS_Vacant": "391",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "13",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "336",
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_27 14:02:04",
+        "Last_updated": "2021_06_28 08:28:18",
         "Contact_Number": "4430101111",
-        "Remarks": "27/06/2021 020 Pm"
+        "Remarks": "28/06/2021 08_27 Am"
     },
     {
         "S": {
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 16:59:39",
+        "Last_updated": "2021_06_28 08:06:30",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_27 16:02:12",
+        "Last_updated": "2021_06_28 07:58:16",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_27 08:11:41",
+        "Last_updated": "2021_06_28 08:19:12",
         "Contact_Number": "9442667069",
-        "Remarks": "276_21"
+        "Remarks": "286_21"
     },
     {
         "S": {
@@ -7020,9 +7020,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_26 08:47:33",
+        "Last_updated": "2021_06_28 08:25:10",
         "Contact_Number": "9943450401",
-        "Remarks": "DISCHARGE _ 3 ADMISSION _ 2"
+        "Remarks": "NO CHANGE"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 13:26:05",
+        "Last_updated": "2021_06_28 08:02:28",
         "Contact_Number": "8870007450",
-        "Remarks": "276_2021 Evening report"
+        "Remarks": "286_2021 Morning report"
     },
     {
         "S": {
@@ -7506,11 +7506,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Kavi Hospital & Neuro Foundation",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "20",
         "OXYGEN_SUPPORTED_BEDS_Total": "24",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
@@ -7520,7 +7520,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_27 08:22:50",
+        "Last_updated": "2021_06_28 08:00:51",
         "Contact_Number": "9843005288",
         "Remarks": "NIL_"
     },
@@ -7956,8 +7956,8 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "31",
-        "COVID_BEDS_Vacant": "54",
+        "COVID_BEDS_Occupied": "29",
+        "COVID_BEDS_Vacant": "56",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
@@ -7965,14 +7965,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "ICU_BEDS_Total": "12",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "6",
+        "ICU_BEDS_Occupied": "4",
+        "ICU_BEDS_Vacant": "8",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_27 08:31:51",
+        "Last_updated": "2021_06_28 08:13:01",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 17 Suspected: 14 Updated"
+        "Remarks": "Covid Positive : 15 Suspected: 14 Updated"
     },
     {
         "S": {
@@ -8256,11 +8256,11 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "97",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "96",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_27 07:55:10",
+        "Last_updated": "2021_06_28 08:08:03",
         "Contact_Number": "9600240521",
-        "Remarks": "27/06/2021"
+        "Remarks": "28/06/2021"
     },
     {
         "S": {
@@ -8806,21 +8806,21 @@
         "District": "Kanyakumari",
         "Institution": "Catherinebooth hospital,Nagercoil",
         "COVID_BEDS_Total": "55",
-        "COVID_BEDS_Occupied": "55",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "49",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "28",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "28",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "24",
         "ICU_BEDS_Total": "6",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_23 11:50:30",
+        "Last_updated": "2021_06_28 08:37:05",
         "Contact_Number": "9442282220",
         "Remarks": ""
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 12:52:28",
+        "Last_updated": "2021_06_28 08:08:30",
         "Contact_Number": "6382253140",
-        "Remarks": "1pm"
+        "Remarks": "8am"
     },
     {
         "S": {
