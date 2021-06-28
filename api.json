@@ -1995,9 +1995,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 17:28:39",
+        "Last_updated": "2021_06_28 10:54:08",
         "Contact_Number": "8903573717",
-        "Remarks": "27/06/2021"
+        "Remarks": "28/06/2021"
     },
     {
         "S": {
@@ -3045,7 +3045,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_26 15:09:28",
+        "Last_updated": "2021_06_28 10:46:58",
         "Contact_Number": "8870209559",
         "Remarks": ""
     },
@@ -3281,21 +3281,21 @@
         "District": "Krishnagiri",
         "Institution": "Chandrasekara Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "43",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "45",
         "OXYGEN_SUPPORTED_BEDS_Total": "44",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "2",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_23 10:52:51",
+        "Last_updated": "2021_06_28 10:38:07",
         "Contact_Number": "9655206585",
         "Remarks": "50"
     },
@@ -6906,21 +6906,21 @@
         "District": "Krishnagiri",
         "Institution": "Sri Chandrasekaran Hospital unit _2, Hosur",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "31",
-        "COVID_BEDS_Vacant": "59",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "68",
         "OXYGEN_SUPPORTED_BEDS_Total": "69",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "20",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "49",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "20",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "14",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "18",
         "VENTILATOR_Total": "2",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_23 10:54:29",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_06_28 10:37:28",
         "Contact_Number": "9655206592",
         "Remarks": "90 beds"
     },
@@ -8120,9 +8120,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_27 17:21:13",
+        "Last_updated": "2021_06_28 10:38:20",
         "Contact_Number": "9952249470",
-        "Remarks": ""
+        "Remarks": "_"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 08:14:49",
+        "Last_updated": "2021_06_28 11:06:58",
         "Contact_Number": "7871081082",
-        "Remarks": "276_2021"
+        "Remarks": "286_2021"
     },
     {
         "S": {
@@ -11495,9 +11495,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 17:26:08",
+        "Last_updated": "2021_06_28 11:19:12",
         "Contact_Number": "9842399300",
-        "Remarks": "nill"
+        "Remarks": "Nill"
     },
     {
         "S": {
