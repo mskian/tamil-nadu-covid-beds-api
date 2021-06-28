@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 07:19:23",
+        "Last_updated": "2021_06_28 06:53:29",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 276_2021"
+        "Remarks": "Updated on 286_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_27 14:54:32",
+        "Last_updated": "2021_06_28 07:34:10",
         "Contact_Number": "9150758413",
-        "Remarks": "276_2021"
+        "Remarks": "286_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "80",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "82",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "80",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "82",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,9 +6545,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_27 06:28:01",
+        "Last_updated": "2021_06_28 06:18:56",
         "Contact_Number": "9659462722",
-        "Remarks": "Nil___"
+        "Remarks": "Nil____"
     },
     {
         "S": {
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "132",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "131",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "72",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "36",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
         "ICU_BEDS_Total": "27",
         "ICU_BEDS_Occupied": "3",
         "ICU_BEDS_Vacant": "24",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_26 18:29:28",
+        "Last_updated": "2021_06_28 07:23:41",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 08:43:18",
+        "Last_updated": "2021_06_28 06:47:03",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 08_30am 276_2021"
+        "Remarks": "Till 06_45am 286_2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 07:19:02",
+        "Last_updated": "2021_06_28 06:53:52",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 276_2021"
+        "Remarks": "Updated 286_2021"
     },
     {
         "S": {
