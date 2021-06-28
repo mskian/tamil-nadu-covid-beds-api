@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_06_28 17:05:14",
+        "Last_updated": "2021_06_28 19:04:49",
         "Contact_Number": "4430101111",
-        "Remarks": "28/06/2021 055 PM"
+        "Remarks": "28/06/2021 074 PM"
     },
     {
         "S": {
@@ -7031,11 +7031,11 @@
         "District": "Madurai",
         "Institution": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "34",
+        "COVID_BEDS_Occupied": "20",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -7045,7 +7045,7 @@
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_26 12:33:16",
+        "Last_updated": "2021_06_28 19:05:28",
         "Contact_Number": "9003900349",
         "Remarks": "26_06_2021"
     },
