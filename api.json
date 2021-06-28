@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_28 08:06:01",
+        "Last_updated": "2021_06_28 12:34:51",
         "Contact_Number": "8300017171",
-        "Remarks": "28/06/2021 @ 8 am"
+        "Remarks": "28/06/2021 @ 1 pm"
     },
     {
         "S": {
@@ -9881,23 +9881,23 @@
         "District": "Thanjavur",
         "Institution": "National pharma",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "40",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "43",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "43",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "43",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 11:01:30",
+        "Last_updated": "2021_06_28 12:29:15",
         "Contact_Number": "9524241241",
-        "Remarks": "Positive cases_ 5"
+        "Remarks": "Positive cases_ 6"
     },
     {
         "S": {
