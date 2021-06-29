@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_28 17:12:25",
+        "Last_updated": "2021_06_29 07:26:21",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_28 08:19:12",
+        "Last_updated": "2021_06_29 07:40:49",
         "Contact_Number": "9442667069",
-        "Remarks": "286_21"
+        "Remarks": "296_21"
     },
     {
         "S": {
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_28 06:53:29",
+        "Last_updated": "2021_06_29 06:47:46",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 286_2021"
+        "Remarks": "Updated on 296_2021"
     },
     {
         "S": {
@@ -5131,11 +5131,11 @@
         "District": "Thiruvarur",
         "Institution": "Thiruvarur Medical Centre",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "22",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "23",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_28 08:43:51",
+        "Last_updated": "2021_06_29 07:23:55",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 286_2021"
+        "Remarks": "Update 296_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_28 14:48:07",
+        "Last_updated": "2021_06_29 06:54:56",
         "Contact_Number": "9150758413",
-        "Remarks": "286_2021"
+        "Remarks": "296_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "82",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "78",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "82",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "78",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,9 +6545,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_28 06:18:56",
+        "Last_updated": "2021_06_29 07:11:46",
         "Contact_Number": "9659462722",
-        "Remarks": "Nil____"
+        "Remarks": "Nil___"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_28 14:00:24",
+        "Last_updated": "2021_06_29 07:15:33",
         "Contact_Number": "8870007450",
-        "Remarks": "286_2021 Evening report"
+        "Remarks": "296_2021 Morning report"
     },
     {
         "S": {
@@ -7506,11 +7506,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Kavi Hospital & Neuro Foundation",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "20",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "21",
         "OXYGEN_SUPPORTED_BEDS_Total": "24",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
@@ -7520,7 +7520,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_28 08:00:51",
+        "Last_updated": "2021_06_29 07:18:19",
         "Contact_Number": "9843005288",
         "Remarks": "NIL_"
     },
@@ -8481,11 +8481,11 @@
         "District": "Salem",
         "Institution": "Mohanraj Children's Hospital",
         "COVID_BEDS_Total": "70",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "66",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "68",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "16",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_28 16:07:06",
+        "Last_updated": "2021_06_29 07:46:23",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 040pm 286_2021"
+        "Remarks": "Till 07_45am 296_2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_28 06:53:52",
+        "Last_updated": "2021_06_29 06:45:38",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 286_2021"
+        "Remarks": "Updated 296_2021"
     },
     {
         "S": {
@@ -12081,8 +12081,8 @@
         "District": "Thoothukudi",
         "Institution": "Sasi Hospital, Kovilpatti",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "23",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "22",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
@@ -12090,14 +12090,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_28 15:41:47",
+        "Last_updated": "2021_06_29 07:41:34",
         "Contact_Number": "6382253140",
-        "Remarks": "4pm"
+        "Remarks": "8am"
     },
     {
         "S": {
