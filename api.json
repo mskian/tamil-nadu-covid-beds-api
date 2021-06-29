@@ -580,24 +580,24 @@
         },
         "District": "Chennai",
         "Institution": "Dr_Kamakshi Memorial Hospital",
-        "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "100",
-        "COVID_BEDS_Vacant": "0",
-        "OXYGEN_SUPPORTED_BEDS_Total": "85",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "85",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "COVID_BEDS_Total": "25",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "16",
+        "OXYGEN_SUPPORTED_BEDS_Total": "20",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "15",
-        "ICU_BEDS_Vacant": "0",
-        "VENTILATOR_Total": "10",
-        "VENTILATOR_Occupied": "10",
+        "ICU_BEDS_Total": "5",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "2",
+        "VENTILATOR_Total": "1",
+        "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_14 09:35:27",
-        "Contact_Number": "8754594545",
-        "Remarks": "14/06/2021"
+        "Last_updated": "2021_06_29 17:26:39",
+        "Contact_Number": "7299693649",
+        "Remarks": "29/06/2021"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_29 07:40:49",
+        "Last_updated": "2021_06_29 17:24:44",
         "Contact_Number": "9442667069",
-        "Remarks": "296_21"
+        "Remarks": "SRI HOSPITALS"
     },
     {
         "S": {
@@ -6806,23 +6806,23 @@
         "District": "Kancheepuram",
         "Institution": "TCS, Sirucherry",
         "COVID_BEDS_Total": "40",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "38",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "40",
         "OXYGEN_SUPPORTED_BEDS_Total": "0",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "38",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 09:28:28",
+        "Last_updated": "2021_06_29 17:34:14",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 29/06/2021 09:00 AM"
+        "Remarks": "UPDATED TILL 29/06/2021 04:00 PM"
     },
     {
         "S": {
@@ -9581,11 +9581,11 @@
         "District": "Tirunelveli",
         "Institution": "VJ Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "21",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "23",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -9595,9 +9595,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_28 09:27:11",
+        "Last_updated": "2021_06_29 17:13:27",
         "Contact_Number": "9843604611",
-        "Remarks": "4 Active cases____"
+        "Remarks": "2 Active cases____"
     },
     {
         "S": {
