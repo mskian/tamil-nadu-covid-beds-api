@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "8",
-        "Last_updated": "2021_06_29 09:43:22",
+        "Last_updated": "2021_06_29 13:29:34",
         "Contact_Number": "8585858550",
-        "Remarks": "29_6_2021 9 AM"
+        "Remarks": "29_6_2021 1 PM"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 09:13:15",
+        "Last_updated": "2021_06_29 13:19:51",
         "Contact_Number": "9095505550",
-        "Remarks": "nil"
+        "Remarks": "nil_"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_29 09:21:09",
+        "Last_updated": "2021_06_29 13:19:13",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 09:14:22",
+        "Last_updated": "2021_06_29 13:03:14",
         "Contact_Number": "7397591935",
-        "Remarks": "positive :16(suspected and negative:9)29_6_2021@9AM"
+        "Remarks": "positive :16(suspected and negative:9)29_6_2021@1 :00PM"
     },
     {
         "S": {
@@ -8120,9 +8120,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_29 11:16:14",
+        "Last_updated": "2021_06_29 12:38:40",
         "Contact_Number": "9952249470",
-        "Remarks": ""
+        "Remarks": "_"
     },
     {
         "S": {
@@ -8481,11 +8481,11 @@
         "District": "Salem",
         "Institution": "Mohanraj Children's Hospital",
         "COVID_BEDS_Total": "70",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "68",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "69",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 07:46:23",
+        "Last_updated": "2021_06_29 13:00:38",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 07_45am 296_2021"
+        "Remarks": "Till 10pm 296_2021"
     },
     {
         "S": {
@@ -9481,21 +9481,21 @@
         "District": "Salem",
         "Institution": "RK hospital",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "8",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_27 13:54:18",
+        "Last_updated": "2021_06_29 13:03:29",
         "Contact_Number": "7373004777",
         "Remarks": "Here with Updating our Hospital bed details"
     },
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 09:24:15",
+        "Last_updated": "2021_06_29 13:09:48",
         "Contact_Number": "9842966662",
-        "Remarks": "29/06/2021 at 09:00 AM"
+        "Remarks": "29/06/2021 at 01:00 PM"
     },
     {
         "S": {
