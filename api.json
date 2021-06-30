@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_29 17:24:44",
+        "Last_updated": "2021_06_30 07:33:33",
         "Contact_Number": "9442667069",
-        "Remarks": "SRI HOSPITALS"
+        "Remarks": "306_21"
     },
     {
         "S": {
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 06:47:46",
+        "Last_updated": "2021_06_30 06:38:07",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 296_2021"
+        "Remarks": "Updated on 306_2021"
     },
     {
         "S": {
@@ -6145,9 +6145,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_29 14:56:48",
+        "Last_updated": "2021_06_30 07:18:56",
         "Contact_Number": "9150758413",
-        "Remarks": "296_2021"
+        "Remarks": "306_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "78",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "79",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "78",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "79",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_29 07:11:46",
+        "Last_updated": "2021_06_30 07:25:04",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 09:53:41",
+        "Last_updated": "2021_06_30 07:04:04",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 29_06_2021"
+        "Remarks": "updated 30_06_2021"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 14:35:04",
+        "Last_updated": "2021_06_30 07:36:06",
         "Contact_Number": "8870007450",
-        "Remarks": "296_2021 Evening report"
+        "Remarks": "30 06_2021 Morning report"
     },
     {
         "S": {
@@ -7506,21 +7506,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Kavi Hospital & Neuro Foundation",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "21",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "24",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_29 07:18:19",
+        "Last_updated": "2021_06_30 07:40:12",
         "Contact_Number": "9843005288",
         "Remarks": "NIL_"
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 16:07:28",
+        "Last_updated": "2021_06_30 07:40:16",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 040pm 296_2021"
+        "Remarks": "Till 07_30am 306_2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 06:45:38",
+        "Last_updated": "2021_06_30 06:38:36",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 296_2021"
+        "Remarks": "Updated 306_2021"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_29 17:13:27",
+        "Last_updated": "2021_06_30 07:26:14",
         "Contact_Number": "9843604611",
         "Remarks": "2 Active cases____"
     },
