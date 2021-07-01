@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_07_01 09:13:14",
+        "Last_updated": "2021_07_01 11:28:31",
         "Contact_Number": "4430101111",
-        "Remarks": "01/07/2021 09_12 AM"
+        "Remarks": "01/07/2021 11_27 AM"
     },
     {
         "S": {
@@ -2381,21 +2381,21 @@
         "District": "Coimbatore",
         "Institution": "Kongunad Hospital",
         "COVID_BEDS_Total": "295",
-        "COVID_BEDS_Occupied": "138",
-        "COVID_BEDS_Vacant": "157",
+        "COVID_BEDS_Occupied": "81",
+        "COVID_BEDS_Vacant": "214",
         "OXYGEN_SUPPORTED_BEDS_Total": "165",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "93",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "72",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "65",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "100",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "100",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "80",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "98",
         "ICU_BEDS_Total": "30",
-        "ICU_BEDS_Occupied": "25",
-        "ICU_BEDS_Vacant": "5",
+        "ICU_BEDS_Occupied": "14",
+        "ICU_BEDS_Vacant": "16",
         "VENTILATOR_Total": "20",
-        "VENTILATOR_Occupied": "18",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_19 13:32:22",
+        "VENTILATOR_Occupied": "14",
+        "VENTILATOR_Vacant": "6",
+        "Last_updated": "2021_07_01 11:37:56",
         "Contact_Number": "7094316000",
         "Remarks": ""
     },
@@ -8120,9 +8120,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_30 16:18:31",
+        "Last_updated": "2021_07_01 10:39:49",
         "Contact_Number": "9952249470",
-        "Remarks": ""
+        "Remarks": "_"
     },
     {
         "S": {
