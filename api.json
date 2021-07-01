@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_30 12:53:23",
+        "Last_updated": "2021_07_01 09:54:51",
         "Contact_Number": "7824821042",
-        "Remarks": "306_2021"
+        "Remarks": "017_2021"
     },
     {
         "S": {
@@ -256,11 +256,11 @@
         "District": "Chennai",
         "Institution": "Appasamy Hospital",
         "COVID_BEDS_Total": "56",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "52",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "53",
         "OXYGEN_SUPPORTED_BEDS_Total": "47",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_30 17:07:36",
+        "Last_updated": "2021_07_01 09:57:37",
         "Contact_Number": "6379350953",
-        "Remarks": "June 30th@ 5:00 PM"
+        "Remarks": "June 1st@ 9:00 AM"
     },
     {
         "S": {
@@ -1995,9 +1995,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 10:59:07",
+        "Last_updated": "2021_07_01 10:26:34",
         "Contact_Number": "8903573717",
-        "Remarks": "30/06/2021"
+        "Remarks": "01/07/2021"
     },
     {
         "S": {
@@ -3045,7 +3045,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_30 10:27:58",
+        "Last_updated": "2021_07_01 09:54:29",
         "Contact_Number": "8870209559",
         "Remarks": ""
     },
@@ -6806,23 +6806,23 @@
         "District": "Kancheepuram",
         "Institution": "TCS, Sirucherry",
         "COVID_BEDS_Total": "40",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "40",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "37",
         "OXYGEN_SUPPORTED_BEDS_Total": "0",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "37",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 09:01:39",
+        "Last_updated": "2021_07_01 10:13:31",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 30/06/2021 09:00 AM"
+        "Remarks": "UPDATED TILL 01/07/2021 10:00 AM"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 09:30:33",
+        "Last_updated": "2021_07_01 09:52:56",
         "Contact_Number": "9940632392",
-        "Remarks": "30/06/2021"
+        "Remarks": "0107/2021"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 07:26:14",
+        "Last_updated": "2021_07_01 10:24:47",
         "Contact_Number": "9843604611",
         "Remarks": "2 Active cases____"
     },
@@ -9895,9 +9895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 09:50:21",
+        "Last_updated": "2021_07_01 10:19:52",
         "Contact_Number": "9524241241",
-        "Remarks": "Positive cases_ 6"
+        "Remarks": "Positive cases_ 7"
     },
     {
         "S": {
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_06_21 11:53:02",
+        "Last_updated": "2021_07_01 10:08:29",
         "Contact_Number": "9597221977",
         "Remarks": "_"
     },
