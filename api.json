@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "8",
-        "Last_updated": "2021_07_01 12:57:39",
+        "Last_updated": "2021_07_01 15:58:57",
         "Contact_Number": "8585858550",
-        "Remarks": "1_7_2021 1 PM update"
+        "Remarks": "1_7_2021 4 PM update"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_01 08:23:46",
+        "Last_updated": "2021_07_01 15:52:53",
         "Contact_Number": "8300017171",
-        "Remarks": "01/07/2021 @ 8_30 am"
+        "Remarks": "01/07/2021 @ 40 pm"
     },
     {
         "S": {
@@ -2706,8 +2706,8 @@
         "District": "Dindigul",
         "Institution": "Vel Multispeciality Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "47",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
@@ -2715,12 +2715,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "ICU_BEDS_Total": "10",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "7",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "8",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 08:22:19",
+        "Last_updated": "2021_07_01 15:47:06",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "27",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_01 15:09:50",
+        "Last_updated": "2021_07_01 16:23:43",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -7131,11 +7131,11 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "28",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 09:19:50",
+        "Last_updated": "2021_07_01 16:30:25",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 13:02:57",
+        "Last_updated": "2021_07_01 16:01:24",
         "Contact_Number": "7397591935",
-        "Remarks": "1_7_2021@1pM"
+        "Remarks": "1_7_2021@4pM"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 12:53:50",
+        "Last_updated": "2021_07_01 16:13:16",
         "Contact_Number": "9842966662",
-        "Remarks": "01/07/2021 at 01:00 PM"
+        "Remarks": "01/07/2021 at 04:00 PM"
     },
     {
         "S": {
@@ -11806,11 +11806,11 @@
         "District": "Coimbatore",
         "Institution": "Fathima Hospital,Podanur",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 09:11:45",
+        "Last_updated": "2021_07_01 16:34:29",
         "Contact_Number": "8098011072",
-        "Remarks": "17_2021"
+        "Remarks": "17_2021 / 4_30PM"
     },
     {
         "S": {
