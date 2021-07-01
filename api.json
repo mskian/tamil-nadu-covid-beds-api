@@ -570,9 +570,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 09:31:53",
+        "Last_updated": "2021_07_01 11:44:26",
         "Contact_Number": "8667243945",
-        "Remarks": "30/06/21"
+        "Remarks": "01/07/21"
     },
     {
         "S": {
@@ -4431,21 +4431,21 @@
         "District": "Salem",
         "Institution": "Kauvery Hospital, Salem",
         "COVID_BEDS_Total": "150",
-        "COVID_BEDS_Occupied": "59",
-        "COVID_BEDS_Vacant": "91",
+        "COVID_BEDS_Occupied": "48",
+        "COVID_BEDS_Vacant": "102",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "24",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "26",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "34",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "86",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "64",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "19",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "67",
         "ICU_BEDS_Total": "14",
         "ICU_BEDS_Occupied": "13",
         "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_06_28 09:35:22",
+        "Last_updated": "2021_07_01 12:02:46",
         "Contact_Number": "7397789300",
         "Remarks": "Nil"
     },
@@ -5456,11 +5456,11 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "191",
-        "COVID_BEDS_Occupied": "135",
-        "COVID_BEDS_Vacant": "56",
+        "COVID_BEDS_Occupied": "145",
+        "COVID_BEDS_Vacant": "46",
         "OXYGEN_SUPPORTED_BEDS_Total": "103",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "52",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "51",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "62",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "41",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 11:55:51",
+        "Last_updated": "2021_07_01 11:48:15",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 06:16:19",
+        "Last_updated": "2021_07_01 12:25:49",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 060am 017_2021"
+        "Remarks": "Till 120pm 017_2021"
     },
     {
         "S": {
