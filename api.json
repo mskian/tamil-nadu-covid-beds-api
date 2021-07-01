@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_07_01 11:28:31",
+        "Last_updated": "2021_07_01 15:14:34",
         "Contact_Number": "4430101111",
-        "Remarks": "01/07/2021 11_27 AM"
+        "Remarks": "01/07/2021 030 PM"
     },
     {
         "S": {
@@ -3381,8 +3381,8 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "33",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "32",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
@@ -3390,12 +3390,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "5",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "3",
-        "VENTILATOR_Occupied": "0",
-        "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_01 08:29:35",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_07_01 15:09:50",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_01 07:19:31",
+        "Last_updated": "2021_07_01 15:05:44",
         "Contact_Number": "9442667069",
-        "Remarks": "017_21"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -6145,7 +6145,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_01 07:22:06",
+        "Last_updated": "2021_07_01 15:05:25",
         "Contact_Number": "9150758413",
         "Remarks": "017_2021"
     },
