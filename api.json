@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_02 08:27:03",
+        "Last_updated": "2021_07_02 15:10:36",
         "Contact_Number": "9442667069",
-        "Remarks": "027_21"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -6145,7 +6145,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_02 07:41:20",
+        "Last_updated": "2021_07_02 14:40:18",
         "Contact_Number": "9150758413",
         "Remarks": "027_2021"
     },
