@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_01 21:54:01",
+        "Last_updated": "2021_07_02 08:04:34",
         "Contact_Number": "8300017171",
-        "Remarks": "01/07/2021 @ 9 pm"
+        "Remarks": "02/07/2021 @ 8 am"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_07_01 18:17:18",
+        "Last_updated": "2021_07_02 08:13:46",
         "Contact_Number": "4430101111",
-        "Remarks": "01/07/2021 06:16 PM"
+        "Remarks": "02/07/2021 08:12 AM"
     },
     {
         "S": {
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_01 16:23:43",
+        "Last_updated": "2021_07_02 08:15:18",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_01 15:05:44",
+        "Last_updated": "2021_07_02 08:27:03",
         "Contact_Number": "9442667069",
-        "Remarks": "NIL"
+        "Remarks": "027_21"
     },
     {
         "S": {
@@ -6306,11 +6306,11 @@
         "District": "Sivagangai",
         "Institution": "Devaki Multi Speciality Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "23",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "24",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 08:48:22",
+        "Last_updated": "2021_07_02 08:26:21",
         "Contact_Number": "7824950986",
-        "Remarks": "30_06_2021"
+        "Remarks": "02_07_2021"
     },
     {
         "S": {
@@ -7020,9 +7020,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_01 08:27:38",
+        "Last_updated": "2021_07_02 08:19:54",
         "Contact_Number": "9943450401",
-        "Remarks": "DISCHARGE _ 2"
+        "Remarks": "NO CHANGE"
     },
     {
         "S": {
@@ -7956,23 +7956,23 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "26",
-        "COVID_BEDS_Vacant": "59",
+        "COVID_BEDS_Occupied": "24",
+        "COVID_BEDS_Vacant": "61",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "ICU_BEDS_Total": "12",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "8",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "9",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_01 08:43:38",
+        "Last_updated": "2021_07_02 08:20:49",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 14 Suspected: 12 Updated"
+        "Remarks": "Covid Positive : 12 Suspected: 12 Updated"
     },
     {
         "S": {
@@ -8256,11 +8256,11 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "97",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "96",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_01 08:22:37",
+        "Last_updated": "2021_07_02 08:26:46",
         "Contact_Number": "9600240521",
-        "Remarks": "1/07/2021"
+        "Remarks": "2/07/2021"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 08:48:14",
+        "Last_updated": "2021_07_02 08:06:32",
         "Contact_Number": "7871081082",
-        "Remarks": "017_2021"
+        "Remarks": "027_2021"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 17:21:07",
+        "Last_updated": "2021_07_02 08:07:13",
         "Contact_Number": "6382253140",
-        "Remarks": "5pm"
+        "Remarks": "8"
     },
     {
         "S": {
