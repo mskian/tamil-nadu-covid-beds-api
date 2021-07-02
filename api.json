@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_01 09:57:37",
+        "Last_updated": "2021_07_02 10:07:28",
         "Contact_Number": "6379350953",
-        "Remarks": "June 1st@ 9:00 AM"
+        "Remarks": "June 2nd@ 9:00 AM"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "191",
-        "COVID_BEDS_Occupied": "145",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "137",
+        "COVID_BEDS_Vacant": "54",
         "OXYGEN_SUPPORTED_BEDS_Total": "103",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "62",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "41",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "58",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "88",
-        "ICU_BEDS_Occupied": "83",
-        "ICU_BEDS_Vacant": "5",
+        "ICU_BEDS_Occupied": "79",
+        "ICU_BEDS_Vacant": "9",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 11:48:15",
+        "Last_updated": "2021_07_02 09:50:56",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 17:28:46",
+        "Last_updated": "2021_07_02 10:04:48",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 01/07/2021 5:00 PM"
+        "Remarks": "UPDATED TILL 02/07/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 16:30:25",
+        "Last_updated": "2021_07_02 09:46:42",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 09:52:56",
+        "Last_updated": "2021_07_02 09:48:36",
         "Contact_Number": "9940632392",
-        "Remarks": "0107/2021"
+        "Remarks": "02/07/2021"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_01 10:24:47",
+        "Last_updated": "2021_07_02 09:58:52",
         "Contact_Number": "9843604611",
         "Remarks": "2 Active cases____"
     },
