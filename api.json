@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_03 21:07:06",
+        "Last_updated": "2021_07_04 10:14:50",
         "Contact_Number": "8300017171",
-        "Remarks": "03/07/2021 @ 9 pm"
+        "Remarks": "04/07/2021 @ 10 am"
     },
     {
         "S": {
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_03 10:02:06",
+        "Last_updated": "2021_07_04 09:52:18",
         "Contact_Number": "6379350953",
-        "Remarks": "June 3rd@ 9:00 AM"
+        "Remarks": "June 4th@ 9:00 AM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2021_07_04 08:59:01",
+        "Last_updated": "2021_07_04 09:59:32",
         "Contact_Number": "4430101111",
-        "Remarks": "04/07/2021 08_59 AM"
+        "Remarks": "04/07/2021 09:58 AM"
     },
     {
         "S": {
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_03 08:53:31",
+        "Last_updated": "2021_07_04 09:48:08",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3706,11 +3706,11 @@
         "District": "Mayiladuthurai",
         "Institution": "Cahoj Hospital",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "20",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -3720,7 +3720,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_26 06:45:54",
+        "Last_updated": "2021_07_04 10:10:14",
         "Contact_Number": "9488755241",
         "Remarks": "nil"
     },
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 12:45:07",
+        "Last_updated": "2021_07_04 09:53:13",
         "Contact_Number": "9095505550",
-        "Remarks": "nil"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5356,21 +5356,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "22",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "23",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_03 15:52:44",
+        "Last_updated": "2021_07_04 09:55:36",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 10:32:56",
+        "Last_updated": "2021_07_04 10:15:49",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 03_07_2021"
+        "Remarks": "updated 04_07_2021"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 17:13:16",
+        "Last_updated": "2021_07_04 09:47:21",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 03/07/2021 04:00 PM"
+        "Remarks": "UPDATED TILL 04/07/2021 09:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 16:03:21",
+        "Last_updated": "2021_07_04 09:58:16",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "133",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "132",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "73",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "71",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "36",
         "ICU_BEDS_Total": "27",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "25",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_03 17:09:27",
+        "Last_updated": "2021_07_04 10:02:42",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 09:47:00",
+        "Last_updated": "2021_07_04 10:20:14",
         "Contact_Number": "9940632392",
-        "Remarks": "03/07/2021"
+        "Remarks": "04/07/2021"
     },
     {
         "S": {
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_02 09:34:30",
+        "Last_updated": "2021_07_04 10:28:47",
         "Contact_Number": "8098011072",
-        "Remarks": "27_2021"
+        "Remarks": ""
     },
     {
         "S": {
