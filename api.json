@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_04 09:01:27",
+        "Last_updated": "2021_07_04 12:59:44",
         "Contact_Number": "8585858550",
-        "Remarks": "4_7_2021 7 AM update"
+        "Remarks": "4_7_2021 1 PM update"
     },
     {
         "S": {
@@ -3281,8 +3281,8 @@
         "District": "Krishnagiri",
         "Institution": "Chandrasekara Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "40",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "41",
         "OXYGEN_SUPPORTED_BEDS_Total": "44",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "36",
@@ -3290,12 +3290,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 10:12:51",
+        "Last_updated": "2021_07_04 12:42:09",
         "Contact_Number": "9655206585",
         "Remarks": "50"
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_04 09:09:53",
+        "Last_updated": "2021_07_04 13:28:04",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_04 09:55:36",
+        "Last_updated": "2021_07_04 13:26:43",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 09:47:21",
+        "Last_updated": "2021_07_04 13:18:04",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 04/07/2021 09:00 AM"
+        "Remarks": "UPDATED TILL 04/07/2021 01:00 PM"
     },
     {
         "S": {
@@ -6906,21 +6906,21 @@
         "District": "Krishnagiri",
         "Institution": "Sri Chandrasekaran Hospital unit _2, Hosur",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "81",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "82",
         "OXYGEN_SUPPORTED_BEDS_Total": "69",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "60",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "62",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "20",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "20",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "19",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_03 10:11:45",
+        "Last_updated": "2021_07_04 12:42:55",
         "Contact_Number": "9655206592",
         "Remarks": "90 beds"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 08:58:31",
+        "Last_updated": "2021_07_04 13:13:55",
         "Contact_Number": "7397591935",
-        "Remarks": "4_7_2021@9am"
+        "Remarks": "4_7_2021@4pm"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 08:52:11",
+        "Last_updated": "2021_07_04 13:25:52",
         "Contact_Number": "6382253140",
-        "Remarks": "9am"
+        "Remarks": "1pm"
     },
     {
         "S": {
