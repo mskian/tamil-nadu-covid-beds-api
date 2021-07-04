@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_03 15:17:09",
+        "Last_updated": "2021_07_04 08:20:11",
         "Contact_Number": "9442667069",
-        "Remarks": "NIL"
+        "Remarks": "047_21"
     },
     {
         "S": {
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 08:22:08",
+        "Last_updated": "2021_07_04 08:31:54",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 027_2021"
+        "Remarks": "Updated on 047_2021"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 14:02:46",
+        "Last_updated": "2021_07_04 08:06:04",
         "Contact_Number": "8870007450",
-        "Remarks": "037_2021 Evening report"
+        "Remarks": "047_2021 Morning report"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "23",
-        "COVID_BEDS_Vacant": "62",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "63",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_03 08:36:18",
+        "Last_updated": "2021_07_04 08:26:07",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 12 Suspected: 11 Updated"
+        "Remarks": "Covid Positive : 13 Suspected: 9 Updated"
     },
     {
         "S": {
@@ -8256,11 +8256,11 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "94",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "95",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_03 08:47:20",
+        "Last_updated": "2021_07_04 08:18:30",
         "Contact_Number": "9600240521",
-        "Remarks": "3/07/2021"
+        "Remarks": "4 /07/2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 08:22:37",
+        "Last_updated": "2021_07_04 08:31:35",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 027_2021"
+        "Remarks": "Updated 047_2021"
     },
     {
         "S": {
@@ -10056,11 +10056,11 @@
         "District": "Chengalpattu",
         "Institution": "Das Nursing Home,Chengalpattu",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "7",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
@@ -10070,7 +10070,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_03 18:04:48",
+        "Last_updated": "2021_07_04 08:30:18",
         "Contact_Number": "7200084041",
         "Remarks": ""
     },
