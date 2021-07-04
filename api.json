@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_04 12:59:44",
+        "Last_updated": "2021_07_04 16:30:03",
         "Contact_Number": "8585858550",
-        "Remarks": "4_7_2021 1 PM update"
+        "Remarks": "4_7_2021 4 PM update"
     },
     {
         "S": {
@@ -256,11 +256,11 @@
         "District": "Chennai",
         "Institution": "Appasamy Hospital",
         "COVID_BEDS_Total": "56",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "54",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "47",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_04 09:52:18",
+        "Last_updated": "2021_07_04 15:56:21",
         "Contact_Number": "6379350953",
-        "Remarks": "June 4th@ 9:00 AM"
+        "Remarks": "June 4th@ 4:00 PM"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_04 08:20:11",
+        "Last_updated": "2021_07_04 16:01:40",
         "Contact_Number": "9442667069",
-        "Remarks": "047_21"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 09:53:13",
+        "Last_updated": "2021_07_04 16:30:24",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_04 13:26:43",
+        "Last_updated": "2021_07_04 16:31:44",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
