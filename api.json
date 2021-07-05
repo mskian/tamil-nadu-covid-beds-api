@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_05 10:09:01",
+        "Last_updated": "2021_07_05 13:07:02",
         "Contact_Number": "8585858550",
-        "Remarks": "5_7_2021 9 AM update l"
+        "Remarks": "5_7_2021 1 PM update"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_05 09:21:32",
+        "Last_updated": "2021_07_05 13:01:29",
         "Contact_Number": "9442667069",
-        "Remarks": "NIL"
+        "Remarks": "SRI"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 09:15:57",
+        "Last_updated": "2021_07_05 12:53:31",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5345,7 +5345,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_03 12:52:33",
+        "Last_updated": "2021_07_05 12:37:38",
         "Contact_Number": "9344270185",
         "Remarks": "NIL_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_05 09:19:41",
+        "Last_updated": "2021_07_05 12:56:18",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7031,8 +7031,8 @@
         "District": "Madurai",
         "Institution": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "44",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7040,14 +7040,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "33",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "30",
+        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Vacant": "28",
         "VENTILATOR_Total": "8",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "8",
-        "Last_updated": "2021_07_03 12:49:14",
+        "Last_updated": "2021_07_05 13:34:23",
         "Contact_Number": "9003900349",
-        "Remarks": "03_07_2021"
+        "Remarks": "05_07_2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 09:06:44",
+        "Last_updated": "2021_07_05 13:15:05",
         "Contact_Number": "7397591935",
-        "Remarks": "5_7_2021@9Am"
+        "Remarks": "5_7_2021@1pm"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "16",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "13",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 12:21:42",
+        "Last_updated": "2021_07_05 13:13:36",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
