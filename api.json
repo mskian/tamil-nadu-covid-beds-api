@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_04 16:30:03",
+        "Last_updated": "2021_07_05 10:09:01",
         "Contact_Number": "8585858550",
-        "Remarks": "4_7_2021 4 PM update"
+        "Remarks": "5_7_2021 9 AM update l"
     },
     {
         "S": {
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_04 15:56:21",
+        "Last_updated": "2021_07_05 09:49:37",
         "Contact_Number": "6379350953",
-        "Remarks": "June 4th@ 4:00 PM"
+        "Remarks": "June 5th@ 9:00 AM"
     },
     {
         "S": {
@@ -2545,9 +2545,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 09:15:05",
+        "Last_updated": "2021_07_05 10:22:07",
         "Contact_Number": "9384084606",
-        "Remarks": "047_21"
+        "Remarks": "057_21"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 13:18:04",
+        "Last_updated": "2021_07_05 09:57:01",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 04/07/2021 01:00 PM"
+        "Remarks": "UPDATED TILL 05/07/2021 09:00 AM"
     },
     {
         "S": {
@@ -7131,11 +7131,11 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 17:36:58",
+        "Last_updated": "2021_07_05 09:46:11",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -9030,24 +9030,24 @@
         },
         "District": "Chengalpattu",
         "Institution": "Kasthuri Hospital , Thambaram",
-        "COVID_BEDS_Total": "37",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "36",
-        "OXYGEN_SUPPORTED_BEDS_Total": "34",
+        "COVID_BEDS_Total": "20",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "20",
+        "OXYGEN_SUPPORTED_BEDS_Total": "17",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "34",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "3",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "2",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_06_16 17:44:55",
+        "Last_updated": "2021_07_05 10:32:25",
         "Contact_Number": "7299009287",
-        "Remarks": "16_06_2021, 04:00 AM"
+        "Remarks": "05_07_2021, 09:00 AM"
     },
     {
         "S": {
