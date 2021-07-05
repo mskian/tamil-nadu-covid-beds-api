@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2021_07_05 08:41:22",
+        "Last_updated": "2021_07_05 15:56:54",
         "Contact_Number": "4430101111",
-        "Remarks": "05/07/2021 08_40 AM"
+        "Remarks": "05/07/2021 03_55 pM"
     },
     {
         "S": {
@@ -2530,22 +2530,22 @@
         },
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
-        "COVID_BEDS_Total": "64",
+        "COVID_BEDS_Total": "50",
         "COVID_BEDS_Occupied": "50",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Vacant": "0",
         "OXYGEN_SUPPORTED_BEDS_Total": "38",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "38",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "14",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "14",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "12",
         "ICU_BEDS_Occupied": "12",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "10",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 10:22:07",
+        "Last_updated": "2021_07_05 15:50:05",
         "Contact_Number": "9384084606",
         "Remarks": "057_21"
     },
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_05 09:18:32",
+        "Last_updated": "2021_07_05 16:11:55",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_05 09:02:26",
+        "Last_updated": "2021_07_05 16:00:48",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_05 13:01:29",
+        "Last_updated": "2021_07_05 15:50:41",
         "Contact_Number": "9442667069",
-        "Remarks": "SRI"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_05 12:56:18",
+        "Last_updated": "2021_07_05 16:02:09",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 09:27:16",
+        "Last_updated": "2021_07_05 16:20:03",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 05/07/2021 09_27 AM"
+        "Remarks": "Updated 05/07/2021 04_19 PM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 09:57:01",
+        "Last_updated": "2021_07_05 16:34:57",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 05/07/2021 09:00 AM"
+        "Remarks": "UPDATED TILL 05/07/2021 04:00 PM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 09:46:11",
+        "Last_updated": "2021_07_05 15:50:29",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 12:19:43",
+        "Last_updated": "2021_07_05 16:10:56",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 12_20am 057_2021"
+        "Remarks": "Till 040pm 057_2021"
     },
     {
         "S": {
