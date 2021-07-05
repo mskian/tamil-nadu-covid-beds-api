@@ -3970,9 +3970,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 09:02:03",
+        "Last_updated": "2021_07_05 08:22:04",
         "Contact_Number": "9447276304",
-        "Remarks": "4/7/21"
+        "Remarks": "5/7/21"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "191",
-        "COVID_BEDS_Occupied": "133",
-        "COVID_BEDS_Vacant": "58",
+        "COVID_BEDS_Occupied": "140",
+        "COVID_BEDS_Vacant": "51",
         "OXYGEN_SUPPORTED_BEDS_Total": "103",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "54",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "49",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "62",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "41",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "88",
-        "ICU_BEDS_Occupied": "79",
-        "ICU_BEDS_Vacant": "9",
+        "ICU_BEDS_Occupied": "78",
+        "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 08:46:10",
+        "Last_updated": "2021_07_05 08:32:22",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7006,11 +7006,11 @@
         "District": "Madurai",
         "Institution": "Grace Kennett Foundation Hospital, Kennett Road",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -7020,9 +7020,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_03 08:31:35",
+        "Last_updated": "2021_07_05 08:19:59",
         "Contact_Number": "9943450401",
-        "Remarks": "NO CHANGE"
+        "Remarks": "ADMISSION _ 1"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "22",
-        "COVID_BEDS_Vacant": "63",
+        "COVID_BEDS_Occupied": "24",
+        "COVID_BEDS_Vacant": "61",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "23",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "27",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_04 08:26:07",
+        "Last_updated": "2021_07_05 08:17:36",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 13 Suspected: 9 Updated"
+        "Remarks": "Covid Positive : 17 Suspected: 7 Updated"
     },
     {
         "S": {
@@ -9595,9 +9595,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_03 10:32:31",
+        "Last_updated": "2021_07_05 08:29:30",
         "Contact_Number": "9843604611",
-        "Remarks": "0 cases"
+        "Remarks": "00 cases"
     },
     {
         "S": {
