@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_04 13:28:04",
+        "Last_updated": "2021_07_05 06:53:31",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 08:31:54",
+        "Last_updated": "2021_07_05 06:28:40",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 047_2021"
+        "Remarks": "Updated on 057_2021"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_04 07:38:30",
+        "Last_updated": "2021_07_05 07:45:59",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 047_2021"
+        "Remarks": "Update 057_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "82",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "83",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "82",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "83",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_04 07:11:08",
+        "Last_updated": "2021_07_05 07:16:11",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 10:15:49",
+        "Last_updated": "2021_07_05 07:26:07",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 04_07_2021"
+        "Remarks": "updated 05_07_2021"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 14:55:24",
+        "Last_updated": "2021_07_05 07:35:50",
         "Contact_Number": "8870007450",
-        "Remarks": "047_2021 evening report"
+        "Remarks": "057_2021 Morning report"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 17:31:53",
+        "Last_updated": "2021_07_05 07:29:27",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 5_30pm 047_2021"
+        "Remarks": "Till 07_30am 057_2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_04 08:31:35",
+        "Last_updated": "2021_07_05 06:29:10",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 047_2021"
+        "Remarks": "Updated 057_2021"
     },
     {
         "S": {
