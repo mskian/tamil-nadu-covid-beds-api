@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_06 08:47:52",
+        "Last_updated": "2021_07_06 17:21:49",
         "Contact_Number": "8300017171",
-        "Remarks": "06/07/2021 @ 9 am"
+        "Remarks": "06/07/2021 @ 5 pm"
     },
     {
         "S": {
@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "4",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_06 07:53:07",
+        "Last_updated": "2021_07_06 16:53:45",
         "Contact_Number": "7824821042",
         "Remarks": "067_2021"
     },
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_06 10:15:52",
+        "Last_updated": "2021_07_06 17:08:37",
         "Contact_Number": "6379350953",
-        "Remarks": "June 6th@ 9:00 AM"
+        "Remarks": "June 6th@ 5:00 PM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2021_07_06 07:01:59",
+        "Last_updated": "2021_07_06 17:02:41",
         "Contact_Number": "4430101111",
-        "Remarks": "06/07/2021 070 AM"
+        "Remarks": "06/07/2021 050 PM"
     },
     {
         "S": {
@@ -1981,11 +1981,11 @@
         "District": "Chennai",
         "Institution": "The Guest Hospital, Kilpauk",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "6",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -1995,7 +1995,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 10:15:21",
+        "Last_updated": "2021_07_06 16:43:14",
         "Contact_Number": "8903573717",
         "Remarks": "06/07/2021"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_06 12:57:10",
+        "Last_updated": "2021_07_06 16:55:09",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 13:14:05",
+        "Last_updated": "2021_07_06 17:01:38",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 06/07/2021 1:00 PM"
+        "Remarks": "UPDATED TILL 06/07/2021 4:00 PM"
     },
     {
         "S": {
@@ -14056,11 +14056,11 @@
         "District": "Kanyakumari",
         "Institution": "William Hospital,Nagercoil",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "9",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_01 10:08:29",
+        "Last_updated": "2021_07_06 17:13:00",
         "Contact_Number": "9597221977",
         "Remarks": "_"
     },
