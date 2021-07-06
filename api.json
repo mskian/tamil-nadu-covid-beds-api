@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 07:45:08",
+        "Last_updated": "2021_07_06 14:17:29",
         "Contact_Number": "8870007450",
-        "Remarks": "067_2021 Morning report"
+        "Remarks": "067_2021 Evening report"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 07:53:23",
+        "Last_updated": "2021_07_06 13:57:17",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 080am 067_2021"
+        "Remarks": "Till 01_50pm 067_2021"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "13",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_05 13:13:36",
+        "Last_updated": "2021_07_06 14:19:58",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
