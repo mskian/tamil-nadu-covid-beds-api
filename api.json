@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_06 16:02:44",
+        "Last_updated": "2021_07_07 07:04:56",
         "Contact_Number": "8585858550",
-        "Remarks": "6_7_2021 4 PM update"
+        "Remarks": "7_7_2021 7 AM update"
     },
     {
         "S": {
@@ -1956,23 +1956,23 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "400",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "401",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "342",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "341",
         "ICU_BEDS_Total": "16",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "13",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "15",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2021_07_07 05:16:40",
+        "Last_updated": "2021_07_07 07:34:47",
         "Contact_Number": "4430101111",
-        "Remarks": "07/07/2021 05_18 AM"
+        "Remarks": "07/07/2021 07_33 AM"
     },
     {
         "S": {
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_06 09:01:16",
+        "Last_updated": "2021_07_07 07:41:51",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_06 19:07:15",
+        "Last_updated": "2021_07_07 07:38:27",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_06 07:01:07",
+        "Last_updated": "2021_07_07 07:29:52",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 14:17:29",
+        "Last_updated": "2021_07_07 07:02:01",
         "Contact_Number": "8870007450",
-        "Remarks": "067_2021 Evening report"
+        "Remarks": "077_2021 Morning report"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 16:24:50",
+        "Last_updated": "2021_07_07 07:32:30",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 04_20pm 067_2021"
+        "Remarks": "Till 07_30am 077_2021"
     },
     {
         "S": {
