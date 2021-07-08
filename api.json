@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_07 15:54:32",
+        "Last_updated": "2021_07_08 07:35:48",
         "Contact_Number": "8585858550",
-        "Remarks": "7_7_2021 4PM update"
+        "Remarks": "8_7_2021 7 AM update"
     },
     {
         "S": {
@@ -5006,21 +5006,21 @@
         "District": "Tirunelveli",
         "Institution": "Ponra Multispeciality Hospital",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "12",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_30 09:18:14",
+        "Last_updated": "2021_07_08 07:22:18",
         "Contact_Number": "8300508737",
         "Remarks": "__"
     },
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_07 09:09:29",
+        "Last_updated": "2021_07_08 07:12:23",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 077_2021"
+        "Remarks": "Updated on 087_2021"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_07 04:32:33",
+        "Last_updated": "2021_07_08 07:30:21",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 077_2021"
+        "Remarks": "Update 087_2021"
     },
     {
         "S": {
@@ -6531,11 +6531,11 @@
         "District": "Madurai",
         "Institution": "Ahana Hospital,11,Subramanian st,Annanagar,Madurai",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "84",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "88",
         "OXYGEN_SUPPORTED_BEDS_Total": "89",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "84",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "88",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6545,7 +6545,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_07 07:29:52",
+        "Last_updated": "2021_07_08 07:24:17",
         "Contact_Number": "9659462722",
         "Remarks": "Nil___"
     },
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_07 14:28:19",
+        "Last_updated": "2021_07_08 07:19:36",
         "Contact_Number": "8870007450",
-        "Remarks": "077_2021 Evening report"
+        "Remarks": "087_2021 Morning report"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_07 09:10:34",
+        "Last_updated": "2021_07_08 07:12:50",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 077_2021"
+        "Remarks": "Updated 087_2021"
     },
     {
         "S": {
