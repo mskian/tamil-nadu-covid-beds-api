@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_08 07:35:48",
+        "Last_updated": "2021_07_08 13:08:24",
         "Contact_Number": "8585858550",
-        "Remarks": "8_7_2021 7 AM update"
+        "Remarks": "8_7_2021 1 PM update"
     },
     {
         "S": {
@@ -3381,8 +3381,8 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "33",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "34",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
@@ -3390,12 +3390,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "3",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_08 08:10:13",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_07_08 13:24:52",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_08 09:33:14",
+        "Last_updated": "2021_07_08 13:25:34",
         "Contact_Number": "9442667069",
-        "Remarks": "NIL"
+        "Remarks": "SRI"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_08 09:17:27",
+        "Last_updated": "2021_07_08 13:10:45",
         "Contact_Number": "7397591935",
-        "Remarks": "8_7_2021@9Am"
+        "Remarks": "8_7_2021@1PM"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_08 10:08:09",
+        "Last_updated": "2021_07_08 13:25:57",
         "Contact_Number": "9384676001",
-        "Remarks": "08/07/2021 at 09:00 AM"
+        "Remarks": "08/07/2021 at 01:00 PM"
     },
     {
         "S": {
