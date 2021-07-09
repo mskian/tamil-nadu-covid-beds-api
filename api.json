@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_08 13:24:52",
+        "Last_updated": "2021_07_09 08:35:10",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_08 09:29:40",
+        "Last_updated": "2021_07_09 08:25:38",
         "Contact_Number": "7824950986",
-        "Remarks": "08_07_2021"
+        "Remarks": "09_07_2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_08 16:07:20",
+        "Last_updated": "2021_07_09 08:33:00",
         "Contact_Number": "7397591935",
-        "Remarks": "8_7_2021@4PM"
+        "Remarks": "9_7_2021@9AM"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "68",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "63",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "35",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "20",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7968,11 +7968,11 @@
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "4",
-        "VENTILATOR_Occupied": "1",
-        "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_08 08:27:03",
+        "VENTILATOR_Occupied": "2",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_07_09 08:31:09",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 10 Suspected: 7 Updated"
+        "Remarks": "Covid Positive : 9 Suspected: 13 Updated"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_08 18:49:09",
+        "Last_updated": "2021_07_09 08:10:05",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 05_50Pm 087_2021"
+        "Remarks": "Till 080am 097_2021"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "13",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 14:19:58",
+        "Last_updated": "2021_07_09 08:17:00",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
