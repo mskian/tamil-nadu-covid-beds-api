@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_09 12:56:18",
+        "Last_updated": "2021_07_09 16:00:28",
         "Contact_Number": "9442667069",
-        "Remarks": "NIL"
+        "Remarks": "sri"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 12:55:06",
+        "Last_updated": "2021_07_09 16:32:23",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_09 12:57:55",
+        "Last_updated": "2021_07_09 16:33:50",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 14:07:59",
+        "Last_updated": "2021_07_09 16:35:12",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 9/07/2021 1:00 PM"
+        "Remarks": "UPDATED TILL 9/07/2021 4:00 PM"
     },
     {
         "S": {
@@ -7131,11 +7131,11 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "29",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 10:01:17",
+        "Last_updated": "2021_07_09 16:09:22",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 13:01:39",
+        "Last_updated": "2021_07_09 15:53:55",
         "Contact_Number": "7397591935",
-        "Remarks": "9_7_2021@1pM"
+        "Remarks": "9_7_2021@4pM"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 12:33:29",
+        "Last_updated": "2021_07_09 16:02:56",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 12_30pm 097_2021"
+        "Remarks": "Till 040pm 097_2021"
     },
     {
         "S": {
@@ -12081,8 +12081,8 @@
         "District": "Thoothukudi",
         "Institution": "Sasi Hospital, Kovilpatti",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "24",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "25",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
@@ -12090,14 +12090,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 10:26:57",
+        "Last_updated": "2021_07_09 15:39:40",
         "Contact_Number": "6382253140",
-        "Remarks": "10am"
+        "Remarks": "3_40pm"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "11",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 08:17:00",
+        "Last_updated": "2021_07_09 16:04:36",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
