@@ -8256,11 +8256,11 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "96",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "97",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_08 10:12:35",
+        "Last_updated": "2021_07_09 10:48:45",
         "Contact_Number": "9600240521",
-        "Remarks": "8/07/2021"
+        "Remarks": "9/07/2021"
     },
     {
         "S": {
