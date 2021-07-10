@@ -3031,21 +3031,21 @@
         "District": "Kancheepuram",
         "Institution": "Madha Medical College&Research Institute",
         "COVID_BEDS_Total": "550",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "548",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "547",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "534",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "534",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "533",
         "ICU_BEDS_Total": "6",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_08 10:29:29",
+        "Last_updated": "2021_07_10 10:30:26",
         "Contact_Number": "8870209559",
         "Remarks": ""
     },
@@ -8256,23 +8256,23 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "97",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "100",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "14",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "15",
         "VENTILATOR_Total": "4",
-        "VENTILATOR_Occupied": "1",
-        "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_09 10:48:45",
+        "VENTILATOR_Occupied": "0",
+        "VENTILATOR_Vacant": "4",
+        "Last_updated": "2021_07_10 10:24:21",
         "Contact_Number": "9600240521",
-        "Remarks": "9/07/2021"
+        "Remarks": "10/07/2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_10 05:47:03",
+        "Last_updated": "2021_07_10 09:47:07",
         "Contact_Number": "9384676001",
-        "Remarks": "10/07/2021 at 06:00 AM"
+        "Remarks": "10/07/2021 at 09:00 AM"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_09 15:39:40",
+        "Last_updated": "2021_07_10 10:17:27",
         "Contact_Number": "6382253140",
-        "Remarks": "3_40pm"
+        "Remarks": "10am"
     },
     {
         "S": {
