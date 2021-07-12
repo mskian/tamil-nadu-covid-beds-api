@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_11 15:58:20",
+        "Last_updated": "2021_07_12 07:44:19",
         "Contact_Number": "8585858550",
-        "Remarks": "11_7_2021 4 PM update"
+        "Remarks": "12_7_2021 7AM update"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_11 14:41:07",
+        "Last_updated": "2021_07_12 07:38:31",
         "Contact_Number": "8870007450",
-        "Remarks": "117_2021 evening report"
+        "Remarks": "127_2021 Morning report"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "24",
-        "COVID_BEDS_Vacant": "61",
+        "COVID_BEDS_Occupied": "23",
+        "COVID_BEDS_Vacant": "62",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7968,11 +7968,11 @@
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "4",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_11 07:39:53",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_07_12 07:36:39",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 16 Suspected: 8 Updated"
+        "Remarks": "Covid Positive : 15 Suspected: 8 Updated"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_11 08:39:05",
+        "Last_updated": "2021_07_12 06:40:42",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 08_30am 117_2021"
+        "Remarks": "Till 06_30am 127_2021"
     },
     {
         "S": {
