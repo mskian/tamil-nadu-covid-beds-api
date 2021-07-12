@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_12 15:45:38",
+        "Last_updated": "2021_07_12 18:02:35",
         "Contact_Number": "4430101111",
-        "Remarks": "12/07/2021 03_45 PM"
+        "Remarks": "12/07/2021 061 PM"
     },
     {
         "S": {
@@ -10056,11 +10056,11 @@
         "District": "Chengalpattu",
         "Institution": "Das Nursing Home,Chengalpattu",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "7",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
@@ -10070,7 +10070,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_04 08:30:18",
+        "Last_updated": "2021_07_12 17:51:42",
         "Contact_Number": "7200084041",
         "Remarks": ""
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 09:50:32",
+        "Last_updated": "2021_07_12 17:47:33",
         "Contact_Number": "6382253140",
-        "Remarks": "9_50"
+        "Remarks": "5"
     },
     {
         "S": {
