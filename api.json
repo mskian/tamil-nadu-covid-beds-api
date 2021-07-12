@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_12 12:59:30",
+        "Last_updated": "2021_07_12 15:56:27",
         "Contact_Number": "8585858550",
-        "Remarks": "12_7_2021 1 PM update"
+        "Remarks": "12_7_2021 4PM update"
     },
     {
         "S": {
@@ -595,9 +595,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_10 09:08:18",
+        "Last_updated": "2021_07_12 16:16:18",
         "Contact_Number": "7299693649",
-        "Remarks": "10/07/2021"
+        "Remarks": "12/07/2021"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_12 13:39:00",
+        "Last_updated": "2021_07_12 15:45:38",
         "Contact_Number": "4430101111",
-        "Remarks": "12/07/2021 01_37 PM"
+        "Remarks": "12/07/2021 03_45 PM"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_12 13:04:36",
+        "Last_updated": "2021_07_12 16:14:31",
         "Contact_Number": "9442667069",
-        "Remarks": "127_21"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 09:21:25",
+        "Last_updated": "2021_07_12 15:41:29",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_12 12:54:59",
+        "Last_updated": "2021_07_12 15:42:20",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 09:27:25",
+        "Last_updated": "2021_07_12 16:30:15",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 12/07/2021 9:30 AM"
+        "Remarks": "UPDATED TILL 12/07/2021 4:00 PM"
     },
     {
         "S": {
@@ -7131,11 +7131,11 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 09:39:08",
+        "Last_updated": "2021_07_12 16:09:53",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 13:10:23",
+        "Last_updated": "2021_07_12 16:16:28",
         "Contact_Number": "7397591935",
-        "Remarks": "12_7_2021@1pM"
+        "Remarks": "12_7_2021@4:00pM"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 13:04:50",
+        "Last_updated": "2021_07_12 15:57:12",
         "Contact_Number": "9384676001",
-        "Remarks": "12/07/2021 at 1:00 PM"
+        "Remarks": "12/07/2021 at 4:00 PM"
     },
     {
         "S": {
