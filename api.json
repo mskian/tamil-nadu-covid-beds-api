@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_11 18:50:39",
+        "Last_updated": "2021_07_12 08:10:43",
         "Contact_Number": "8300017171",
-        "Remarks": "11/07/2021 @ 6 pm"
+        "Remarks": "12/07/2021 @ 8 am"
     },
     {
         "S": {
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_11 10:49:27",
+        "Last_updated": "2021_07_12 08:35:25",
         "Contact_Number": "6379350953",
-        "Remarks": "June 11th@ 9:00 AM"
+        "Remarks": "June 12th@ 9:00 AM"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_11 08:27:37",
+        "Last_updated": "2021_07_12 08:36:25",
         "Contact_Number": "4430101111",
-        "Remarks": "11/07/2021 08:30AM"
+        "Remarks": "12/07/2021 08:30AM"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_11 16:55:48",
+        "Last_updated": "2021_07_12 08:04:32",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_10 06:57:19",
+        "Last_updated": "2021_07_12 08:17:55",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 107_2021"
+        "Remarks": "Updated on 127_2021"
     },
     {
         "S": {
@@ -5131,11 +5131,11 @@
         "District": "Thiruvarur",
         "Institution": "Thiruvarur Medical Centre",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "28",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_11 07:59:23",
+        "Last_updated": "2021_07_12 08:02:23",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 117_2021"
+        "Remarks": "Update 127_2021"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "191",
-        "COVID_BEDS_Occupied": "133",
-        "COVID_BEDS_Vacant": "58",
+        "COVID_BEDS_Occupied": "131",
+        "COVID_BEDS_Vacant": "60",
         "OXYGEN_SUPPORTED_BEDS_Total": "103",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "60",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "43",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "57",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "88",
-        "ICU_BEDS_Occupied": "73",
-        "ICU_BEDS_Vacant": "15",
+        "ICU_BEDS_Occupied": "74",
+        "ICU_BEDS_Vacant": "14",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_11 09:23:29",
+        "Last_updated": "2021_07_12 08:18:33",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_11 11:39:03",
+        "Last_updated": "2021_07_12 08:37:12",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 11_07_2021"
+        "Remarks": "updated 12_07_2021"
     },
     {
         "S": {
@@ -7020,9 +7020,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_10 08:32:09",
+        "Last_updated": "2021_07_12 08:25:59",
         "Contact_Number": "9943450401",
-        "Remarks": "DISCHARGE _ 1"
+        "Remarks": "NO CHANGE"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_10 06:56:55",
+        "Last_updated": "2021_07_12 08:18:28",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 107_2021"
+        "Remarks": "Updated 127_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 05:11:15",
+        "Last_updated": "2021_07_12 08:01:49",
         "Contact_Number": "9384676001",
-        "Remarks": "12/07/2021 at 5:00 am"
+        "Remarks": "12/07/2021 at 8:00 am"
     },
     {
         "S": {
