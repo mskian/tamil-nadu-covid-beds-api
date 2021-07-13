@@ -556,11 +556,11 @@
         "District": "Chennai",
         "Institution": "CSI Kalyani General Hospital",
         "COVID_BEDS_Total": "110",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "108",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "107",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "49",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -570,7 +570,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_13 09:31:03",
+        "Last_updated": "2021_07_13 13:14:25",
         "Contact_Number": "8667243945",
         "Remarks": "13/07/210"
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_13 09:31:35",
+        "Last_updated": "2021_07_13 13:22:53",
         "Contact_Number": "9442667069",
-        "Remarks": "137_2021"
+        "Remarks": "137_21"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 09:17:38",
+        "Last_updated": "2021_07_13 12:59:16",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_13 09:20:46",
+        "Last_updated": "2021_07_13 13:00:33",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 09:23:23",
+        "Last_updated": "2021_07_13 13:08:18",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 13/07/2021 09_23AM"
+        "Remarks": "Updated 13/07/2021 018PM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 09:50:08",
+        "Last_updated": "2021_07_13 13:03:34",
         "Contact_Number": "7397591935",
-        "Remarks": "13_7_2021@9:00am"
+        "Remarks": "13_7_2021@1:00pm"
     },
     {
         "S": {
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "136",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "140",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "73",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "37",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "ICU_BEDS_Total": "27",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "26",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "27",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_12 08:53:54",
+        "Last_updated": "2021_07_13 13:08:54",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
