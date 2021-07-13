@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_12 17:22:16",
+        "Last_updated": "2021_07_13 10:25:12",
         "Contact_Number": "8300017171",
-        "Remarks": "12/07/2021 @ 5 pm"
+        "Remarks": "13/07/2021 @ 10 am"
     },
     {
         "S": {
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 09:05:54",
+        "Last_updated": "2021_07_13 09:46:14",
         "Contact_Number": "7824950986",
-        "Remarks": "12_07_2021"
+        "Remarks": "13_07_2021"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 16:09:53",
+        "Last_updated": "2021_07_13 09:50:46",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "50",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "54",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 16:16:28",
+        "Last_updated": "2021_07_13 09:50:08",
         "Contact_Number": "7397591935",
-        "Remarks": "12_7_2021@4:00pM"
+        "Remarks": "13_7_2021@9:00am"
     },
     {
         "S": {
@@ -9581,11 +9581,11 @@
         "District": "Tirunelveli",
         "Institution": "VJ Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "25",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "24",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
@@ -9595,9 +9595,9 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_06 09:59:21",
+        "Last_updated": "2021_07_13 10:27:52",
         "Contact_Number": "9843604611",
-        "Remarks": ""
+        "Remarks": "1 Active cases"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 05:47:36",
+        "Last_updated": "2021_07_13 10:13:03",
         "Contact_Number": "9384676001",
-        "Remarks": "13/07/2021 at 6:00 am"
+        "Remarks": "13/07/2021 at 9:00 am"
     },
     {
         "S": {
@@ -11820,9 +11820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_08 09:50:21",
+        "Last_updated": "2021_07_13 10:01:22",
         "Contact_Number": "8098011072",
-        "Remarks": "08/07/2021"
+        "Remarks": "13/07/2021"
     },
     {
         "S": {
