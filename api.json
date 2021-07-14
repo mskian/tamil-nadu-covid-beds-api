@@ -1781,11 +1781,11 @@
         "District": "Chennai",
         "Institution": "Sri Ramachandra Medical College Hospital, Porur",
         "COVID_BEDS_Total": "300",
-        "COVID_BEDS_Occupied": "21",
-        "COVID_BEDS_Vacant": "279",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "278",
         "OXYGEN_SUPPORTED_BEDS_Total": "260",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "244",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "243",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "30",
@@ -1795,7 +1795,7 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 08:44:07",
+        "Last_updated": "2021_07_14 08:33:44",
         "Contact_Number": "8939433555",
         "Remarks": ""
     },
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_13 20:49:47",
+        "Last_updated": "2021_07_14 07:53:59",
         "Contact_Number": "4430101111",
-        "Remarks": "13/07/2021 08_49 PM"
+        "Remarks": "14/07/2021 07_52 AM"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 09:34:59",
+        "Last_updated": "2021_07_14 08:19:37",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 13_07_2021"
+        "Remarks": "updated 14_07_2021"
     },
     {
         "S": {
@@ -7020,7 +7020,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_13 08:22:20",
+        "Last_updated": "2021_07_14 08:21:41",
         "Contact_Number": "9943450401",
         "Remarks": "NO CHANGE"
     },
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "17",
-        "COVID_BEDS_Vacant": "68",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "73",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "35",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_13 08:35:08",
+        "Last_updated": "2021_07_14 08:23:34",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 10 Suspected: 7 Updated"
+        "Remarks": "Covid Positive : 6 Suspected: 6 Updated"
     },
     {
         "S": {
