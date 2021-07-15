@@ -1781,21 +1781,21 @@
         "District": "Chennai",
         "Institution": "Sri Ramachandra Medical College Hospital, Porur",
         "COVID_BEDS_Total": "300",
-        "COVID_BEDS_Occupied": "22",
-        "COVID_BEDS_Vacant": "278",
+        "COVID_BEDS_Occupied": "24",
+        "COVID_BEDS_Vacant": "276",
         "OXYGEN_SUPPORTED_BEDS_Total": "260",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "243",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "19",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "241",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "5",
-        "VENTILATOR_Total": "6",
-        "VENTILATOR_Occupied": "6",
+        "VENTILATOR_Total": "5",
+        "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 08:33:44",
+        "Last_updated": "2021_07_15 08:42:44",
         "Contact_Number": "8939433555",
         "Remarks": ""
     },
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_15 08:10:17",
+        "Last_updated": "2021_07_15 09:09:18",
         "Contact_Number": "4430101111",
-        "Remarks": "15/07/2021 08_10 AM"
+        "Remarks": "15/07/2021 097 AM"
     },
     {
         "S": {
@@ -2345,9 +2345,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_14 08:59:58",
+        "Last_updated": "2021_07_15 08:55:55",
         "Contact_Number": "9566760490",
-        "Remarks": "18 occupied"
+        "Remarks": "18occupied"
     },
     {
         "S": {
@@ -2531,11 +2531,11 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "21",
-        "COVID_BEDS_Vacant": "4",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "3",
         "OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -2545,9 +2545,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 09:09:04",
+        "Last_updated": "2021_07_15 09:13:16",
         "Contact_Number": "9384084606",
-        "Remarks": "147_21"
+        "Remarks": "157_21"
     },
     {
         "S": {
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_14 17:31:41",
+        "Last_updated": "2021_07_15 09:03:24",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_14 13:25:55",
+        "Last_updated": "2021_07_15 09:00:28",
         "Contact_Number": "8072738401",
         "Remarks": "Update"
     },
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 06:05:08",
+        "Last_updated": "2021_07_15 08:59:45",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 137_2021"
+        "Remarks": "Updated on 157_2021"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 16:03:04",
+        "Last_updated": "2021_07_15 09:19:16",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5356,8 +5356,8 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "28",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "29",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
@@ -5365,12 +5365,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_14 15:59:49",
+        "Last_updated": "2021_07_15 09:23:53",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5456,11 +5456,11 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "153",
-        "COVID_BEDS_Occupied": "111",
-        "COVID_BEDS_Vacant": "42",
+        "COVID_BEDS_Occupied": "101",
+        "COVID_BEDS_Vacant": "52",
         "OXYGEN_SUPPORTED_BEDS_Total": "112",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "85",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "27",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "75",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "37",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 08:50:27",
+        "Last_updated": "2021_07_15 08:45:32",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 10:25:01",
+        "Last_updated": "2021_07_15 09:28:28",
         "Contact_Number": "7824950986",
-        "Remarks": "14_07_2021"
+        "Remarks": "15_07_2021"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 08:19:37",
+        "Last_updated": "2021_07_15 08:54:23",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 14_07_2021"
+        "Remarks": "updated 15_07_2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 17:05:43",
+        "Last_updated": "2021_07_15 08:43:05",
         "Contact_Number": "7397591935",
-        "Remarks": "14_7_2021@5:00pm"
+        "Remarks": "15_7_2021@9Am"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 06:05:34",
+        "Last_updated": "2021_07_15 08:59:28",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 137_2021"
+        "Remarks": "Updated 157_2021"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 09:26:36",
+        "Last_updated": "2021_07_15 09:22:22",
         "Contact_Number": "7871081082",
-        "Remarks": "147_2021"
+        "Remarks": "157_2021"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 16:38:58",
+        "Last_updated": "2021_07_15 08:46:05",
         "Contact_Number": "6382253140",
-        "Remarks": "4_30"
+        "Remarks": "9am"
     },
     {
         "S": {
