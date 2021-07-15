@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_15 06:36:24",
+        "Last_updated": "2021_07_15 08:10:17",
         "Contact_Number": "4430101111",
-        "Remarks": "15/07/2021 06_35 AM"
+        "Remarks": "15/07/2021 08_10 AM"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_14 07:33:04",
+        "Last_updated": "2021_07_15 07:53:19",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 147_2021"
+        "Remarks": "Update 157_2021"
     },
     {
         "S": {
@@ -7020,7 +7020,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_14 08:21:41",
+        "Last_updated": "2021_07_15 08:24:09",
         "Contact_Number": "9943450401",
         "Remarks": "NO CHANGE"
     },
@@ -7956,23 +7956,23 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "73",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "77",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "43",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "ICU_BEDS_Total": "12",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "10",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "11",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_14 08:23:34",
+        "Last_updated": "2021_07_15 08:24:01",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 6 Suspected: 6 Updated"
+        "Remarks": "Covid Positive : 4 Suspected: 4 Updated"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 09:05:33",
+        "Last_updated": "2021_07_15 08:30:32",
         "Contact_Number": "9940632392",
-        "Remarks": "14/07/2021"
+        "Remarks": "15/07/2021"
     },
     {
         "S": {
