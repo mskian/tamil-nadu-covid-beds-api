@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_14 17:54:36",
+        "Last_updated": "2021_07_15 10:02:35",
         "Contact_Number": "8300017171",
-        "Remarks": "14/07/2021 @ 6 pm"
+        "Remarks": "15/07/2021 @ 10 am"
     },
     {
         "S": {
@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_14 09:23:47",
+        "Last_updated": "2021_07_15 10:31:49",
         "Contact_Number": "6379350953",
-        "Remarks": "June 14th@ 9:00 AM"
+        "Remarks": "June 15th@ 9:00 AM"
     },
     {
         "S": {
@@ -556,11 +556,11 @@
         "District": "Chennai",
         "Institution": "CSI Kalyani General Hospital",
         "COVID_BEDS_Total": "110",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "107",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "104",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -570,9 +570,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_14 09:17:36",
+        "Last_updated": "2021_07_15 09:47:24",
         "Contact_Number": "8667243945",
-        "Remarks": "14/07/210"
+        "Remarks": "15/07/210"
     },
     {
         "S": {
@@ -3031,21 +3031,21 @@
         "District": "Kancheepuram",
         "Institution": "Madha Medical College&Research Institute",
         "COVID_BEDS_Total": "550",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "547",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "548",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "534",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "533",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "534",
         "ICU_BEDS_Total": "6",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_14 11:37:26",
+        "Last_updated": "2021_07_15 10:25:48",
         "Contact_Number": "8870209559",
         "Remarks": ""
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_14 13:41:00",
+        "Last_updated": "2021_07_15 09:47:57",
         "Contact_Number": "9442667069",
-        "Remarks": "147_2021"
+        "Remarks": "157_2021"
     },
     {
         "S": {
@@ -5331,11 +5331,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Dr_G_Viswanathan Hospital Mambalasalai",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "31",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "23",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -5345,8 +5345,8 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_14 10:04:10",
-        "Contact_Number": "9344270185",
+        "Last_updated": "2021_07_15 09:53:54",
+        "Contact_Number": "9840404586",
         "Remarks": "NIL_"
     },
     {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 16:51:35",
+        "Last_updated": "2021_07_15 10:11:48",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 14/07/2021 01451PM"
+        "Remarks": "Updated 15/07/2021 10_11 AM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 16:15:39",
+        "Last_updated": "2021_07_15 09:50:14",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 14/07/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 15/07/2021 9:00 AM"
     },
     {
         "S": {
@@ -7131,8 +7131,8 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "34",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
@@ -7140,12 +7140,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "ICU_BEDS_Total": "2",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_14 15:51:17",
+        "Last_updated": "2021_07_15 09:43:21",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -8256,11 +8256,11 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "99",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "98",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "49",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_14 10:24:42",
+        "Last_updated": "2021_07_15 10:04:41",
         "Contact_Number": "9600240521",
-        "Remarks": "14/07/2021"
+        "Remarks": "15/07/2021"
     },
     {
         "S": {
@@ -8356,8 +8356,8 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "140",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "139",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "73",
@@ -8365,12 +8365,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "ICU_BEDS_Total": "27",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "27",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "26",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_13 13:08:54",
+        "Last_updated": "2021_07_15 10:35:53",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
