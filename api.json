@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "34",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "27",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_16 13:00:01",
+        "Last_updated": "2021_07_16 16:01:33",
         "Contact_Number": "8072738401",
         "Remarks": "Update"
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_16 09:21:04",
+        "Last_updated": "2021_07_16 15:51:03",
         "Contact_Number": "9442667069",
-        "Remarks": "nil_"
+        "Remarks": "167_2021"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_16 13:02:08",
+        "Last_updated": "2021_07_16 15:59:44",
         "Contact_Number": "9095505550",
-        "Remarks": "nil_"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_16 13:01:16",
+        "Last_updated": "2021_07_16 15:59:17",
         "Contact_Number": "9095505550",
         "Remarks": "nil_"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_16 13:38:04",
+        "Last_updated": "2021_07_16 16:22:28",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 16/07/2021 01_37 PM"
+        "Remarks": "Updated 16/07/2021 04_22 PM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_16 13:12:51",
+        "Last_updated": "2021_07_16 16:26:00",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 16/07/2021 1:00 PM"
+        "Remarks": "UPDATED TILL 16/07/2021 4:00 PM"
     },
     {
         "S": {
