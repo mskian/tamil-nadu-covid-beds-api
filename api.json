@@ -156,11 +156,11 @@
         "District": "Chengalpattu",
         "Institution": "Sugam Hospital, Chromepet",
         "COVID_BEDS_Total": "45",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "44",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "43",
         "OXYGEN_SUPPORTED_BEDS_Total": "23",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_15 16:01:36",
+        "Last_updated": "2021_07_16 07:59:55",
         "Contact_Number": "8585858550",
-        "Remarks": "15_7_2021 4 PM Update"
+        "Remarks": "16_7_2021 7 AM Update"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_15 23:13:14",
+        "Last_updated": "2021_07_16 08:13:22",
         "Contact_Number": "8300017171",
-        "Remarks": "15/07/2021 @ 11 pm"
+        "Remarks": "16/07/2021 @ 8 am"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_16 06:07:52",
+        "Last_updated": "2021_07_16 08:11:27",
         "Contact_Number": "4430101111",
-        "Remarks": "16/07/2021 065 AM"
+        "Remarks": "16/07/2021 089 AM"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "77",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "78",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "43",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_15 08:24:01",
+        "Last_updated": "2021_07_16 08:18:48",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 4 Suspected: 4 Updated"
+        "Remarks": "Covid Positive : 3 Suspected: 4 Updated"
     },
     {
         "S": {
@@ -9595,7 +9595,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_13 10:27:52",
+        "Last_updated": "2021_07_16 08:08:03",
         "Contact_Number": "9843604611",
         "Remarks": "1 Active cases"
     },
