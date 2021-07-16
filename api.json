@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_16 00:13:32",
+        "Last_updated": "2021_07_16 06:07:52",
         "Contact_Number": "4430101111",
-        "Remarks": "16/07/2021 12_12 AM"
+        "Remarks": "16/07/2021 065 AM"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_15 17:58:37",
+        "Last_updated": "2021_07_16 07:51:21",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "153",
-        "COVID_BEDS_Occupied": "101",
-        "COVID_BEDS_Vacant": "52",
+        "COVID_BEDS_Occupied": "107",
+        "COVID_BEDS_Vacant": "46",
         "OXYGEN_SUPPORTED_BEDS_Total": "112",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "75",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "37",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "79",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "33",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "41",
-        "ICU_BEDS_Occupied": "26",
-        "ICU_BEDS_Vacant": "15",
+        "ICU_BEDS_Occupied": "28",
+        "ICU_BEDS_Vacant": "13",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 08:45:32",
+        "Last_updated": "2021_07_16 07:25:20",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 14:10:59",
+        "Last_updated": "2021_07_16 07:27:56",
         "Contact_Number": "8870007450",
-        "Remarks": "157_2021 Evening report"
+        "Remarks": "167_2021 Morning report"
     },
     {
         "S": {
@@ -8356,21 +8356,21 @@
         "District": "Coimbatore",
         "Institution": "NG Hospital Pvt Ltd & Research Centre, Singanallur",
         "COVID_BEDS_Total": "140",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "139",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "138",
         "OXYGEN_SUPPORTED_BEDS_Total": "73",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "73",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "ICU_BEDS_Total": "27",
         "ICU_BEDS_Occupied": "1",
         "ICU_BEDS_Vacant": "26",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_15 10:35:53",
+        "Last_updated": "2021_07_16 07:41:13",
         "Contact_Number": "9865755568",
         "Remarks": ""
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 15:37:58",
+        "Last_updated": "2021_07_16 06:57:15",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 03_30pm 157_2021"
+        "Remarks": "Till 070am 167_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 21:25:33",
+        "Last_updated": "2021_07_16 07:23:43",
         "Contact_Number": "9384676001",
-        "Remarks": "16/07/2021 at 9:00 PM"
+        "Remarks": "16/07/2021 at 7:00 AM"
     },
     {
         "S": {
