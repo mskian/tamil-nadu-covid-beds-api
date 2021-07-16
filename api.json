@@ -1781,11 +1781,11 @@
         "District": "Chennai",
         "Institution": "Sri Ramachandra Medical College Hospital, Porur",
         "COVID_BEDS_Total": "300",
-        "COVID_BEDS_Occupied": "24",
-        "COVID_BEDS_Vacant": "276",
+        "COVID_BEDS_Occupied": "23",
+        "COVID_BEDS_Vacant": "277",
         "OXYGEN_SUPPORTED_BEDS_Total": "260",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "19",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "241",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "242",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "30",
@@ -1795,7 +1795,7 @@
         "VENTILATOR_Total": "5",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 08:42:44",
+        "Last_updated": "2021_07_16 08:38:52",
         "Contact_Number": "8939433555",
         "Remarks": ""
     },
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_16 08:11:27",
+        "Last_updated": "2021_07_16 08:46:40",
         "Contact_Number": "4430101111",
-        "Remarks": "16/07/2021 089 AM"
+        "Remarks": "16/07/2021 08_45 AM"
     },
     {
         "S": {
@@ -2331,23 +2331,23 @@
         "District": "Coimbatore",
         "Institution": "Karpagam Faculty Medical College And Hospital",
         "COVID_BEDS_Total": "325",
-        "COVID_BEDS_Occupied": "18",
-        "COVID_BEDS_Vacant": "307",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "313",
         "OXYGEN_SUPPORTED_BEDS_Total": "40",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "38",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "275",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "259",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "265",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_15 08:55:55",
+        "Last_updated": "2021_07_16 09:17:46",
         "Contact_Number": "9566760490",
-        "Remarks": "18occupied"
+        "Remarks": "12 occupied"
     },
     {
         "S": {
@@ -2531,11 +2531,11 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "22",
-        "COVID_BEDS_Vacant": "3",
+        "COVID_BEDS_Occupied": "21",
+        "COVID_BEDS_Vacant": "4",
         "OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -2545,9 +2545,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 09:13:16",
+        "Last_updated": "2021_07_16 09:08:58",
         "Contact_Number": "9384084606",
-        "Remarks": "157_21"
+        "Remarks": "167_21"
     },
     {
         "S": {
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_15 16:08:56",
+        "Last_updated": "2021_07_16 09:19:12",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_15 13:01:24",
+        "Last_updated": "2021_07_16 09:21:04",
         "Contact_Number": "9442667069",
-        "Remarks": "157_21"
+        "Remarks": "nil_"
     },
     {
         "S": {
@@ -5131,11 +5131,11 @@
         "District": "Thiruvarur",
         "Institution": "Thiruvarur Medical Centre",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "26",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "28",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "26",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_15 07:53:19",
+        "Last_updated": "2021_07_16 08:45:49",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 157_2021"
+        "Remarks": "Update 167_2021"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 15:49:26",
+        "Last_updated": "2021_07_16 09:04:57",
         "Contact_Number": "9095505550",
         "Remarks": "nil_"
     },
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "26",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_15 15:49:00",
+        "Last_updated": "2021_07_16 09:07:51",
         "Contact_Number": "9095505550",
         "Remarks": "nil_"
     },
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 10:11:48",
+        "Last_updated": "2021_07_16 09:35:01",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 15/07/2021 10_11 AM"
+        "Remarks": "Updated 16/07/2021 09_34 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 15:39:42",
+        "Last_updated": "2021_07_16 09:34:34",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7506,21 +7506,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Kavi Hospital & Neuro Foundation",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "18",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "24",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "24",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "ICU_BEDS_Total": "2",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_04 07:39:06",
+        "Last_updated": "2021_07_16 08:40:49",
         "Contact_Number": "9843005288",
         "Remarks": "NIL_"
     },
@@ -7931,8 +7931,8 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "53",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
@@ -7940,14 +7940,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "5",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 16:08:33",
+        "Last_updated": "2021_07_16 08:43:45",
         "Contact_Number": "7397591935",
-        "Remarks": "15_7_2021@4pm"
+        "Remarks": "16_7_2021@9Am"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_15 09:22:22",
+        "Last_updated": "2021_07_16 09:17:06",
         "Contact_Number": "7871081082",
-        "Remarks": "157_2021"
+        "Remarks": "167_2021"
     },
     {
         "S": {
