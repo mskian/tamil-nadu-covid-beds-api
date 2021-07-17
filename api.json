@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_16 12:57:40",
+        "Last_updated": "2021_07_17 08:25:20",
         "Contact_Number": "8585858550",
-        "Remarks": "16_7_2021 1 PM Update"
+        "Remarks": "17_7_2021 8 AM Update"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_16 08:45:49",
+        "Last_updated": "2021_07_17 07:53:49",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 167_2021"
+        "Remarks": "Update 177_2021"
     },
     {
         "S": {
@@ -7020,7 +7020,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_15 08:24:09",
+        "Last_updated": "2021_07_17 08:33:49",
         "Contact_Number": "9943450401",
         "Remarks": "NO CHANGE"
     },
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "78",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "80",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_16 08:18:48",
+        "Last_updated": "2021_07_17 08:24:24",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 3 Suspected: 4 Updated"
+        "Remarks": "Covid Positive : 2 Suspected: 3 Updated"
     },
     {
         "S": {
