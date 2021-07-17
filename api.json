@@ -270,9 +270,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_16 09:56:25",
+        "Last_updated": "2021_07_17 10:01:04",
         "Contact_Number": "6379350953",
-        "Remarks": "June 16th@ 9:00 AM"
+        "Remarks": "June 17th@ 9:00 AM"
     },
     {
         "S": {
@@ -3281,11 +3281,11 @@
         "District": "Krishnagiri",
         "Institution": "Chandrasekara Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "45",
         "OXYGEN_SUPPORTED_BEDS_Total": "44",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "42",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "41",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
@@ -3295,7 +3295,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_16 10:21:32",
+        "Last_updated": "2021_07_17 10:22:27",
         "Contact_Number": "9655206585",
         "Remarks": "50"
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_16 15:51:03",
+        "Last_updated": "2021_07_17 09:45:16",
         "Contact_Number": "9442667069",
-        "Remarks": "167_2021"
+        "Remarks": "177_2021"
     },
     {
         "S": {
@@ -5331,21 +5331,21 @@
         "District": "Thiruchirappalli",
         "Institution": "Dr_G_Viswanathan Hospital Mambalasalai",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "29",
         "OXYGEN_SUPPORTED_BEDS_Total": "23",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "7",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_15 09:53:54",
+        "Last_updated": "2021_07_17 09:47:27",
         "Contact_Number": "9840404586",
         "Remarks": "NIL_"
     },
@@ -6906,11 +6906,11 @@
         "District": "Krishnagiri",
         "Institution": "Sri Chandrasekaran Hospital unit _2, Hosur",
         "COVID_BEDS_Total": "90",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "86",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "87",
         "OXYGEN_SUPPORTED_BEDS_Total": "69",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "67",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "68",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
@@ -6920,7 +6920,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_16 10:21:58",
+        "Last_updated": "2021_07_17 10:21:19",
         "Contact_Number": "9655206592",
         "Remarks": "90 beds"
     },
@@ -7137,15 +7137,15 @@
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "ICU_BEDS_Total": "2",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_16 16:58:46",
+        "Last_updated": "2021_07_17 09:41:45",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_16 10:11:48",
+        "Last_updated": "2021_07_17 10:22:00",
         "Contact_Number": "7092820884",
-        "Remarks": "16/07/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "17/07/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_16 10:04:51",
+        "Last_updated": "2021_07_17 10:12:32",
         "Contact_Number": "9600240521",
-        "Remarks": "16/07/2021"
+        "Remarks": "17/07/2021"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_16 09:17:06",
+        "Last_updated": "2021_07_17 10:24:42",
         "Contact_Number": "7871081082",
-        "Remarks": "167_2021"
+        "Remarks": "177_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_16 20:04:40",
+        "Last_updated": "2021_07_17 09:57:51",
         "Contact_Number": "9384676001",
-        "Remarks": "16/07/2021 at 8:00 PM"
+        "Remarks": "17/07/2021 at 9:00 AM"
     },
     {
         "S": {
