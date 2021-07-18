@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_17 16:11:29",
+        "Last_updated": "2021_07_18 08:30:11",
         "Contact_Number": "8585858550",
-        "Remarks": "17_7_2021 4 PM Update"
+        "Remarks": "19_7_2021 9 AM Update"
     },
     {
         "S": {
@@ -1956,23 +1956,23 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "406",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "407",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "348",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "349",
         "ICU_BEDS_Total": "16",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "14",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_18 06:35:04",
+        "Last_updated": "2021_07_18 08:30:15",
         "Contact_Number": "4430101111",
-        "Remarks": "18/07/2021 06_34 AM"
+        "Remarks": "18/07/2021 08_28 AM"
     },
     {
         "S": {
@@ -2345,9 +2345,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_17 09:30:21",
+        "Last_updated": "2021_07_18 08:26:38",
         "Contact_Number": "9566760490",
-        "Remarks": "0 occupied"
+        "Remarks": "0occupied"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_17 09:00:05",
+        "Last_updated": "2021_07_18 08:03:10",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 17_07_2021"
+        "Remarks": "updated 18_07_2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_17 13:06:08",
+        "Last_updated": "2021_07_18 08:32:02",
         "Contact_Number": "7397591935",
-        "Remarks": "17_7_2021@1:00pm"
+        "Remarks": "18_7_2021@9Am"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "80",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "82",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_17 08:24:24",
+        "Last_updated": "2021_07_18 08:20:22",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 2 Suspected: 3 Updated"
+        "Remarks": "Covid Positive : 1 Suspected: 2 Updated"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_17 10:24:42",
+        "Last_updated": "2021_07_18 08:13:46",
         "Contact_Number": "7871081082",
-        "Remarks": "177_2021"
+        "Remarks": "187_2021"
     },
     {
         "S": {
