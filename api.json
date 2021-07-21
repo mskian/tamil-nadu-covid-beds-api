@@ -7131,21 +7131,21 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "31",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_20 16:01:06",
+        "Last_updated": "2021_07_21 11:23:25",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_19 14:02:02",
+        "Last_updated": "2021_07_21 10:55:01",
         "Contact_Number": "8870007450",
-        "Remarks": "197_2021 Evening report"
+        "Remarks": "217_2021 Morning report"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_20 16:39:48",
+        "Last_updated": "2021_07_21 10:37:58",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 04_39pm 207_2021"
+        "Remarks": "Till 10_37Am 217_2021"
     },
     {
         "S": {
@@ -9895,9 +9895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_12 09:33:36",
+        "Last_updated": "2021_07_21 11:11:59",
         "Contact_Number": "9524241241",
-        "Remarks": "Positive cases_ 1"
+        "Remarks": "Positive cases_ 2"
     },
     {
         "S": {
