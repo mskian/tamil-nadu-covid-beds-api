@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_21 12:58:58",
+        "Last_updated": "2021_07_21 15:54:39",
         "Contact_Number": "8585858550",
-        "Remarks": "21_7_2021 1 PM Update"
+        "Remarks": "21_7_2021 4 PM Update"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_21 12:41:05",
+        "Last_updated": "2021_07_21 16:04:20",
         "Contact_Number": "8300017171",
-        "Remarks": "21/07/2021 @ 1 pm"
+        "Remarks": "21/07/2021 @ 4 pm"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_21 13:32:05",
+        "Last_updated": "2021_07_21 16:17:52",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_21 12:50:44",
+        "Last_updated": "2021_07_21 15:51:09",
         "Contact_Number": "9442667069",
-        "Remarks": "217_2021"
+        "Remarks": "nil_"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_21 09:09:56",
+        "Last_updated": "2021_07_21 15:48:17",
         "Contact_Number": "9095505550",
         "Remarks": "nil_"
     },
@@ -5370,9 +5370,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_21 13:09:45",
+        "Last_updated": "2021_07_21 15:48:42",
         "Contact_Number": "9095505550",
-        "Remarks": "nil_"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_21 13:42:06",
+        "Last_updated": "2021_07_21 16:10:51",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 21/07/2021 01_42 PM"
+        "Remarks": "Updated 21/07/2021 04_10 PM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_21 12:53:32",
+        "Last_updated": "2021_07_21 16:09:14",
         "Contact_Number": "7397591935",
-        "Remarks": "21_7_2021@1pm"
+        "Remarks": "21_7_2021@4:00pm"
     },
     {
         "S": {
@@ -10081,21 +10081,21 @@
         "District": "Kanyakumari",
         "Institution": "Dr_ Kumaraswami Health Centre, Perumalpuram",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "49",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "48",
         "OXYGEN_SUPPORTED_BEDS_Total": "8",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_17 16:45:35",
+        "Last_updated": "2021_07_21 15:59:38",
         "Contact_Number": "7397617648",
         "Remarks": ""
     },
