@@ -6281,23 +6281,23 @@
         "District": "Salem",
         "Institution": "Universal Cancer Hospital, Kondalampatty",
         "COVID_BEDS_Total": "55",
-        "COVID_BEDS_Occupied": "55",
-        "COVID_BEDS_Vacant": "0",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "30",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "5",
-        "ICU_BEDS_Vacant": "0",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_06_02 13:47:11",
+        "Last_updated": "2021_07_22 18:47:36",
         "Contact_Number": "8608044773",
-        "Remarks": ""
+        "Remarks": "Nil patient"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 10:50:25",
+        "Last_updated": "2021_07_22 18:55:23",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 227_21 10_50 AM"
+        "Remarks": "Updated 227_21 06_55 PM"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 11:21:13",
+        "Last_updated": "2021_07_22 18:45:50",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 11_21am 227_2021"
+        "Remarks": "Till 06_45pm 227_2021"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 08:43:27",
+        "Last_updated": "2021_07_22 18:55:13",
         "Contact_Number": "6382253140",
-        "Remarks": "8_43"
+        "Remarks": "6"
     },
     {
         "S": {
