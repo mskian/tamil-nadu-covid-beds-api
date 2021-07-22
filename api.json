@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "97",
+        "COVID_BEDS_Occupied": "17",
+        "COVID_BEDS_Vacant": "99",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "88",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "89",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "9",
+        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "3",
-        "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_21 16:45:36",
+        "VENTILATOR_Occupied": "2",
+        "VENTILATOR_Vacant": "5",
+        "Last_updated": "2021_07_22 07:56:00",
         "Contact_Number": "7824821042",
-        "Remarks": "217_2021"
+        "Remarks": "227_2021"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_07_22 06:14:41",
+        "Last_updated": "2021_07_22 08:03:31",
         "Contact_Number": "4430101111",
-        "Remarks": "22/07/2021 06_12 AM"
+        "Remarks": "22/07/2021 081 AM"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_21 07:28:49",
+        "Last_updated": "2021_07_22 07:57:25",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 217_2021"
+        "Remarks": "Update 227_2021"
     },
     {
         "S": {
@@ -7006,11 +7006,11 @@
         "District": "Madurai",
         "Institution": "Grace Kennett Foundation Hospital, Kennett Road",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -7020,9 +7020,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_21 08:29:32",
+        "Last_updated": "2021_07_22 08:22:59",
         "Contact_Number": "9943450401",
-        "Remarks": "NO CHANGE"
+        "Remarks": "ADMISSION _ 1"
     },
     {
         "S": {
@@ -7370,9 +7370,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_21 10:55:01",
+        "Last_updated": "2021_07_22 08:11:36",
         "Contact_Number": "8870007450",
-        "Remarks": "217_2021 Morning report"
+        "Remarks": "227_2021 Morning report"
     },
     {
         "S": {
@@ -7956,23 +7956,23 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "76",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "75",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "42",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "ICU_BEDS_Total": "12",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "11",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "12",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_21 08:55:06",
+        "Last_updated": "2021_07_22 08:14:00",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 4 Suspected: 5 Updated"
+        "Remarks": "Covid Positive : 4 Suspected: 6 Updated"
     },
     {
         "S": {
