@@ -181,11 +181,11 @@
         "District": "Chengalpattu",
         "Institution": "Deepam Hospitals, West Tambaram",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "20",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_22 11:28:50",
+        "Last_updated": "2021_07_22 12:47:06",
         "Contact_Number": "8300017171",
-        "Remarks": "22/07/2021 @ 10 am"
+        "Remarks": "22/07/2021 @ 1 pm"
     },
     {
         "S": {
@@ -570,9 +570,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_22 09:48:50",
+        "Last_updated": "2021_07_22 13:08:18",
         "Contact_Number": "8667243945",
-        "Remarks": "22/07/20"
+        "Remarks": "23/07/20"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_22 09:15:14",
+        "Last_updated": "2021_07_22 13:02:54",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 09:04:57",
+        "Last_updated": "2021_07_22 13:02:35",
         "Contact_Number": "7397591935",
-        "Remarks": "22_7_2021@9:00AM"
+        "Remarks": "22_7_2021@1:00pm"
     },
     {
         "S": {
