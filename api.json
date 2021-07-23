@@ -556,11 +556,11 @@
         "District": "Chennai",
         "Institution": "CSI Kalyani General Hospital",
         "COVID_BEDS_Total": "110",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "105",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "106",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -570,7 +570,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_23 09:31:20",
+        "Last_updated": "2021_07_23 09:44:01",
         "Contact_Number": "8667243945",
         "Remarks": "23/07/20"
     },
@@ -2720,7 +2720,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_22 16:10:30",
+        "Last_updated": "2021_07_23 10:34:28",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_21 15:51:09",
+        "Last_updated": "2021_07_23 09:57:42",
         "Contact_Number": "9442667069",
-        "Remarks": "nil_"
+        "Remarks": "NIL_"
     },
     {
         "S": {
@@ -5345,7 +5345,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_22 09:40:26",
+        "Last_updated": "2021_07_23 09:44:04",
         "Contact_Number": "9840404586",
         "Remarks": "NIL_"
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_21 09:49:28",
+        "Last_updated": "2021_07_23 09:50:52",
         "Contact_Number": "7824950986",
-        "Remarks": "21_07_2021"
+        "Remarks": "23_07_2021"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 18:55:23",
+        "Last_updated": "2021_07_23 10:15:46",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 227_21 06_55 PM"
+        "Remarks": "Updated 237_21 10_15 AM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 15:50:50",
+        "Last_updated": "2021_07_23 09:43:39",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 22/07/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 23/07/2021 9:00 AM"
     },
     {
         "S": {
@@ -7131,21 +7131,21 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "29",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 16:19:52",
+        "Last_updated": "2021_07_23 09:40:29",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_22 18:55:13",
+        "Last_updated": "2021_07_23 10:21:50",
         "Contact_Number": "6382253140",
-        "Remarks": "6"
+        "Remarks": "10"
     },
     {
         "S": {
