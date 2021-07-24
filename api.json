@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_24 09:34:46",
+        "Last_updated": "2021_07_24 17:09:06",
         "Contact_Number": "7824821042",
         "Remarks": "247_2021"
     },
@@ -2531,11 +2531,11 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "19",
-        "COVID_BEDS_Vacant": "6",
+        "COVID_BEDS_Occupied": "16",
+        "COVID_BEDS_Vacant": "9",
         "OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -2545,7 +2545,7 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_24 09:05:31",
+        "Last_updated": "2021_07_24 16:58:16",
         "Contact_Number": "9384084606",
         "Remarks": "247_21"
     },
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_24 11:00:58",
+        "Last_updated": "2021_07_24 16:56:09",
         "Contact_Number": "9384676001",
-        "Remarks": "24/07/2021 at 11:00 am"
+        "Remarks": "24/07/2021 at 4:00 pm"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_24 10:28:22",
+        "Last_updated": "2021_07_24 17:22:13",
         "Contact_Number": "6382253140",
-        "Remarks": "10"
+        "Remarks": "5"
     },
     {
         "S": {
