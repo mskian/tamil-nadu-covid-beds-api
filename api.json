@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_23 17:10:25",
+        "Last_updated": "2021_07_24 08:03:21",
         "Contact_Number": "8585858550",
-        "Remarks": "23_7_2021 4 PM Update"
+        "Remarks": "24_7_2021 8 AM Update"
     },
     {
         "S": {
@@ -3381,11 +3381,11 @@
         "District": "Madurai",
         "Institution": "Devadoss Multispeciality Hospital",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "34",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "35",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -3395,7 +3395,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_23 16:24:59",
+        "Last_updated": "2021_07_24 08:28:06",
         "Contact_Number": "8072738401",
         "Remarks": "Updated"
     },
@@ -7020,7 +7020,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_23 08:18:07",
+        "Last_updated": "2021_07_24 08:24:22",
         "Contact_Number": "9943450401",
         "Remarks": "NO CHANGE"
     },
@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "55",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "56",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_23 16:01:39",
+        "Last_updated": "2021_07_24 08:33:41",
         "Contact_Number": "7397591935",
-        "Remarks": "23_7_2021@4pm"
+        "Remarks": "24_7_2021@9Am"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_23 17:43:47",
+        "Last_updated": "2021_07_24 07:54:48",
         "Contact_Number": "9384676001",
-        "Remarks": "23/07/2021 at 4:00 pm"
+        "Remarks": "24/07/2021 at 8:00 am"
     },
     {
         "S": {
