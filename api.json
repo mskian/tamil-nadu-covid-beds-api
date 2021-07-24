@@ -2706,21 +2706,21 @@
         "District": "Dindigul",
         "Institution": "Vel Multispeciality Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "47",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "46",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "17",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "16",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_24 10:07:46",
+        "Last_updated": "2021_07_24 13:35:04",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_24 09:08:38",
+        "Last_updated": "2021_07_24 12:57:05",
         "Contact_Number": "9442667069",
-        "Remarks": "247_2021"
+        "Remarks": "247_21"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_24 09:12:14",
+        "Last_updated": "2021_07_24 13:01:52",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_24 08:33:41",
+        "Last_updated": "2021_07_24 13:11:23",
         "Contact_Number": "7397591935",
-        "Remarks": "24_7_2021@9Am"
+        "Remarks": "24_7_2021@1:10pm"
     },
     {
         "S": {
