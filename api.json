@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_25 13:44:07",
+        "Last_updated": "2021_07_26 07:16:40",
         "Contact_Number": "8585858550",
-        "Remarks": "25_7_2021 1 PM Update"
+        "Remarks": "26_7_2021 7 AM Update"
     },
     {
         "S": {
@@ -2709,18 +2709,18 @@
         "COVID_BEDS_Occupied": "4",
         "COVID_BEDS_Vacant": "46",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "16",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_25 17:13:54",
+        "Last_updated": "2021_07_26 07:40:43",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_25 08:27:19",
+        "Last_updated": "2021_07_26 07:21:25",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 257_2021"
+        "Remarks": "Update 267_2021"
     },
     {
         "S": {
