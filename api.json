@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_25 19:49:57",
+        "Last_updated": "2021_07_26 08:30:31",
         "Contact_Number": "8300017171",
-        "Remarks": "25/07/2021 @ 8 pm"
+        "Remarks": "26/07/2021 @ 8 am"
     },
     {
         "S": {
@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "18",
-        "COVID_BEDS_Vacant": "98",
+        "COVID_BEDS_Occupied": "19",
+        "COVID_BEDS_Vacant": "97",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "89",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "88",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_25 17:13:18",
+        "Last_updated": "2021_07_26 08:04:52",
         "Contact_Number": "7824821042",
-        "Remarks": "257_2021"
+        "Remarks": "267_2021"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_07_25 14:13:28",
+        "Last_updated": "2021_07_26 07:56:54",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -6495,9 +6495,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_05_28 16:23:14",
+        "Last_updated": "2021_07_26 08:23:02",
         "Contact_Number": "7708773633",
-        "Remarks": "Updated on 28_ 05_2021 updated_"
+        "Remarks": "Updated on 267_2021 updated_"
     },
     {
         "S": {
@@ -7020,7 +7020,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_24 08:24:22",
+        "Last_updated": "2021_07_26 08:24:39",
         "Contact_Number": "9943450401",
         "Remarks": "NO CHANGE"
     },
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "73",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "71",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "38",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "36",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_25 08:04:39",
+        "Last_updated": "2021_07_26 08:12:22",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 8 Suspected: 4 Updated"
+        "Remarks": "Covid Positive : 10 Suspected: 4 Updated"
     },
     {
         "S": {
