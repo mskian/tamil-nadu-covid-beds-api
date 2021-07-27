@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_26 16:02:49",
+        "Last_updated": "2021_07_27 07:21:47",
         "Contact_Number": "8585858550",
-        "Remarks": "26_7_2021 4 PM Update"
+        "Remarks": "27_7_2021 7 AM Update"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_26 07:21:25",
+        "Last_updated": "2021_07_27 07:53:03",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 267_2021"
+        "Remarks": "Update 277_2021"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "14",
-        "COVID_BEDS_Vacant": "71",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "70",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "36",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_26 08:12:22",
+        "Last_updated": "2021_07_27 07:18:29",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 10 Suspected: 4 Updated"
+        "Remarks": "Covid Positive : 9 Suspected: 6 Updated"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_26 17:11:33",
+        "Last_updated": "2021_07_27 06:56:10",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 050pm 267_2021"
+        "Remarks": "Till 070am 277_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_26 18:57:59",
+        "Last_updated": "2021_07_27 05:56:19",
         "Contact_Number": "9384676001",
-        "Remarks": "26/07/2021 at 7:00 PM"
+        "Remarks": "27/07/2021 at 6:00 am"
     },
     {
         "S": {
