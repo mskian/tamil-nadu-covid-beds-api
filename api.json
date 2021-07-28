@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_07_28 13:02:59",
+        "Last_updated": "2021_07_28 16:04:42",
         "Contact_Number": "8585858550",
-        "Remarks": "28_7_2021 1 PM update Sugam Hospital Chrompet Update"
+        "Remarks": "28_7_2021 4 PM update Sugam Hospital Chrompet Update"
     },
     {
         "S": {
@@ -2706,21 +2706,21 @@
         "District": "Dindigul",
         "Institution": "Vel Multispeciality Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "47",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "17",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "18",
         "ICU_BEDS_Total": "10",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "10",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "9",
         "VENTILATOR_Total": "4",
-        "VENTILATOR_Occupied": "0",
-        "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_28 09:19:43",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_07_28 15:52:50",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_28 13:03:32",
+        "Last_updated": "2021_07_28 15:59:35",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_28 09:20:46",
+        "Last_updated": "2021_07_28 15:59:54",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_28 12:06:15",
+        "Last_updated": "2021_07_28 16:02:51",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 126pm 287_2021"
+        "Remarks": "Till 042pm 287_2021"
     },
     {
         "S": {
