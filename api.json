@@ -2345,9 +2345,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_07_27 09:21:50",
+        "Last_updated": "2021_07_28 09:54:34",
         "Contact_Number": "9566760490",
-        "Remarks": "0occupied"
+        "Remarks": "0 occupied"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_27 09:21:53",
+        "Last_updated": "2021_07_28 10:25:54",
         "Contact_Number": "9442667069",
-        "Remarks": "277_21"
+        "Remarks": "287_21"
     },
     {
         "S": {
@@ -5120,9 +5120,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_26 10:31:35",
+        "Last_updated": "2021_07_28 10:08:44",
         "Contact_Number": "7339603757",
-        "Remarks": "Updated on 267_2021"
+        "Remarks": "Updated on 287_2021"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_27 10:12:17",
+        "Last_updated": "2021_07_28 10:01:51",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 277_21 10_12 AM"
+        "Remarks": "Updated 287_21 101 AM"
     },
     {
         "S": {
@@ -7131,21 +7131,21 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_27 16:49:26",
+        "Last_updated": "2021_07_28 09:39:24",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_27 09:45:29",
+        "Last_updated": "2021_07_28 10:19:37",
         "Contact_Number": "9940632392",
-        "Remarks": "27/07/2021"
+        "Remarks": "28/07/2021"
     },
     {
         "S": {
@@ -9020,9 +9020,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_26 10:31:54",
+        "Last_updated": "2021_07_28 10:05:38",
         "Contact_Number": "9487701007",
-        "Remarks": "Updated 267_2021"
+        "Remarks": "Updated 287_2021"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_25 08:45:20",
+        "Last_updated": "2021_07_28 09:56:10",
         "Contact_Number": "7871081082",
-        "Remarks": "257_2021"
+        "Remarks": "287_2021"
     },
     {
         "S": {
