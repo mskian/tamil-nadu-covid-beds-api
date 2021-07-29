@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_29 09:55:04",
+        "Last_updated": "2021_07_29 17:01:14",
         "Contact_Number": "8300017171",
-        "Remarks": "29/07/2021 @ 10 am"
+        "Remarks": "29/07/2021 @ 5 pm"
     },
     {
         "S": {
@@ -245,7 +245,7 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_29 09:45:45",
+        "Last_updated": "2021_07_29 17:31:21",
         "Contact_Number": "7824821042",
         "Remarks": "297_2021"
     },
@@ -470,9 +470,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_26 13:43:03",
+        "Last_updated": "2021_07_29 17:09:15",
         "Contact_Number": "9551841153",
-        "Remarks": "today report 26/07/2021"
+        "Remarks": "today report 29/07/2021"
     },
     {
         "S": {
@@ -2706,21 +2706,21 @@
         "District": "Dindigul",
         "Institution": "Vel Multispeciality Hospital",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "45",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "17",
         "ICU_BEDS_Total": "10",
         "ICU_BEDS_Occupied": "2",
         "ICU_BEDS_Vacant": "8",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_07_29 09:15:32",
+        "Last_updated": "2021_07_29 17:35:36",
         "Contact_Number": "9942466002",
         "Remarks": ""
     },
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_29 09:57:14",
+        "Last_updated": "2021_07_29 17:32:15",
         "Contact_Number": "6382253140",
-        "Remarks": "10"
+        "Remarks": "5"
     },
     {
         "S": {
