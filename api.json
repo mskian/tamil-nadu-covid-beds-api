@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_07_31 15:44:39",
+        "Last_updated": "2021_07_31 18:07:26",
         "Contact_Number": "8300017171",
-        "Remarks": "31/07/2021 @ 4 pm"
+        "Remarks": "31/07/2021 @ 6 pm"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_31 15:00:17",
+        "Last_updated": "2021_07_31 18:34:46",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 307_21 030 PM"
+        "Remarks": "Updated 307_21 06_34 PM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_31 13:19:01",
+        "Last_updated": "2021_07_31 17:41:59",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 31/07/2021 1:00 PM"
+        "Remarks": "UPDATED TILL 31/07/2021 4:00 PM"
     },
     {
         "S": {
@@ -10081,21 +10081,21 @@
         "District": "Kanyakumari",
         "Institution": "Dr_ Kumaraswami Health Centre, Perumalpuram",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "49",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "48",
         "OXYGEN_SUPPORTED_BEDS_Total": "8",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_26 08:40:45",
+        "Last_updated": "2021_07_31 17:53:39",
         "Contact_Number": "7397617648",
         "Remarks": ""
     },
