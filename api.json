@@ -5131,11 +5131,11 @@
         "District": "Thiruvarur",
         "Institution": "Thiruvarur Medical Centre",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "28",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_02 07:27:54",
+        "Last_updated": "2021_08_03 08:10:47",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 028_2021"
+        "Remarks": "Update 038_2021"
     },
     {
         "S": {
@@ -7959,20 +7959,20 @@
         "COVID_BEDS_Occupied": "15",
         "COVID_BEDS_Vacant": "70",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "36",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "37",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "ICU_BEDS_Total": "12",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "11",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_02 07:58:23",
+        "Last_updated": "2021_08_03 08:11:19",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 9 Suspected: 6 Updated"
+        "Remarks": "Covid Positive : 11 Suspected: 4 Updated"
     },
     {
         "S": {
