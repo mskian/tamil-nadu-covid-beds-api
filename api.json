@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_08_04 07:08:29",
+        "Last_updated": "2021_08_04 13:02:32",
         "Contact_Number": "8585858550",
-        "Remarks": "4_8_2021 7 AM update"
+        "Remarks": "4_8_2021 1 PM update"
     },
     {
         "S": {
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_04 09:42:07",
+        "Last_updated": "2021_08_04 12:53:29",
         "Contact_Number": "8300017171",
-        "Remarks": "04/08/2021 @ 10 am"
+        "Remarks": "04/08/2021 @ 1 pm"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_04 09:16:16",
+        "Last_updated": "2021_08_04 13:05:41",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,9 +5370,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_04 09:24:53",
+        "Last_updated": "2021_08_04 13:06:02",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "NIL_"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_04 08:48:53",
+        "Last_updated": "2021_08_04 13:02:26",
         "Contact_Number": "7397591935",
-        "Remarks": "4_8_2021@9Am"
+        "Remarks": "4_8_2021@1pm"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_04 10:20:41",
+        "Last_updated": "2021_08_04 13:16:52",
         "Contact_Number": "9384676001",
-        "Remarks": "04/08/2021 at 9:00 am"
+        "Remarks": "04/08/2021 at 1:00 pm"
     },
     {
         "S": {
