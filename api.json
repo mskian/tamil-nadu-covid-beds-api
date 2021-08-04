@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_04 10:04:06",
+        "Last_updated": "2021_08_04 18:58:39",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 048_21 104 AM"
+        "Remarks": "Updated 048_21 06_58 PM"
     },
     {
         "S": {
@@ -10081,11 +10081,11 @@
         "District": "Kanyakumari",
         "Institution": "Dr_ Kumaraswami Health Centre, Perumalpuram",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "49",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "48",
         "OXYGEN_SUPPORTED_BEDS_Total": "8",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "39",
@@ -10095,7 +10095,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_03 15:58:38",
+        "Last_updated": "2021_08_04 19:26:41",
         "Contact_Number": "7397617648",
         "Remarks": ""
     },
