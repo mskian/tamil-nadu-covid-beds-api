@@ -1956,11 +1956,11 @@
         "District": "Chennai",
         "Institution": "Tagore Medical College & Hospital",
         "COVID_BEDS_Total": "410",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "409",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "410",
         "OXYGEN_SUPPORTED_BEDS_Total": "45",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "349",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "349",
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_08_04 09:01:06",
+        "Last_updated": "2021_08_04 22:16:40",
         "Contact_Number": "4430101111",
-        "Remarks": "04/08/2021 090 AM"
+        "Remarks": "04/08/2021 10_18 PM"
     },
     {
         "S": {
