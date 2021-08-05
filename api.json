@@ -156,11 +156,11 @@
         "District": "Chengalpattu",
         "Institution": "Sugam Hospital, Chromepet",
         "COVID_BEDS_Total": "45",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "43",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "42",
         "OXYGEN_SUPPORTED_BEDS_Total": "23",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_08_04 17:11:30",
+        "Last_updated": "2021_08_05 07:19:08",
         "Contact_Number": "8585858550",
-        "Remarks": "4_8_2021 4 PM update"
+        "Remarks": "5_8_2021 7 AM update"
     },
     {
         "S": {
