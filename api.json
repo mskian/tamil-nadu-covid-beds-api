@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_05 18:02:39",
+        "Last_updated": "2021_08_06 10:10:50",
         "Contact_Number": "8300017171",
-        "Remarks": "05/08/2021 @ 6 pm"
+        "Remarks": "06/08/2021 @ 10 AM"
     },
     {
         "S": {
@@ -570,9 +570,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_05 09:22:22",
+        "Last_updated": "2021_08_06 09:45:16",
         "Contact_Number": "8667243945",
-        "Remarks": "05/08/20"
+        "Remarks": "06/08/20"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_05 17:54:30",
+        "Last_updated": "2021_08_06 09:48:13",
         "Contact_Number": "9442667069",
-        "Remarks": "058_21"
+        "Remarks": "068_2021"
     },
     {
         "S": {
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_05 10:12:27",
+        "Last_updated": "2021_08_06 10:18:24",
         "Contact_Number": "8608044773",
-        "Remarks": "Nil"
+        "Remarks": ""
     },
     {
         "S": {
@@ -8256,11 +8256,11 @@
         "District": "Coimbatore",
         "Institution": "FIMS Hospital, Sundarapuram",
         "COVID_BEDS_Total": "100",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "97",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "98",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "35",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
@@ -8270,9 +8270,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_05 10:13:01",
+        "Last_updated": "2021_08_06 09:42:46",
         "Contact_Number": "9600240521",
-        "Remarks": "05/08/2021"
+        "Remarks": "06/08/2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_05 12:19:54",
+        "Last_updated": "2021_08_06 10:22:32",
         "Contact_Number": "9384676001",
-        "Remarks": "05/08/2021 at 1:00 pm"
+        "Remarks": "06/08/2021 at 9:00 am"
     },
     {
         "S": {
@@ -12095,9 +12095,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_05 15:30:09",
+        "Last_updated": "2021_08_06 10:06:34",
         "Contact_Number": "6382253140",
-        "Remarks": "3_30"
+        "Remarks": "10"
     },
     {
         "S": {
