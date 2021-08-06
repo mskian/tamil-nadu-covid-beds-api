@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_05 16:09:36",
+        "Last_updated": "2021_08_06 07:50:19",
         "Contact_Number": "8072738401",
-        "Remarks": "Update"
+        "Remarks": "Updated"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_04 08:01:58",
+        "Last_updated": "2021_08_06 08:10:37",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 048_2021"
+        "Remarks": "Update 068_2021"
     },
     {
         "S": {
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_05 08:42:06",
+        "Last_updated": "2021_08_06 08:32:08",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "13",
-        "COVID_BEDS_Vacant": "72",
+        "COVID_BEDS_Occupied": "11",
+        "COVID_BEDS_Vacant": "74",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "38",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_05 08:43:37",
+        "Last_updated": "2021_08_06 07:52:49",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 10 Suspected: 3 Updated"
+        "Remarks": "Covid Positive : 8 Suspected: 3 Updated"
     },
     {
         "S": {
