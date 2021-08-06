@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "9",
-        "Last_updated": "2021_08_06 07:06:02",
+        "Last_updated": "2021_08_06 13:01:26",
         "Contact_Number": "8585858550",
-        "Remarks": "6_8_2021 7 AM update"
+        "Remarks": "6_8_2021 1 PM update"
     },
     {
         "S": {
@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_06 07:50:19",
+        "Last_updated": "2021_08_06 13:30:26",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_06 09:11:41",
+        "Last_updated": "2021_08_06 12:55:00",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL_"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5370,9 +5370,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_06 09:17:04",
+        "Last_updated": "2021_08_06 12:55:21",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "NIL_"
     },
     {
         "S": {
@@ -6581,11 +6581,11 @@
         "District": "Chennai",
         "Institution": "K_G_J Hospitals, Korattur",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "20",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_06 11:06:57",
+        "Last_updated": "2021_08_06 13:38:20",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 068_21 116 AM"
+        "Remarks": "Updated 068_21 01_38 PM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_06 08:56:52",
+        "Last_updated": "2021_08_06 13:27:30",
         "Contact_Number": "7397591935",
-        "Remarks": "6_8_2021@9Am"
+        "Remarks": "6_8_2021@1pm"
     },
     {
         "S": {
