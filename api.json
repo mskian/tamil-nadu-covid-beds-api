@@ -556,11 +556,11 @@
         "District": "Chennai",
         "Institution": "CSI Kalyani General Hospital",
         "COVID_BEDS_Total": "110",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "105",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "104",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -570,7 +570,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_06 09:45:16",
+        "Last_updated": "2021_08_06 14:23:26",
         "Contact_Number": "8667243945",
         "Remarks": "06/08/20"
     },
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_06 10:22:32",
+        "Last_updated": "2021_08_06 14:30:55",
         "Contact_Number": "9384676001",
-        "Remarks": "06/08/2021 at 9:00 am"
+        "Remarks": "06/08/2021 at 1:00 9m"
     },
     {
         "S": {
