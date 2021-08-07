@@ -6581,11 +6581,11 @@
         "District": "Chennai",
         "Institution": "K_G_J Hospitals, Korattur",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "18",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_07 14:11:56",
+        "Last_updated": "2021_08_07 18:53:58",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 078_21 02_11 PM"
+        "Remarks": "Updated 078_21 06_53 PM"
     },
     {
         "S": {
