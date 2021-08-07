@@ -234,20 +234,20 @@
         "COVID_BEDS_Occupied": "30",
         "COVID_BEDS_Vacant": "86",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "79",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "80",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "8",
-        "ICU_BEDS_Vacant": "7",
-        "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "7",
+        "ICU_BEDS_Occupied": "9",
+        "ICU_BEDS_Vacant": "6",
+        "VENTILATOR_Total": "8",
+        "VENTILATOR_Occupied": "8",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_05 16:20:13",
+        "Last_updated": "2021_08_07 10:42:20",
         "Contact_Number": "7824821042",
-        "Remarks": ""
+        "Remarks": "078_2021"
     },
     {
         "S": {
@@ -3206,21 +3206,21 @@
         "District": "Kanyakumari",
         "Institution": "Vasantham Health Centre",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "42",
         "OXYGEN_SUPPORTED_BEDS_Total": "35",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "33",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "31",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "10",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "9",
+        "ICU_BEDS_Occupied": "0",
+        "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_07_17 15:38:34",
+        "Last_updated": "2021_08_07 11:09:24",
         "Contact_Number": "9003200684",
         "Remarks": ""
     },
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_06 15:51:14",
+        "Last_updated": "2021_08_07 10:41:00",
         "Contact_Number": "9442667069",
-        "Remarks": "068_21"
+        "Remarks": "078_21"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_06 18:53:57",
+        "Last_updated": "2021_08_07 11:15:28",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 068_21 06_53 PM"
+        "Remarks": "Updated 078_21 11_15 AM"
     },
     {
         "S": {
@@ -8495,9 +8495,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_06 15:22:37",
+        "Last_updated": "2021_08_07 11:33:12",
         "Contact_Number": "9566313409",
-        "Remarks": "Till 03_20pm,068_2021"
+        "Remarks": "Till 11_33am,078_2021"
     },
     {
         "S": {
@@ -9895,9 +9895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_31 09:57:16",
+        "Last_updated": "2021_08_07 11:00:27",
         "Contact_Number": "9524241241",
-        "Remarks": "Positive cases_ 1"
+        "Remarks": "Positive cases_ 2"
     },
     {
         "S": {
