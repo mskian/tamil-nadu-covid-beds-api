@@ -3395,9 +3395,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_06 16:01:32",
+        "Last_updated": "2021_08_07 07:55:16",
         "Contact_Number": "8072738401",
-        "Remarks": "Updated"
+        "Remarks": "Update"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_06 08:10:37",
+        "Last_updated": "2021_08_07 07:55:19",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 068_2021"
+        "Remarks": "Update 078_2021"
     },
     {
         "S": {
@@ -7506,11 +7506,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Kavi Hospital & Neuro Foundation",
         "COVID_BEDS_Total": "30",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "24",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "24",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -7520,7 +7520,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_03 17:19:04",
+        "Last_updated": "2021_08_07 08:11:51",
         "Contact_Number": "9843005288",
         "Remarks": "NIL_"
     },
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "74",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "76",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "42",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_06 07:52:49",
+        "Last_updated": "2021_08_07 08:13:04",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 8 Suspected: 3 Updated"
+        "Remarks": "Covid Positive : 6 Suspected: 3 Updated"
     },
     {
         "S": {
