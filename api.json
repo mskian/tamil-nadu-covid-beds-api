@@ -556,11 +556,11 @@
         "District": "Chennai",
         "Institution": "CSI Kalyani General Hospital",
         "COVID_BEDS_Total": "110",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "104",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "107",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "50",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "50",
@@ -570,7 +570,7 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_09 09:15:06",
+        "Last_updated": "2021_08_09 09:49:50",
         "Contact_Number": "8667243945",
         "Remarks": "09/08/2021"
     },
@@ -6281,23 +6281,23 @@
         "District": "Salem",
         "Institution": "Universal Cancer Hospital, Kondalampatty",
         "COVID_BEDS_Total": "55",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "54",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "19",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_08 11:05:41",
+        "Last_updated": "2021_08_09 10:25:19",
         "Contact_Number": "8608044773",
-        "Remarks": ""
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6595,9 +6595,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_08 18:46:37",
+        "Last_updated": "2021_08_09 09:51:45",
         "Contact_Number": "8695966995",
-        "Remarks": "Updated 088_21 06_46 PM"
+        "Remarks": "Updated 098_21 9_51 AM"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_08 16:12:31",
+        "Last_updated": "2021_08_09 09:45:33",
         "Contact_Number": "0",
-        "Remarks": "UPDATED TILL 08/08/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 09/08/2021 9:00 AM"
     },
     {
         "S": {
