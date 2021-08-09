@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "8",
-        "Last_updated": "2021_08_09 07:05:08",
+        "Last_updated": "2021_08_09 16:02:58",
         "Contact_Number": "8585858550",
-        "Remarks": "9_8_2021 7 AM update"
+        "Remarks": "9_8_2021 4 PM update"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 13:04:02",
+        "Last_updated": "2021_08_09 16:04:41",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL_"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -7131,21 +7131,21 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "34",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "35",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 09:32:40",
+        "Last_updated": "2021_08_09 16:14:40",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 08:50:32",
+        "Last_updated": "2021_08_09 16:22:01",
         "Contact_Number": "7397591935",
-        "Remarks": "9_8_2021@9am"
+        "Remarks": "9_8_2021@4pm"
     },
     {
         "S": {
