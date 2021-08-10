@@ -156,11 +156,11 @@
         "District": "Chengalpattu",
         "Institution": "Sugam Hospital, Chromepet",
         "COVID_BEDS_Total": "45",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "37",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "38",
         "OXYGEN_SUPPORTED_BEDS_Total": "23",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "17",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "18",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "12",
@@ -170,9 +170,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "8",
-        "Last_updated": "2021_08_09 16:02:58",
+        "Last_updated": "2021_08_10 07:06:49",
         "Contact_Number": "8585858550",
-        "Remarks": "9_8_2021 4 PM update"
+        "Remarks": "10_8_2021 7AM update"
     },
     {
         "S": {
@@ -231,8 +231,8 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "31",
-        "COVID_BEDS_Vacant": "85",
+        "COVID_BEDS_Occupied": "30",
+        "COVID_BEDS_Vacant": "86",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "79",
@@ -240,14 +240,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "9",
-        "ICU_BEDS_Vacant": "6",
+        "ICU_BEDS_Occupied": "8",
+        "ICU_BEDS_Vacant": "7",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "7",
-        "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 17:08:34",
+        "VENTILATOR_Occupied": "6",
+        "VENTILATOR_Vacant": "1",
+        "Last_updated": "2021_08_10 07:27:24",
         "Contact_Number": "7824821042",
-        "Remarks": "098_2021"
+        "Remarks": "108_2021"
     },
     {
         "S": {
