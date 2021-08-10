@@ -570,9 +570,9 @@
         "VENTILATOR_Total": "3",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_09 09:49:50",
+        "Last_updated": "2021_08_10 09:24:58",
         "Contact_Number": "8667243945",
-        "Remarks": "09/08/2021"
+        "Remarks": "10/08/2021"
     },
     {
         "S": {
@@ -1970,9 +1970,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_08_09 09:22:15",
+        "Last_updated": "2021_08_10 09:17:57",
         "Contact_Number": "4430101111",
-        "Remarks": "09/08/2021 9_22 AM"
+        "Remarks": "10/08/2021 9_22 AM"
     },
     {
         "S": {
@@ -2345,9 +2345,9 @@
         "VENTILATOR_Total": "10",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "10",
-        "Last_updated": "2021_08_09 09:04:01",
+        "Last_updated": "2021_08_10 09:01:15",
         "Contact_Number": "9566760490",
-        "Remarks": "0occupied"
+        "Remarks": "0 occupied"
     },
     {
         "S": {
@@ -2530,24 +2530,24 @@
         },
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
-        "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Total": "20",
+        "COVID_BEDS_Occupied": "15",
+        "COVID_BEDS_Vacant": "5",
         "OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "10",
-        "ICU_BEDS_Occupied": "10",
+        "ICU_BEDS_Total": "5",
+        "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 09:08:51",
+        "Last_updated": "2021_08_10 09:32:10",
         "Contact_Number": "9384084606",
-        "Remarks": "098_21"
+        "Remarks": "108_21"
     },
     {
         "S": {
@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_09 05:32:25",
+        "Last_updated": "2021_08_10 08:45:29",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 098_2021"
+        "Remarks": "Update 108_2021"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 16:04:41",
+        "Last_updated": "2021_08_10 09:13:33",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6306,11 +6306,11 @@
         "District": "Sivagangai",
         "Institution": "Devaki Multi Speciality Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "25",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "24",
         "OXYGEN_SUPPORTED_BEDS_Total": "21",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 09:07:19",
+        "Last_updated": "2021_08_10 08:54:47",
         "Contact_Number": "7824950986",
-        "Remarks": "09_08_2021"
+        "Remarks": "10_08_2021"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 08:41:31",
+        "Last_updated": "2021_08_10 09:10:54",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 09_08_2021"
+        "Remarks": "updated 10_08_2021"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 16:38:32",
-        "Contact_Number": "88",
-        "Remarks": "UPDATED TILL 09/08/2021 4:00 PM"
+        "Last_updated": "2021_08_10 09:31:10",
+        "Contact_Number": "8800000000",
+        "Remarks": "UPDATED TILL 10/08/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 16:14:40",
+        "Last_updated": "2021_08_10 09:37:20",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_07 09:24:41",
+        "Last_updated": "2021_08_10 09:35:23",
         "Contact_Number": "7092820884",
-        "Remarks": "07/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "10/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_09 09:19:02",
+        "Last_updated": "2021_08_10 09:34:03",
         "Contact_Number": "9940632392",
-        "Remarks": "09/08/2021"
+        "Remarks": "10/08/2021"
     },
     {
         "S": {
@@ -9070,9 +9070,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_08 10:33:33",
+        "Last_updated": "2021_08_10 09:11:53",
         "Contact_Number": "7871081082",
-        "Remarks": "088_2021"
+        "Remarks": "098_2021"
     },
     {
         "S": {
