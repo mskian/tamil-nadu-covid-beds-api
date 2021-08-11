@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_10 21:27:36",
+        "Last_updated": "2021_08_11 08:43:49",
         "Contact_Number": "8300017171",
-        "Remarks": "10/08/2021 @ 9 pm"
+        "Remarks": "11/08/2021 @ 9 am"
     },
     {
         "S": {
@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "30",
-        "COVID_BEDS_Vacant": "86",
+        "COVID_BEDS_Occupied": "25",
+        "COVID_BEDS_Vacant": "91",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "79",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "19",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "82",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "8",
-        "ICU_BEDS_Vacant": "7",
+        "ICU_BEDS_Occupied": "6",
+        "ICU_BEDS_Vacant": "9",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "6",
-        "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_10 07:27:24",
+        "VENTILATOR_Occupied": "5",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_08_11 08:47:46",
         "Contact_Number": "7824821042",
-        "Remarks": "108_2021"
+        "Remarks": "118_2021"
     },
     {
         "S": {
@@ -2531,11 +2531,11 @@
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "15",
-        "COVID_BEDS_Vacant": "5",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "7",
         "OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -2545,9 +2545,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_10 09:32:10",
+        "Last_updated": "2021_08_11 08:49:08",
         "Contact_Number": "9384084606",
-        "Remarks": "108_21"
+        "Remarks": "118_21"
     },
     {
         "S": {
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_10 08:54:47",
+        "Last_updated": "2021_08_11 08:46:45",
         "Contact_Number": "7824950986",
-        "Remarks": "10_08_2021"
+        "Remarks": "11_08_2021"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_10 09:10:54",
+        "Last_updated": "2021_08_11 09:25:03",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 10_08_2021"
+        "Remarks": "updated 11_08_2021"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_10 16:54:08",
+        "Last_updated": "2021_08_11 09:25:36",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 10/08/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 11/08/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_10 16:18:52",
+        "Last_updated": "2021_08_11 09:31:12",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_10 09:35:23",
+        "Last_updated": "2021_08_11 09:27:52",
         "Contact_Number": "7092820884",
-        "Remarks": "10/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "11/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "53",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_10 16:18:31",
+        "Last_updated": "2021_08_11 08:45:36",
         "Contact_Number": "7397591935",
-        "Remarks": "10_8_2021@4pm"
+        "Remarks": "11_8_2021@9Am"
     },
     {
         "S": {
