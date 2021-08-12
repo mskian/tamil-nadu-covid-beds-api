@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_11 08:26:59",
+        "Last_updated": "2021_08_12 08:14:16",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 118_2021"
+        "Remarks": "Update 128_2021"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "103",
-        "COVID_BEDS_Occupied": "80",
-        "COVID_BEDS_Vacant": "23",
+        "COVID_BEDS_Occupied": "69",
+        "COVID_BEDS_Vacant": "34",
         "OXYGEN_SUPPORTED_BEDS_Total": "65",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "50",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "42",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "38",
-        "ICU_BEDS_Occupied": "30",
-        "ICU_BEDS_Vacant": "8",
+        "ICU_BEDS_Occupied": "27",
+        "ICU_BEDS_Vacant": "11",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_11 09:43:47",
+        "Last_updated": "2021_08_12 08:27:58",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "79",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "80",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_10 08:33:48",
+        "Last_updated": "2021_08_12 08:19:34",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 3 Suspected: 3 Updated"
+        "Remarks": "Covid Positive : 3 Suspected: 2 Updated"
     },
     {
         "S": {
