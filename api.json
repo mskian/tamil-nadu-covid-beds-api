@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_11 18:32:08",
+        "Last_updated": "2021_08_12 10:59:27",
         "Contact_Number": "7824821042",
-        "Remarks": "118_2021"
+        "Remarks": "128_2021"
     },
     {
         "S": {
@@ -6295,7 +6295,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_11 10:15:52",
+        "Last_updated": "2021_08_12 11:33:27",
         "Contact_Number": "8608044773",
         "Remarks": ""
     },
@@ -14056,11 +14056,11 @@
         "District": "Kanyakumari",
         "Institution": "William Hospital,Nagercoil",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "8",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_10 10:35:40",
+        "Last_updated": "2021_08_12 11:23:24",
         "Contact_Number": "9597221977",
         "Remarks": "0"
     },
