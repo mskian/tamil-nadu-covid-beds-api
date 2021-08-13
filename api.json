@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_13 10:58:10",
+        "Last_updated": "2021_08_13 13:03:48",
         "Contact_Number": "8300017171",
-        "Remarks": "13/08/2021 @ 11 am"
+        "Remarks": "13/08/2021 @ 1 pm"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_13 09:02:24",
+        "Last_updated": "2021_08_13 12:47:39",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_13 09:04:51",
+        "Last_updated": "2021_08_13 12:48:27",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_13 09:09:03",
+        "Last_updated": "2021_08_13 13:07:31",
         "Contact_Number": "7397591935",
-        "Remarks": "13_8_2021@9Am"
+        "Remarks": "14_8_2021@1pm"
     },
     {
         "S": {
@@ -10081,21 +10081,21 @@
         "District": "Kanyakumari",
         "Institution": "Dr_ Kumaraswami Health Centre, Perumalpuram",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "47",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "49",
         "OXYGEN_SUPPORTED_BEDS_Total": "8",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "38",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_06 16:58:51",
+        "Last_updated": "2021_08_13 12:53:09",
         "Contact_Number": "7397617648",
         "Remarks": ""
     },
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_13 05:48:22",
+        "Last_updated": "2021_08_13 13:18:21",
         "Contact_Number": "9384676001",
-        "Remarks": "13/08/2021 at 6:00 am"
+        "Remarks": "13/08/2021 at 1:00 pm"
     },
     {
         "S": {
