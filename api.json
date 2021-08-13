@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "25",
-        "COVID_BEDS_Vacant": "91",
+        "COVID_BEDS_Occupied": "23",
+        "COVID_BEDS_Vacant": "93",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "19",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "82",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "83",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "9",
+        "ICU_BEDS_Occupied": "5",
+        "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "5",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_12 14:43:35",
+        "VENTILATOR_Occupied": "4",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_08_13 09:23:09",
         "Contact_Number": "7824821042",
-        "Remarks": "128_2021_"
+        "Remarks": "138_2021_"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_12 16:00:00",
+        "Last_updated": "2021_08_13 09:02:24",
         "Contact_Number": "9095505550",
-        "Remarks": "nil_"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5356,23 +5356,23 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "29",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "27",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "24",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "4",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_12 16:00:46",
+        "Last_updated": "2021_08_13 09:04:51",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL_"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "103",
-        "COVID_BEDS_Occupied": "69",
-        "COVID_BEDS_Vacant": "34",
+        "COVID_BEDS_Occupied": "71",
+        "COVID_BEDS_Vacant": "32",
         "OXYGEN_SUPPORTED_BEDS_Total": "65",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "42",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "43",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "38",
-        "ICU_BEDS_Occupied": "27",
-        "ICU_BEDS_Vacant": "11",
+        "ICU_BEDS_Occupied": "28",
+        "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_12 08:27:58",
+        "Last_updated": "2021_08_13 08:51:58",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_12 09:00:15",
+        "Last_updated": "2021_08_13 08:55:45",
         "Contact_Number": "7824950986",
-        "Remarks": "12_08_2021"
+        "Remarks": "13_08_2021"
     },
     {
         "S": {
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_11 09:27:52",
+        "Last_updated": "2021_08_13 09:07:08",
         "Contact_Number": "7092820884",
-        "Remarks": "11/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "13/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_12 15:21:00",
+        "Last_updated": "2021_08_13 09:09:03",
         "Contact_Number": "7397591935",
-        "Remarks": "12_8_2021@3pm"
+        "Remarks": "13_8_2021@9Am"
     },
     {
         "S": {
