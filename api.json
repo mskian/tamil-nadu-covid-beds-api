@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_15 16:05:25",
+        "Last_updated": "2021_08_16 09:13:37",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5356,8 +5356,8 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "25",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "24",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
@@ -5365,12 +5365,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "4",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_15 16:06:45",
+        "Last_updated": "2021_08_16 09:16:07",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5456,8 +5456,8 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "103",
-        "COVID_BEDS_Occupied": "70",
-        "COVID_BEDS_Vacant": "33",
+        "COVID_BEDS_Occupied": "68",
+        "COVID_BEDS_Vacant": "35",
         "OXYGEN_SUPPORTED_BEDS_Total": "65",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "42",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -5465,12 +5465,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "38",
-        "ICU_BEDS_Occupied": "28",
-        "ICU_BEDS_Vacant": "10",
+        "ICU_BEDS_Occupied": "26",
+        "ICU_BEDS_Vacant": "12",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_15 08:28:55",
+        "Last_updated": "2021_08_16 08:51:46",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_15 09:56:26",
+        "Last_updated": "2021_08_16 09:10:08",
         "Contact_Number": "7824950986",
-        "Remarks": "15_08_2021"
+        "Remarks": "16_08_2021"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_15 09:25:05",
+        "Last_updated": "2021_08_16 08:40:44",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 15_08_2021"
+        "Remarks": "updated 16_08_2021"
     },
     {
         "S": {
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_14 15:28:38",
+        "Last_updated": "2021_08_16 09:27:11",
         "Contact_Number": "7092820884",
-        "Remarks": "14/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "16/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -7931,8 +7931,8 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "7",
-        "COVID_BEDS_Vacant": "53",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "54",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
@@ -7940,14 +7940,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_15 16:04:46",
+        "Last_updated": "2021_08_16 08:58:15",
         "Contact_Number": "7397591935",
-        "Remarks": "15_8_2021@4:00pm"
+        "Remarks": "16_8_2021@9:00AM"
     },
     {
         "S": {
