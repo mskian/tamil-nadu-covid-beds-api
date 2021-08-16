@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_15 08:18:46",
+        "Last_updated": "2021_08_16 07:57:49",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 158_2021"
+        "Remarks": "Update 168_2021"
     },
     {
         "S": {
@@ -7970,7 +7970,7 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_15 08:25:35",
+        "Last_updated": "2021_08_16 08:12:36",
         "Contact_Number": "8012519266",
         "Remarks": "Covid Positive : 2 Suspected: 3 Updated"
     },
