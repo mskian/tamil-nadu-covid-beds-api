@@ -5145,9 +5145,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_16 07:57:49",
+        "Last_updated": "2021_08_17 08:19:37",
         "Contact_Number": "9788188177",
-        "Remarks": "Update 168_2021"
+        "Remarks": "Update 178_2021"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "103",
-        "COVID_BEDS_Occupied": "68",
-        "COVID_BEDS_Vacant": "35",
+        "COVID_BEDS_Occupied": "73",
+        "COVID_BEDS_Vacant": "30",
         "OXYGEN_SUPPORTED_BEDS_Total": "65",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "42",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "45",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "38",
-        "ICU_BEDS_Occupied": "26",
-        "ICU_BEDS_Vacant": "12",
+        "ICU_BEDS_Occupied": "28",
+        "ICU_BEDS_Vacant": "10",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_16 08:51:46",
+        "Last_updated": "2021_08_17 08:16:14",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_16 08:40:44",
+        "Last_updated": "2021_08_17 07:55:17",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 16_08_2021"
+        "Remarks": "updated 17_08_2021"
     },
     {
         "S": {
@@ -8881,11 +8881,11 @@
         "District": "Tiruvallur",
         "Institution": "SKS HOSPITAL",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "12",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "15",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_06_01 09:27:49",
+        "Last_updated": "2021_08_17 08:21:02",
         "Contact_Number": "9841091403",
-        "Remarks": "016_2021"
+        "Remarks": "178_2021"
     },
     {
         "S": {
