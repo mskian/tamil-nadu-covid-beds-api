@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_18 17:35:01",
+        "Last_updated": "2021_08_19 09:27:06",
         "Contact_Number": "9442667069",
-        "Remarks": "188_21"
+        "Remarks": "198_21"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_18 16:02:19",
+        "Last_updated": "2021_08_19 09:06:50",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -5359,18 +5359,18 @@
         "COVID_BEDS_Occupied": "7",
         "COVID_BEDS_Vacant": "26",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "4",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_18 16:03:08",
+        "Last_updated": "2021_08_19 09:08:54",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_17 08:52:22",
+        "Last_updated": "2021_08_19 09:13:24",
         "Contact_Number": "7824950986",
-        "Remarks": "17_08_2021"
+        "Remarks": "18_08_2021"
     },
     {
         "S": {
@@ -7131,21 +7131,21 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_18 15:14:14",
+        "Last_updated": "2021_08_19 09:33:52",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_18 10:12:48",
+        "Last_updated": "2021_08_19 09:07:33",
         "Contact_Number": "7092820884",
-        "Remarks": "18/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "19/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_18 16:30:36",
+        "Last_updated": "2021_08_19 08:51:21",
         "Contact_Number": "7397591935",
-        "Remarks": "18_8_2021@4pM"
+        "Remarks": "19_8_2021@9:00AM"
     },
     {
         "S": {
