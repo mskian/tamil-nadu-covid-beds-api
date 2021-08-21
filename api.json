@@ -231,8 +231,8 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "26",
-        "COVID_BEDS_Vacant": "90",
+        "COVID_BEDS_Occupied": "28",
+        "COVID_BEDS_Vacant": "88",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "20",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "81",
@@ -240,14 +240,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "6",
-        "ICU_BEDS_Vacant": "9",
+        "ICU_BEDS_Occupied": "8",
+        "ICU_BEDS_Vacant": "7",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "4",
-        "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_20 16:22:21",
+        "VENTILATOR_Occupied": "5",
+        "VENTILATOR_Vacant": "2",
+        "Last_updated": "2021_08_21 07:37:00",
         "Contact_Number": "7824821042",
-        "Remarks": "208_2021"
+        "Remarks": "218_2021"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "74",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "73",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "3",
-        "Last_updated": "2021_08_20 08:03:54",
+        "Last_updated": "2021_08_21 07:41:37",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 5 Suspected: 6 Updated"
+        "Remarks": "Covid Positive : 5 Suspected: 7 Updated"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_20 17:33:50",
+        "Last_updated": "2021_08_21 07:30:46",
         "Contact_Number": "9384676001",
-        "Remarks": "20/08/2021 at 5:00 pm"
+        "Remarks": "21/08/2021 at 7:00 am"
     },
     {
         "S": {
