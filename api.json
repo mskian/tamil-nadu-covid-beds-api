@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_21 07:37:00",
+        "Last_updated": "2021_08_21 17:17:42",
         "Contact_Number": "7824821042",
-        "Remarks": "218_2021"
+        "Remarks": "218_2021_"
     },
     {
         "S": {
@@ -2530,24 +2530,24 @@
         },
         "District": "Coimbatore",
         "Institution": "Sri Ramakrishna Hospital",
-        "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "16",
+        "COVID_BEDS_Total": "35",
+        "COVID_BEDS_Occupied": "31",
         "COVID_BEDS_Vacant": "4",
         "OXYGEN_SUPPORTED_BEDS_Total": "15",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "15",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "5",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_13 11:06:29",
+        "Last_updated": "2021_08_21 16:48:51",
         "Contact_Number": "9384084606",
-        "Remarks": "138_21"
+        "Remarks": "218_21"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_21 09:27:53",
+        "Last_updated": "2021_08_21 17:04:22",
         "Contact_Number": "9442667069",
-        "Remarks": "218_21"
+        "Remarks": "218_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_21 09:59:02",
+        "Last_updated": "2021_08_21 16:41:26",
         "Contact_Number": "9384676001",
-        "Remarks": "21/08/2021 at 10:00 am"
+        "Remarks": "21/08/2021 at 5:00 pm"
     },
     {
         "S": {
