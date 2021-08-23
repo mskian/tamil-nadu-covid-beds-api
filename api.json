@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_22 22:39:27",
+        "Last_updated": "2021_08_23 09:00:50",
         "Contact_Number": "8300017171",
-        "Remarks": "22/08/2021 @ 10 pm"
+        "Remarks": "23/08/2021 @ 9 am"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_22 13:27:40",
+        "Last_updated": "2021_08_23 09:32:59",
         "Contact_Number": "9442667069",
-        "Remarks": "228_21"
+        "Remarks": "238_21"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_22 15:56:06",
+        "Last_updated": "2021_08_23 08:56:42",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_22 15:56:35",
+        "Last_updated": "2021_08_23 08:59:16",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_22 09:03:16",
+        "Last_updated": "2021_08_23 09:02:26",
         "Contact_Number": "7824950986",
-        "Remarks": "22_08_2021"
+        "Remarks": "23_08_2021"
     },
     {
         "S": {
@@ -6495,9 +6495,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_07_26 08:23:02",
+        "Last_updated": "2021_08_23 08:41:42",
         "Contact_Number": "7708773633",
-        "Remarks": "Updated on 267_2021 updated_"
+        "Remarks": "Updated on 238_2021 updated_"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_22 08:54:59",
+        "Last_updated": "2021_08_23 09:13:57",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 21_08_2021"
+        "Remarks": "updated 22_08_2021"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_22 13:03:17",
+        "Last_updated": "2021_08_23 09:04:24",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 22/08/2021 1:00 PM"
+        "Remarks": "UPDATED TILL 23/08/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_22 15:33:43",
+        "Last_updated": "2021_08_23 09:31:00",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "54",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "53",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_22 16:09:55",
+        "Last_updated": "2021_08_23 08:47:09",
         "Contact_Number": "7397591935",
-        "Remarks": "22_8_2021@4pm"
+        "Remarks": "23_8_2021@9Am"
     },
     {
         "S": {
