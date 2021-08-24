@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_23 15:50:39",
+        "Last_updated": "2021_08_24 09:04:20",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "31",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "32",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "27",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "28",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_23 15:51:43",
+        "Last_updated": "2021_08_24 09:05:58",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_23 09:02:26",
+        "Last_updated": "2021_08_24 08:46:46",
         "Contact_Number": "7824950986",
-        "Remarks": "23_08_2021"
+        "Remarks": "24_08_2021"
     },
     {
         "S": {
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_23 09:13:57",
+        "Last_updated": "2021_08_24 09:12:01",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 22_08_2021"
+        "Remarks": "updated 23_08_2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_23 16:24:03",
+        "Last_updated": "2021_08_24 09:00:06",
         "Contact_Number": "7397591935",
-        "Remarks": "23_8_2021@4pm"
+        "Remarks": "24_7_2021@9:00AM"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_23 09:44:19",
+        "Last_updated": "2021_08_24 09:17:49",
         "Contact_Number": "9940632392",
-        "Remarks": "23/08/2021"
+        "Remarks": "24/08/2021"
     },
     {
         "S": {
