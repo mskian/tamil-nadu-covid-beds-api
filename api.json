@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "25",
-        "COVID_BEDS_Vacant": "91",
+        "COVID_BEDS_Occupied": "22",
+        "COVID_BEDS_Vacant": "94",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "84",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "86",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "8",
-        "ICU_BEDS_Vacant": "7",
+        "ICU_BEDS_Occupied": "7",
+        "ICU_BEDS_Vacant": "8",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_23 16:32:36",
+        "Last_updated": "2021_08_24 08:32:11",
         "Contact_Number": "7824821042",
-        "Remarks": "238_2021_"
+        "Remarks": "248_2021_"
     },
     {
         "S": {
@@ -5456,8 +5456,8 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "108",
-        "COVID_BEDS_Occupied": "60",
-        "COVID_BEDS_Vacant": "48",
+        "COVID_BEDS_Occupied": "54",
+        "COVID_BEDS_Vacant": "54",
         "OXYGEN_SUPPORTED_BEDS_Total": "65",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "29",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "36",
@@ -5465,12 +5465,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "43",
-        "ICU_BEDS_Occupied": "31",
-        "ICU_BEDS_Vacant": "12",
+        "ICU_BEDS_Occupied": "25",
+        "ICU_BEDS_Vacant": "18",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_23 08:25:40",
+        "Last_updated": "2021_08_24 08:29:33",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "73",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "76",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "43",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_23 08:16:52",
+        "Last_updated": "2021_08_24 08:03:10",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 7 Suspected: 5 Updated"
+        "Remarks": "Covid Positive : 4 Suspected: 5 Updated"
     },
     {
         "S": {
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_23 09:47:30",
+        "Last_updated": "2021_08_24 07:50:37",
         "Contact_Number": "9841091403",
-        "Remarks": "238_2021"
+        "Remarks": "248_2021"
     },
     {
         "S": {
