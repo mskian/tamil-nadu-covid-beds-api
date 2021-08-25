@@ -181,11 +181,11 @@
         "District": "Chengalpattu",
         "Institution": "Deepam Hospitals, West Tambaram",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "17",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "18",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_25 10:06:27",
+        "Last_updated": "2021_08_25 23:22:10",
         "Contact_Number": "8300017171",
-        "Remarks": "25/08/2021 @ 10 am"
+        "Remarks": "25/08/2021 @ 10 pm"
     },
     {
         "S": {
