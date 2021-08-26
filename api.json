@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "108",
-        "COVID_BEDS_Occupied": "62",
-        "COVID_BEDS_Vacant": "46",
+        "COVID_BEDS_Occupied": "49",
+        "COVID_BEDS_Vacant": "59",
         "OXYGEN_SUPPORTED_BEDS_Total": "65",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "33",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "32",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "26",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "43",
-        "ICU_BEDS_Occupied": "29",
-        "ICU_BEDS_Vacant": "14",
+        "ICU_BEDS_Occupied": "23",
+        "ICU_BEDS_Vacant": "20",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_25 08:58:23",
+        "Last_updated": "2021_08_26 08:10:02",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7931,23 +7931,23 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "57",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "58",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "2",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_25 17:09:59",
+        "Last_updated": "2021_08_26 08:22:34",
         "Contact_Number": "7397591935",
-        "Remarks": "25_8_2021@40pm"
+        "Remarks": "26_8_2021@9Am"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "77",
+        "COVID_BEDS_Occupied": "10",
+        "COVID_BEDS_Vacant": "75",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "44",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "42",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_25 08:32:08",
+        "Last_updated": "2021_08_26 07:56:41",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 5 Suspected: 3 Updated"
+        "Remarks": "Covid Positive : 4 Suspected: 6 Updated"
     },
     {
         "S": {
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_25 08:15:40",
+        "Last_updated": "2021_08_26 08:23:38",
         "Contact_Number": "9841091403",
-        "Remarks": "258_2021"
+        "Remarks": "268_2021"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_25 16:47:05",
+        "Last_updated": "2021_08_26 07:54:50",
         "Contact_Number": "9384676001",
-        "Remarks": "25/08/2021 at 5:00 pm"
+        "Remarks": "26/08/2021 at 8:00 am"
     },
     {
         "S": {
