@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "108",
-        "COVID_BEDS_Occupied": "49",
-        "COVID_BEDS_Vacant": "59",
+        "COVID_BEDS_Occupied": "55",
+        "COVID_BEDS_Vacant": "53",
         "OXYGEN_SUPPORTED_BEDS_Total": "65",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "26",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "39",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "25",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "40",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "43",
-        "ICU_BEDS_Occupied": "23",
-        "ICU_BEDS_Vacant": "20",
+        "ICU_BEDS_Occupied": "30",
+        "ICU_BEDS_Vacant": "13",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_26 08:10:02",
+        "Last_updated": "2021_08_27 08:22:23",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6620,9 +6620,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_26 08:42:37",
+        "Last_updated": "2021_08_27 08:17:55",
         "Contact_Number": "9444200270",
-        "Remarks": "updated 25_08_2021"
+        "Remarks": "updated 26_08_2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_26 16:02:07",
+        "Last_updated": "2021_08_27 08:26:19",
         "Contact_Number": "7397591935",
-        "Remarks": "26_8_2021@4pm"
+        "Remarks": "27_8_2021@9Am"
     },
     {
         "S": {
@@ -7956,23 +7956,23 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "75",
+        "COVID_BEDS_Occupied": "8",
+        "COVID_BEDS_Vacant": "77",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "42",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "43",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
         "ICU_BEDS_Total": "12",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "10",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "11",
         "VENTILATOR_Total": "4",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_26 07:56:41",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_08_27 08:21:25",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 4 Suspected: 6 Updated"
+        "Remarks": "Covid Positive : 4 Suspected: 4 Updated"
     },
     {
         "S": {
@@ -8881,11 +8881,11 @@
         "District": "Tiruvallur",
         "Institution": "SKS HOSPITAL",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_26 08:23:38",
+        "Last_updated": "2021_08_27 08:23:40",
         "Contact_Number": "9841091403",
-        "Remarks": "268_2021"
+        "Remarks": "278_2021"
     },
     {
         "S": {
