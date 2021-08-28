@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_28 10:00:36",
+        "Last_updated": "2021_08_28 16:06:05",
         "Contact_Number": "8300017171",
-        "Remarks": "28/08/2021 @ 10 am"
+        "Remarks": "28/08/2021 @4 pm"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_28 12:42:37",
+        "Last_updated": "2021_08_28 15:41:20",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL_"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_28 12:43:03",
+        "Last_updated": "2021_08_28 15:41:43",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6295,7 +6295,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_28 11:12:23",
+        "Last_updated": "2021_08_28 16:01:17",
         "Contact_Number": "8608044773",
         "Remarks": ""
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_28 09:57:26",
+        "Last_updated": "2021_08_28 16:01:06",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 28/08/2021 9:00 AM"
+        "Remarks": "UPDATED TILL 28/08/2021 4:00 PM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_28 09:41:34",
+        "Last_updated": "2021_08_28 15:51:19",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
