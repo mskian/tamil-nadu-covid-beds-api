@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_29 22:35:57",
+        "Last_updated": "2021_08_30 09:15:31",
         "Contact_Number": "8300017171",
-        "Remarks": "29/08/2021 @ 10 pm"
+        "Remarks": "30/08/2021 @ 9 am"
     },
     {
         "S": {
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_08_29 18:10:31",
+        "Last_updated": "2021_08_30 08:57:06",
         "Contact_Number": "7824821042",
-        "Remarks": "298_2021"
+        "Remarks": "308_2021"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_29 15:56:57",
+        "Last_updated": "2021_08_30 09:12:30",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_29 15:57:51",
+        "Last_updated": "2021_08_30 09:14:00",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -6045,9 +6045,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_29 09:02:58",
+        "Last_updated": "2021_08_30 08:58:01",
         "Contact_Number": "7825830723",
-        "Remarks": "29/08/2021"
+        "Remarks": "30/08/2021"
     },
     {
         "S": {
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_27 09:43:36",
+        "Last_updated": "2021_08_30 09:00:26",
         "Contact_Number": "7092820884",
-        "Remarks": "27/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "30/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -7931,23 +7931,23 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "57",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "1",
-        "ICU_BEDS_Vacant": "4",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_29 08:44:09",
+        "Last_updated": "2021_08_30 08:42:58",
         "Contact_Number": "7397591935",
-        "Remarks": "29_8_2021@4pm,"
+        "Remarks": "30_8_2021@9Am,"
     },
     {
         "S": {
