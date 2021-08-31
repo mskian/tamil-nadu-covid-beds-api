@@ -5006,21 +5006,21 @@
         "District": "Tirunelveli",
         "Institution": "Ponra Multispeciality Hospital",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_08_23 11:08:37",
+        "Last_updated": "2021_08_31 10:28:44",
         "Contact_Number": "8300508737",
         "Remarks": "__"
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_08_30 09:00:26",
+        "Last_updated": "2021_08_31 09:42:55",
         "Contact_Number": "7092820884",
-        "Remarks": "30/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "31/08/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
