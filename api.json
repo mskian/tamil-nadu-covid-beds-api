@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_09_03 09:03:17",
+        "Last_updated": "2021_09_03 17:33:46",
         "Contact_Number": "7824821042",
-        "Remarks": "039_2021"
+        "Remarks": "039_2021_"
     },
     {
         "S": {
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_03 10:10:53",
+        "Last_updated": "2021_09_03 17:27:37",
         "Contact_Number": "8608044773",
-        "Remarks": "Nil"
+        "Remarks": "Nil_"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_03 09:01:31",
+        "Last_updated": "2021_09_03 17:07:59",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 03/09/2021 9:00 AM"
+        "Remarks": "UPDATED TILL 04/09/2021 4:00 PM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_03 13:25:17",
+        "Last_updated": "2021_09_03 16:42:11",
         "Contact_Number": "7397591935",
-        "Remarks": "3_9_2021@1:00pm"
+        "Remarks": "3_9_2021@4:00pm"
     },
     {
         "S": {
@@ -10081,21 +10081,21 @@
         "District": "Kanyakumari",
         "Institution": "Dr_ Kumaraswami Health Centre, Perumalpuram",
         "COVID_BEDS_Total": "50",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "47",
+        "COVID_BEDS_Occupied": "5",
+        "COVID_BEDS_Vacant": "45",
         "OXYGEN_SUPPORTED_BEDS_Total": "8",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "37",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_01 13:49:20",
+        "Last_updated": "2021_09_03 17:34:50",
         "Contact_Number": "7397617648",
         "Remarks": ""
     },
