@@ -181,11 +181,11 @@
         "District": "Chengalpattu",
         "Institution": "Deepam Hospitals, West Tambaram",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "18",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "17",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "3",
@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_02 18:48:50",
+        "Last_updated": "2021_09_03 10:06:36",
         "Contact_Number": "8300017171",
-        "Remarks": "02/09/2021 @ 7 pm"
+        "Remarks": "03/09/2021 @ 10 am"
     },
     {
         "S": {
@@ -6281,11 +6281,11 @@
         "District": "Salem",
         "Institution": "Universal Cancer Hospital, Kondalampatty",
         "COVID_BEDS_Total": "55",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "54",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "20",
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_02 09:56:20",
+        "Last_updated": "2021_09_03 10:10:53",
         "Contact_Number": "8608044773",
-        "Remarks": "One patient"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_02 16:25:26",
+        "Last_updated": "2021_09_03 10:06:24",
         "Contact_Number": "9384676001",
-        "Remarks": "02/09/2021 at 4:00 pm"
+        "Remarks": "03/09/2021 at 10:00 am"
     },
     {
         "S": {
