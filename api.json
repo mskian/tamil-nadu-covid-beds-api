@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_04 10:22:40",
+        "Last_updated": "2021_09_05 10:07:19",
         "Contact_Number": "8300017171",
-        "Remarks": "04/09/2021 @ 10 am"
+        "Remarks": "05/09/2021 @ 10 am"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_04 09:44:41",
+        "Last_updated": "2021_09_05 10:08:24",
         "Contact_Number": "9442667069",
-        "Remarks": "049_2021"
+        "Remarks": "059_2021"
     },
     {
         "S": {
@@ -6031,23 +6031,23 @@
         "District": "Chengalpattu",
         "Institution": "Parvathy Hospital Chrompet,",
         "COVID_BEDS_Total": "45",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "43",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "44",
         "OXYGEN_SUPPORTED_BEDS_Total": "2",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "36",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "36",
         "ICU_BEDS_Total": "7",
         "ICU_BEDS_Occupied": "1",
         "ICU_BEDS_Vacant": "6",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_04 09:38:02",
+        "Last_updated": "2021_09_05 10:33:35",
         "Contact_Number": "7825830723",
-        "Remarks": "4/09/2021"
+        "Remarks": "5/09/2021"
     },
     {
         "S": {
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_04 09:18:06",
+        "Last_updated": "2021_09_05 10:36:05",
         "Contact_Number": "9841091403",
-        "Remarks": "049_2021"
+        "Remarks": "059_2021"
     },
     {
         "S": {
