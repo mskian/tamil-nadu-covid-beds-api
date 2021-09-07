@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_06 21:24:03",
+        "Last_updated": "2021_09_07 10:15:21",
         "Contact_Number": "8300017171",
-        "Remarks": "06/09/2021 @ 9 pm"
+        "Remarks": "07/09/2021 @ 9 am"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_06 09:26:47",
+        "Last_updated": "2021_09_07 10:01:28",
         "Contact_Number": "9442667069",
-        "Remarks": "069_2021"
+        "Remarks": "079_2021"
     },
     {
         "S": {
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_06 10:50:25",
+        "Last_updated": "2021_09_07 10:11:16",
         "Contact_Number": "8608044773",
-        "Remarks": "Nil Patient"
+        "Remarks": "Nil Patient _"
     },
     {
         "S": {
@@ -8755,24 +8755,24 @@
         },
         "District": "Chengalpattu",
         "Institution": "DAISY HOSPITAL,CHROMPET",
-        "COVID_BEDS_Total": "11",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "8",
-        "OXYGEN_SUPPORTED_BEDS_Total": "14",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "COVID_BEDS_Total": "14",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "0",
+        "OXYGEN_SUPPORTED_BEDS_Total": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
-        "ICU_BEDS_Total": "3",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Total": "2",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "2",
-        "VENTILATOR_Occupied": "0",
-        "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_08_28 17:55:35",
-        "Contact_Number": "",
-        "Remarks": "12/04/2021"
+        "VENTILATOR_Occupied": "2",
+        "VENTILATOR_Vacant": "0",
+        "Last_updated": "2021_09_07 10:05:00",
+        "Contact_Number": "9940632392",
+        "Remarks": "07/09/2021"
     },
     {
         "S": {
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_06 08:34:24",
+        "Last_updated": "2021_09_07 10:34:34",
         "Contact_Number": "9841091403",
-        "Remarks": "069_2021"
+        "Remarks": "079_2021"
     },
     {
         "S": {
