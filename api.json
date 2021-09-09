@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_08 09:55:36",
+        "Last_updated": "2021_09_09 09:48:29",
         "Contact_Number": "9442667069",
-        "Remarks": "089_2021"
+        "Remarks": "099_2021"
     },
     {
         "S": {
@@ -5006,21 +5006,21 @@
         "District": "Tirunelveli",
         "Institution": "Ponra Multispeciality Hospital",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_06 09:41:07",
+        "Last_updated": "2021_09_09 10:03:30",
         "Contact_Number": "8300508737",
         "Remarks": "__"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_08 16:36:09",
+        "Last_updated": "2021_09_09 09:44:50",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 08/09/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 09/09/2021 9:00 AM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_08 16:05:44",
+        "Last_updated": "2021_09_09 10:15:19",
         "Contact_Number": "7397591935",
-        "Remarks": "8_9_2021@4pm"
+        "Remarks": "9_9_2021:10;00am"
     },
     {
         "S": {
