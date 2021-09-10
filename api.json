@@ -195,9 +195,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_10 13:05:10",
+        "Last_updated": "2021_09_10 15:38:40",
         "Contact_Number": "8300017171",
-        "Remarks": "10/09/2021 @ 1 pm"
+        "Remarks": "10/09/2021 @ 4 pm"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_10 13:04:41",
+        "Last_updated": "2021_09_10 16:23:34",
         "Contact_Number": "9095505550",
         "Remarks": "nil_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_10 13:05:13",
+        "Last_updated": "2021_09_10 16:24:05",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_10 11:31:32",
+        "Last_updated": "2021_09_10 15:54:17",
         "Contact_Number": "8608044773",
-        "Remarks": "Nil Patient"
+        "Remarks": "Nil Patient_"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_10 11:07:25",
+        "Last_updated": "2021_09_10 16:02:54",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 10/09/2021 9:00 AM"
+        "Remarks": "UPDATED TILL 10/09/2021 4:00 PM"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_10 12:59:16",
+        "Last_updated": "2021_09_10 16:22:07",
         "Contact_Number": "7397591935",
-        "Remarks": "10_9_2021:1:00pm"
+        "Remarks": "10_9_2021:4:00pm"
     },
     {
         "S": {
