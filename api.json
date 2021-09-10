@@ -180,24 +180,24 @@
         },
         "District": "Chengalpattu",
         "Institution": "Deepam Hospitals, West Tambaram",
-        "COVID_BEDS_Total": "20",
+        "COVID_BEDS_Total": "10",
         "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "19",
-        "OXYGEN_SUPPORTED_BEDS_Total": "10",
+        "COVID_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Total": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Total": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "4",
-        "ICU_BEDS_Total": "5",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "2",
+        "ICU_BEDS_Total": "3",
         "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "5",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_10 09:02:46",
+        "Last_updated": "2021_09_10 13:05:10",
         "Contact_Number": "8300017171",
-        "Remarks": "10/09/2021 @ 9 am"
+        "Remarks": "10/09/2021 @ 1 pm"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_10 09:12:58",
+        "Last_updated": "2021_09_10 13:04:41",
         "Contact_Number": "9095505550",
         "Remarks": "nil_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_10 09:15:34",
+        "Last_updated": "2021_09_10 13:05:13",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_10 09:06:16",
+        "Last_updated": "2021_09_10 12:59:16",
         "Contact_Number": "7397591935",
-        "Remarks": "10_9_2021:9Am"
+        "Remarks": "10_9_2021:1:00pm"
     },
     {
         "S": {
