@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_14 09:08:45",
+        "Last_updated": "2021_09_14 13:03:51",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_14 09:12:13",
+        "Last_updated": "2021_09_14 13:04:13",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6031,23 +6031,23 @@
         "District": "Chengalpattu",
         "Institution": "Parvathy Hospital Chrompet,",
         "COVID_BEDS_Total": "45",
-        "COVID_BEDS_Occupied": "4",
-        "COVID_BEDS_Vacant": "41",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "42",
         "OXYGEN_SUPPORTED_BEDS_Total": "2",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "36",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "34",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "35",
         "ICU_BEDS_Total": "7",
         "ICU_BEDS_Occupied": "1",
         "ICU_BEDS_Vacant": "6",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_13 14:27:40",
+        "Last_updated": "2021_09_14 13:34:34",
         "Contact_Number": "7825830723",
-        "Remarks": "13/09/2021"
+        "Remarks": "14/09/2021"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_14 08:35:41",
+        "Last_updated": "2021_09_14 13:04:35",
         "Contact_Number": "7397591935",
-        "Remarks": "14_9_2021@9am"
+        "Remarks": "14_9_2021@1pm"
     },
     {
         "S": {
