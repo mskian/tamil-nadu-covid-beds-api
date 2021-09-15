@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "30",
-        "COVID_BEDS_Vacant": "86",
+        "COVID_BEDS_Occupied": "35",
+        "COVID_BEDS_Vacant": "81",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "21",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "80",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "24",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "77",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "9",
-        "ICU_BEDS_Vacant": "6",
+        "ICU_BEDS_Occupied": "11",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_14 08:12:56",
+        "Last_updated": "2021_09_15 10:11:23",
         "Contact_Number": "7824821042",
-        "Remarks": "149_2021_"
+        "Remarks": "159_2021_"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_14 17:53:55",
+        "Last_updated": "2021_09_15 09:52:14",
         "Contact_Number": "9442667069",
-        "Remarks": "149_21"
+        "Remarks": "159_2021"
     },
     {
         "S": {
@@ -6045,9 +6045,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_14 13:34:34",
+        "Last_updated": "2021_09_15 10:19:49",
         "Contact_Number": "7825830723",
-        "Remarks": "14/09/2021"
+        "Remarks": "15/09/2021"
     },
     {
         "S": {
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_14 10:09:00",
+        "Last_updated": "2021_09_15 10:01:10",
         "Contact_Number": "8608044773",
-        "Remarks": "Nil Patient_"
+        "Remarks": "Nil Patient"
     },
     {
         "S": {
@@ -6320,9 +6320,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_11 09:06:02",
+        "Last_updated": "2021_09_15 09:42:53",
         "Contact_Number": "7824950986",
-        "Remarks": "11_09_2021"
+        "Remarks": "15_09_2021"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_14 15:44:42",
+        "Last_updated": "2021_09_15 09:41:18",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -8895,9 +8895,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_14 15:33:07",
+        "Last_updated": "2021_09_15 10:00:54",
         "Contact_Number": "9841091403",
-        "Remarks": "149_2021"
+        "Remarks": "159_2021"
     },
     {
         "S": {
