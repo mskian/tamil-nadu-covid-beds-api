@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_16 16:00:58",
+        "Last_updated": "2021_09_17 09:10:21",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "6",
-        "COVID_BEDS_Vacant": "27",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "26",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "23",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_16 16:01:29",
+        "Last_updated": "2021_09_17 09:13:17",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "92",
-        "COVID_BEDS_Occupied": "73",
-        "COVID_BEDS_Vacant": "19",
+        "COVID_BEDS_Occupied": "54",
+        "COVID_BEDS_Vacant": "38",
         "OXYGEN_SUPPORTED_BEDS_Total": "44",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "32",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "19",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "25",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "48",
-        "ICU_BEDS_Occupied": "41",
-        "ICU_BEDS_Vacant": "7",
+        "ICU_BEDS_Occupied": "35",
+        "ICU_BEDS_Vacant": "13",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_16 08:43:26",
+        "Last_updated": "2021_09_17 08:56:47",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_16 16:20:41",
+        "Last_updated": "2021_09_17 09:13:27",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 16/09/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 17/09/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_16 15:42:24",
+        "Last_updated": "2021_09_17 09:31:47",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_16 17:20:48",
+        "Last_updated": "2021_09_17 09:14:18",
         "Contact_Number": "7397591935",
-        "Remarks": "16_9_2021@5:00pm"
+        "Remarks": "17_9_2021@9:00AM"
     },
     {
         "S": {
@@ -8756,11 +8756,11 @@
         "District": "Chengalpattu",
         "Institution": "DAISY HOSPITAL,CHROMPET",
         "COVID_BEDS_Total": "14",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "13",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_12 08:26:53",
+        "Last_updated": "2021_09_17 09:35:59",
         "Contact_Number": "9940632392",
-        "Remarks": "12/09/201"
+        "Remarks": "17/09/2021"
     },
     {
         "S": {
