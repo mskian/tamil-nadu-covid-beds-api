@@ -581,23 +581,23 @@
         "District": "Chennai",
         "Institution": "Dr_Kamakshi Memorial Hospital",
         "COVID_BEDS_Total": "25",
-        "COVID_BEDS_Occupied": "11",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "14",
+        "COVID_BEDS_Vacant": "11",
         "OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "5",
+        "ICU_BEDS_Occupied": "4",
+        "ICU_BEDS_Vacant": "1",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_15 16:17:20",
+        "Last_updated": "2021_09_18 10:25:47",
         "Contact_Number": "7299693649",
-        "Remarks": "15/09/2021"
+        "Remarks": "18/09/2021"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_17 09:52:04",
+        "Last_updated": "2021_09_18 10:05:23",
         "Contact_Number": "9442667069",
-        "Remarks": "179_2021"
+        "Remarks": "189_2021"
     },
     {
         "S": {
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_17 18:11:08",
+        "Last_updated": "2021_09_18 10:10:06",
         "Contact_Number": "8608044773",
-        "Remarks": "Nil Patient"
+        "Remarks": "Nil Patient_"
     },
     {
         "S": {
