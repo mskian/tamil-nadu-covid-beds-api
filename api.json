@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_18 16:18:41",
+        "Last_updated": "2021_09_19 09:15:19",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_18 16:20:20",
+        "Last_updated": "2021_09_19 09:17:06",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_18 16:11:25",
+        "Last_updated": "2021_09_19 09:07:32",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 18/09/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 19/09/2021 9:00 AM"
     },
     {
         "S": {
@@ -7931,23 +7931,23 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "9",
-        "COVID_BEDS_Vacant": "51",
+        "COVID_BEDS_Occupied": "6",
+        "COVID_BEDS_Vacant": "54",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
         "ICU_BEDS_Total": "5",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "2",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_18 16:28:12",
+        "Last_updated": "2021_09_19 08:52:02",
         "Contact_Number": "7397591935",
-        "Remarks": "18_9_2021@4:00pm"
+        "Remarks": "19_9_2021@9Am"
     },
     {
         "S": {
