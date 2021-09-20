@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "40",
-        "COVID_BEDS_Vacant": "76",
+        "COVID_BEDS_Occupied": "43",
+        "COVID_BEDS_Vacant": "73",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "29",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "72",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "32",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "69",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "6",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_19 07:56:19",
+        "Last_updated": "2021_09_20 07:22:13",
         "Contact_Number": "7824821042",
-        "Remarks": "199_2021_"
+        "Remarks": "209_2021_"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "80",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "81",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "5",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "45",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_09_19 08:27:01",
+        "Last_updated": "2021_09_20 07:51:01",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 2 Suspected: 3 Updated"
+        "Remarks": "Covid Positive : 1 Suspected: 3 Updated"
     },
     {
         "S": {
