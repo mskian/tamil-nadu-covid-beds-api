@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_09_20 10:04:08",
+        "Last_updated": "2021_09_21 09:55:11",
         "Contact_Number": "9442667069",
-        "Remarks": "209_2021"
+        "Remarks": "219_2021"
     },
     {
         "S": {
@@ -5006,21 +5006,21 @@
         "District": "Tirunelveli",
         "Institution": "Ponra Multispeciality Hospital",
         "COVID_BEDS_Total": "15",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "15",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "13",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "5",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "10",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_18 09:32:52",
+        "Last_updated": "2021_09_21 09:50:27",
         "Contact_Number": "8300508737",
         "Remarks": "__"
     },
@@ -6031,8 +6031,8 @@
         "District": "Chengalpattu",
         "Institution": "Parvathy Hospital Chrompet,",
         "COVID_BEDS_Total": "12",
-        "COVID_BEDS_Occupied": "5",
-        "COVID_BEDS_Vacant": "7",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "8",
         "OXYGEN_SUPPORTED_BEDS_Total": "5",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
@@ -6040,14 +6040,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "1",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "2",
-        "ICU_BEDS_Vacant": "2",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "3",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_20 11:17:44",
+        "Last_updated": "2021_09_21 10:10:24",
         "Contact_Number": "7825830723",
-        "Remarks": "20/09/2021"
+        "Remarks": "21/09/2021"
     },
     {
         "S": {
@@ -7131,21 +7131,21 @@
         "District": "Salem",
         "Institution": "Karthik Medical Centre, Idappadi",
         "COVID_BEDS_Total": "35",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "32",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "22",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "11",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "8",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "7",
         "ICU_BEDS_Total": "2",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_20 16:02:50",
+        "Last_updated": "2021_09_21 09:52:28",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_09_18 11:55:36",
+        "Last_updated": "2021_09_21 10:29:00",
         "Contact_Number": "7092820884",
-        "Remarks": "18/09/2021 Covid care helpline _ 8778501016/9894686088 ___"
+        "Remarks": "21/09/2021 Covid care helpline _ 8778501016/9894686088 ___"
     },
     {
         "S": {
@@ -10820,9 +10820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_19 05:35:00",
+        "Last_updated": "2021_09_21 09:41:39",
         "Contact_Number": "9384676001",
-        "Remarks": "19/09/2021"
+        "Remarks": "21/09/2021"
     },
     {
         "S": {
