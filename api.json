@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "46",
-        "COVID_BEDS_Vacant": "70",
+        "COVID_BEDS_Occupied": "50",
+        "COVID_BEDS_Vacant": "66",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "36",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "65",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "40",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "61",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "7",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_26 17:12:26",
+        "Last_updated": "2021_09_27 08:42:49",
         "Contact_Number": "7824821042",
-        "Remarks": "269_2021_"
+        "Remarks": "279_2021_"
     },
     {
         "S": {
@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_26 16:16:57",
+        "Last_updated": "2021_09_27 09:17:23",
         "Contact_Number": "9095505550",
-        "Remarks": "nil"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_26 16:18:13",
+        "Last_updated": "2021_09_27 09:19:12",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_26 16:16:21",
+        "Last_updated": "2021_09_27 09:05:43",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 26/09/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 27/09/2021 9:00 AM"
     },
     {
         "S": {
