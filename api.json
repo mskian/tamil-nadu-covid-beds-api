@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_28 09:15:40",
+        "Last_updated": "2021_09_29 09:16:39",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "nil"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_09_28 15:58:29",
+        "Last_updated": "2021_09_29 09:17:27",
         "Contact_Number": "9095505550",
         "Remarks": "nil"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_28 16:33:05",
+        "Last_updated": "2021_09_29 09:36:50",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 28/09/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 29/09/2021 9:00 AM"
     },
     {
         "S": {
@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "59",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "58",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_09_28 16:21:52",
+        "Last_updated": "2021_09_29 08:42:37",
         "Contact_Number": "7397591935",
-        "Remarks": "28_9_2021@4:00pm"
+        "Remarks": "29_9_2021@9Am"
     },
     {
         "S": {
