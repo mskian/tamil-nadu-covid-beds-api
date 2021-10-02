@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_02 09:01:21",
+        "Last_updated": "2021_10_02 16:07:49",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "NIL_"
     },
     {
         "S": {
@@ -5370,9 +5370,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_10_02 09:05:37",
+        "Last_updated": "2021_10_02 16:09:14",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL"
+        "Remarks": "NIL_"
     },
     {
         "S": {
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_02 12:59:19",
+        "Last_updated": "2021_10_02 16:22:31",
         "Contact_Number": "7397591935",
-        "Remarks": "2_10_2021@1pm"
+        "Remarks": "2_10_2021@4pm"
     },
     {
         "S": {
@@ -12331,21 +12331,21 @@
         "District": "TheNilgiris",
         "Institution": "Shiva Shakthi Hospital,Udagamandalam",
         "COVID_BEDS_Total": "20",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "20",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "19",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "16",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "15",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_02 15:35:55",
+        "Last_updated": "2021_10_02 15:39:43",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
