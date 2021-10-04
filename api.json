@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_03 16:04:40",
+        "Last_updated": "2021_10_04 09:14:07",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_10_03 16:05:21",
+        "Last_updated": "2021_10_04 09:14:47",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "44",
-        "COVID_BEDS_Vacant": "42",
+        "COVID_BEDS_Occupied": "43",
+        "COVID_BEDS_Vacant": "43",
         "OXYGEN_SUPPORTED_BEDS_Total": "38",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "12",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "26",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "14",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "24",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "48",
-        "ICU_BEDS_Occupied": "32",
-        "ICU_BEDS_Vacant": "16",
+        "ICU_BEDS_Occupied": "29",
+        "ICU_BEDS_Vacant": "19",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_03 09:51:23",
+        "Last_updated": "2021_10_04 09:21:18",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6281,23 +6281,23 @@
         "District": "Salem",
         "Institution": "Universal Cancer Hospital, Kondalampatty",
         "COVID_BEDS_Total": "55",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "53",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "18",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "ICU_BEDS_Total": "5",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "5",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_02 16:59:44",
+        "Last_updated": "2021_10_04 09:28:59",
         "Contact_Number": "8608044773",
-        "Remarks": "Two Patient _"
+        "Remarks": "Nil"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_03 17:38:06",
+        "Last_updated": "2021_10_04 09:26:10",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 3/10/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 4/10/2021 9:00 AM"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_10_03 10:39:29",
+        "Last_updated": "2021_10_04 09:17:20",
         "Contact_Number": "9940632392",
-        "Remarks": "03/10/2021"
+        "Remarks": "04/10/2021"
     },
     {
         "S": {
