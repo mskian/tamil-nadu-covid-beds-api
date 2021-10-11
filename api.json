@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "57",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "56",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "6",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_10 12:59:43",
+        "Last_updated": "2021_10_11 08:13:56",
         "Contact_Number": "7397591935",
-        "Remarks": "10_10_2021@1pm"
+        "Remarks": "11_10_2021@9am"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "82",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "81",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_10_10 08:04:48",
+        "Last_updated": "2021_10_11 08:16:34",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 2 Suspected: 1 Updated"
+        "Remarks": "Covid Positive : 3 Suspected: 1 Updated"
     },
     {
         "S": {
