@@ -234,20 +234,20 @@
         "COVID_BEDS_Occupied": "21",
         "COVID_BEDS_Vacant": "95",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "92",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "91",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "12",
-        "ICU_BEDS_Vacant": "3",
+        "ICU_BEDS_Occupied": "11",
+        "ICU_BEDS_Vacant": "4",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "5",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_10_19 16:10:20",
+        "Last_updated": "2021_10_20 07:18:54",
         "Contact_Number": "7824821042",
-        "Remarks": "19_10_2021"
+        "Remarks": "20_10_2021"
     },
     {
         "S": {
