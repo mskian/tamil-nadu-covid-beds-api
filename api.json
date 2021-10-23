@@ -6281,11 +6281,11 @@
         "District": "Salem",
         "Institution": "Universal Cancer Hospital, Kondalampatty",
         "COVID_BEDS_Total": "55",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "54",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "55",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "20",
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_23 09:48:26",
+        "Last_updated": "2021_10_23 14:05:23",
         "Contact_Number": "8608044773",
-        "Remarks": "One patient _"
+        "Remarks": "Nil"
     },
     {
         "S": {
