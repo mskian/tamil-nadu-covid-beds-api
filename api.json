@@ -8756,11 +8756,11 @@
         "District": "Chengalpattu",
         "Institution": "DAISY HOSPITAL,CHROMPET",
         "COVID_BEDS_Total": "14",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "13",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_10_23 09:26:44",
+        "Last_updated": "2021_10_24 10:47:09",
         "Contact_Number": "9940632392",
-        "Remarks": "23/10/2021"
+        "Remarks": "24/10/2021"
     },
     {
         "S": {
