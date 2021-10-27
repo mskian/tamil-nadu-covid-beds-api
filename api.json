@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "20",
-        "COVID_BEDS_Vacant": "96",
+        "COVID_BEDS_Occupied": "19",
+        "COVID_BEDS_Vacant": "97",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "85",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "86",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_10_26 16:12:56",
+        "Last_updated": "2021_10_27 08:07:21",
         "Contact_Number": "7824821042",
-        "Remarks": "26_10_2021"
+        "Remarks": "27_10_2021"
     },
     {
         "S": {
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "55",
-        "COVID_BEDS_Vacant": "31",
+        "COVID_BEDS_Occupied": "51",
+        "COVID_BEDS_Vacant": "35",
         "OXYGEN_SUPPORTED_BEDS_Total": "38",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "18",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "48",
-        "ICU_BEDS_Occupied": "37",
-        "ICU_BEDS_Vacant": "11",
+        "ICU_BEDS_Occupied": "35",
+        "ICU_BEDS_Vacant": "13",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_26 08:10:11",
+        "Last_updated": "2021_10_27 08:33:36",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_10_26 07:04:59",
+        "Last_updated": "2021_10_27 07:52:23",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 1 Suspected: 2 Updated On: 26_10_2021"
+        "Remarks": "Covid Positive : 1 Suspected: 2 Updated On: 27_10_2021"
     },
     {
         "S": {
