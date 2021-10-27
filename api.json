@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_26 16:13:59",
+        "Last_updated": "2021_10_27 09:18:38",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "33",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "29",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "27",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_10_26 16:15:14",
+        "Last_updated": "2021_10_27 09:27:52",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_26 16:13:36",
+        "Last_updated": "2021_10_27 09:12:04",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 26/10/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 27/10/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_26 16:14:13",
+        "Last_updated": "2021_10_27 09:17:58",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_26 15:53:37",
+        "Last_updated": "2021_10_27 08:45:56",
         "Contact_Number": "7397591935",
-        "Remarks": "26_10_2021@4pm"
+        "Remarks": "27_10_2021@9Am"
     },
     {
         "S": {
