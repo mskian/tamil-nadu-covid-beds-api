@@ -234,20 +234,20 @@
         "COVID_BEDS_Occupied": "19",
         "COVID_BEDS_Vacant": "97",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "86",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "88",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "11",
+        "ICU_BEDS_Occupied": "6",
+        "ICU_BEDS_Vacant": "9",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "3",
-        "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_10_27 08:07:21",
+        "VENTILATOR_Occupied": "4",
+        "VENTILATOR_Vacant": "3",
+        "Last_updated": "2021_10_28 08:21:17",
         "Contact_Number": "7824821042",
-        "Remarks": "27_10_2021"
+        "Remarks": "28_10_2021"
     },
     {
         "S": {
@@ -5470,7 +5470,7 @@
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_27 08:33:36",
+        "Last_updated": "2021_10_28 08:16:37",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "52",
+        "COVID_BEDS_Occupied": "7",
+        "COVID_BEDS_Vacant": "53",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "6",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_10_27 16:32:18",
+        "Last_updated": "2021_10_28 08:20:56",
         "Contact_Number": "7397591935",
-        "Remarks": "27_10_2021@4pm"
+        "Remarks": "28_10_2021@9am"
     },
     {
         "S": {
