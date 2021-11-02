@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "3",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_11_01 07:16:16",
+        "Last_updated": "2021_11_02 07:49:39",
         "Contact_Number": "7824821042",
-        "Remarks": "01_11_2021"
+        "Remarks": "02_11_2021"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "82",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "83",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_11_01 07:57:52",
+        "Last_updated": "2021_11_02 06:44:21",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 0 Suspected: 3 Updated On: 01_11_2021"
+        "Remarks": "Covid Positive : 0 Suspected: 2 Updated On: 02_11_2021"
     },
     {
         "S": {
