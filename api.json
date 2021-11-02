@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_01 09:20:40",
+        "Last_updated": "2021_11_02 09:14:26",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "56",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "62",
+        "COVID_BEDS_Vacant": "24",
         "OXYGEN_SUPPORTED_BEDS_Total": "38",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "23",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "15",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "28",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "48",
-        "ICU_BEDS_Occupied": "33",
-        "ICU_BEDS_Vacant": "15",
+        "ICU_BEDS_Occupied": "34",
+        "ICU_BEDS_Vacant": "14",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_01 08:45:12",
+        "Last_updated": "2021_11_02 09:08:50",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6295,9 +6295,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_01 14:18:41",
+        "Last_updated": "2021_11_02 09:34:51",
         "Contact_Number": "8608044773",
-        "Remarks": "Nil patient _"
+        "Remarks": "Nil patient"
     },
     {
         "S": {
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_01 16:22:12",
+        "Last_updated": "2021_11_02 09:07:46",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 01/11/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 02/11/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_01 15:51:20",
+        "Last_updated": "2021_11_02 09:24:48",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
