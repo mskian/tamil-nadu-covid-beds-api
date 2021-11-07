@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_06 16:15:03",
+        "Last_updated": "2021_11_07 09:40:12",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 06/11/2021 4:00 PM"
+        "Remarks": "UPDATED TILL 07/11/2021 9:00 AM"
     },
     {
         "S": {
@@ -7145,7 +7145,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_06 18:08:40",
+        "Last_updated": "2021_11_07 09:57:28",
         "Contact_Number": "9600380076",
         "Remarks": ""
     },
@@ -8756,11 +8756,11 @@
         "District": "Chengalpattu",
         "Institution": "DAISY HOSPITAL,CHROMPET",
         "COVID_BEDS_Total": "14",
-        "COVID_BEDS_Occupied": "0",
-        "COVID_BEDS_Vacant": "14",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "12",
         "OXYGEN_SUPPORTED_BEDS_Total": "12",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "12",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "10",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_06 10:00:13",
+        "Last_updated": "2021_11_07 10:32:59",
         "Contact_Number": "9940632392",
-        "Remarks": "06/11/2021"
+        "Remarks": "07/11/2021"
     },
     {
         "S": {
