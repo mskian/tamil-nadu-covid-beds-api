@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "18",
-        "COVID_BEDS_Vacant": "98",
+        "COVID_BEDS_Occupied": "17",
+        "COVID_BEDS_Vacant": "99",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "84",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "85",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_11_09 07:40:55",
+        "Last_updated": "2021_11_10 09:50:06",
         "Contact_Number": "7824821042",
-        "Remarks": "09_11_2021"
+        "Remarks": "10_11_2021"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2021_11_09 10:17:42",
+        "Last_updated": "2021_11_10 10:05:00",
         "Contact_Number": "9442667069",
-        "Remarks": "09_11_2021"
+        "Remarks": "10_11_2021"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_09 08:55:57",
+        "Last_updated": "2021_11_10 09:44:43",
         "Contact_Number": "9940632392",
-        "Remarks": "09/11/2021"
+        "Remarks": "10/11/2021"
     },
     {
         "S": {
@@ -12334,18 +12334,18 @@
         "COVID_BEDS_Occupied": "3",
         "COVID_BEDS_Vacant": "17",
         "OXYGEN_SUPPORTED_BEDS_Total": "4",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "16",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "13",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_09 16:06:51",
+        "Last_updated": "2021_11_10 09:53:49",
         "Contact_Number": "9486253427",
         "Remarks": ""
     },
