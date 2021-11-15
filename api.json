@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "12",
-        "COVID_BEDS_Vacant": "104",
+        "COVID_BEDS_Occupied": "13",
+        "COVID_BEDS_Vacant": "103",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "92",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "91",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -243,11 +243,11 @@
         "ICU_BEDS_Occupied": "3",
         "ICU_BEDS_Vacant": "12",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "2",
-        "VENTILATOR_Vacant": "5",
-        "Last_updated": "2021_11_14 08:27:49",
+        "VENTILATOR_Occupied": "1",
+        "VENTILATOR_Vacant": "6",
+        "Last_updated": "2021_11_15 09:14:16",
         "Contact_Number": "7824821042",
-        "Remarks": "14_11_2021"
+        "Remarks": "15_11_2021"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_14 16:13:58",
+        "Last_updated": "2021_11_15 09:20:31",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_11_14 16:14:35",
+        "Last_updated": "2021_11_15 09:21:22",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "39",
-        "COVID_BEDS_Vacant": "47",
+        "COVID_BEDS_Occupied": "41",
+        "COVID_BEDS_Vacant": "45",
         "OXYGEN_SUPPORTED_BEDS_Total": "38",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "7",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "31",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "30",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "48",
-        "ICU_BEDS_Occupied": "32",
-        "ICU_BEDS_Vacant": "16",
+        "ICU_BEDS_Occupied": "33",
+        "ICU_BEDS_Vacant": "15",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_14 08:18:35",
+        "Last_updated": "2021_11_15 08:47:14",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_14 16:07:32",
+        "Last_updated": "2021_11_15 09:16:36",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 14/11/2021 4:00 AM"
+        "Remarks": "UPDATED TILL 15/11/2021 9:00 AM"
     },
     {
         "S": {
@@ -7931,11 +7931,11 @@
         "District": "Sivagangai",
         "Institution": "Apollo",
         "COVID_BEDS_Total": "60",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "57",
+        "COVID_BEDS_Occupied": "1",
+        "COVID_BEDS_Vacant": "59",
         "OXYGEN_SUPPORTED_BEDS_Total": "10",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "9",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "45",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "45",
@@ -7945,9 +7945,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "1",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_14 08:34:21",
+        "Last_updated": "2021_11_15 08:39:41",
         "Contact_Number": "7397591935",
-        "Remarks": "14_11_2021@9Am"
+        "Remarks": "15_11_2021@9:00AM"
     },
     {
         "S": {
