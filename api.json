@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_24 16:02:04",
+        "Last_updated": "2021_11_25 09:19:37",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -5456,21 +5456,21 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "45",
-        "COVID_BEDS_Vacant": "41",
+        "COVID_BEDS_Occupied": "51",
+        "COVID_BEDS_Vacant": "35",
         "OXYGEN_SUPPORTED_BEDS_Total": "38",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "24",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "48",
-        "ICU_BEDS_Occupied": "29",
-        "ICU_BEDS_Vacant": "19",
+        "ICU_BEDS_Occupied": "27",
+        "ICU_BEDS_Vacant": "21",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_24 08:27:21",
+        "Last_updated": "2021_11_25 08:39:19",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_24 16:09:35",
+        "Last_updated": "2021_11_25 09:13:04",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 24/11/2021 4:00PM"
+        "Remarks": "UPDATED TILL 25/11/2021 9:00AM"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_24 09:19:58",
+        "Last_updated": "2021_11_25 09:35:59",
         "Contact_Number": "9940632392",
-        "Remarks": "23/11/2021"
+        "Remarks": "24/11/2021"
     },
     {
         "S": {
