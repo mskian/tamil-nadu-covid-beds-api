@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "10",
-        "COVID_BEDS_Vacant": "106",
+        "COVID_BEDS_Occupied": "12",
+        "COVID_BEDS_Vacant": "104",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "10",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "91",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "11",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "90",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "0",
-        "ICU_BEDS_Vacant": "15",
+        "ICU_BEDS_Occupied": "1",
+        "ICU_BEDS_Vacant": "14",
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_11_28 09:05:20",
+        "Last_updated": "2021_11_29 09:32:14",
         "Contact_Number": "7824821042",
-        "Remarks": "28_11_2021"
+        "Remarks": "29_11_2021"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_28 16:04:47",
+        "Last_updated": "2021_11_29 09:27:58",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_11_28 16:05:46",
+        "Last_updated": "2021_11_29 09:29:20",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_11_28 16:27:39",
+        "Last_updated": "2021_11_29 09:29:18",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 28/11/2021 4:00PM"
+        "Remarks": "UPDATED TILL 29/11/2021 9:00AM"
     },
     {
         "S": {
