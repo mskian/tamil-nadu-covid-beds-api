@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "16",
-        "COVID_BEDS_Vacant": "100",
+        "COVID_BEDS_Occupied": "18",
+        "COVID_BEDS_Vacant": "98",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "15",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "86",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "17",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "84",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2021_11_30 09:51:34",
+        "Last_updated": "2021_12_01 07:25:13",
         "Contact_Number": "7824821042",
-        "Remarks": "30_11_2021"
+        "Remarks": "01_12_2021"
     },
     {
         "S": {
@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "85",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "82",
+        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Vacant": "81",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "46",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_11_30 07:52:26",
+        "Last_updated": "2021_12_01 07:44:09",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 3 Suspected: 0 Updated On: 30_11_2021"
+        "Remarks": "Covid Positive : 3 Suspected: 1 Updated On: 01_12_2021"
     },
     {
         "S": {
