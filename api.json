@@ -5456,8 +5456,8 @@
         "District": "Vellore",
         "Institution": "Christian Medical College",
         "COVID_BEDS_Total": "86",
-        "COVID_BEDS_Occupied": "47",
-        "COVID_BEDS_Vacant": "39",
+        "COVID_BEDS_Occupied": "53",
+        "COVID_BEDS_Vacant": "33",
         "OXYGEN_SUPPORTED_BEDS_Total": "38",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "19",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "19",
@@ -5465,12 +5465,12 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "48",
-        "ICU_BEDS_Occupied": "28",
-        "ICU_BEDS_Vacant": "20",
+        "ICU_BEDS_Occupied": "34",
+        "ICU_BEDS_Vacant": "14",
         "VENTILATOR_Total": "50",
         "VENTILATOR_Occupied": "50",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_12_03 08:17:09",
+        "Last_updated": "2021_12_04 08:20:41",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2021_12_03 08:21:58",
+        "Last_updated": "2021_12_04 08:18:19",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 2 Suspected: 0 Updated On: 03_12_2021"
+        "Remarks": "Covid Positive : 2 Suspected: 0 Updated On: 04_12_2021"
     },
     {
         "S": {
