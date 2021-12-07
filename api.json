@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_12_06 09:27:09",
+        "Last_updated": "2021_12_07 09:18:19",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "30",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "31",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "26",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "27",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2021_12_06 16:18:06",
+        "Last_updated": "2021_12_07 09:21:38",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "2",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_12_06 10:11:19",
+        "Last_updated": "2021_12_07 09:18:41",
         "Contact_Number": "9940632392",
-        "Remarks": "06/12/2021"
+        "Remarks": "07/12/2021"
     },
     {
         "S": {
