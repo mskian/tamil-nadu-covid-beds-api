@@ -5467,10 +5467,10 @@
         "ICU_BEDS_Total": "48",
         "ICU_BEDS_Occupied": "31",
         "ICU_BEDS_Vacant": "17",
-        "VENTILATOR_Total": "50",
-        "VENTILATOR_Occupied": "50",
+        "VENTILATOR_Total": "30",
+        "VENTILATOR_Occupied": "30",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_12_09 08:17:18",
+        "Last_updated": "2021_12_09 10:51:34",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -6820,9 +6820,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2021_12_08 16:15:28",
+        "Last_updated": "2021_12_09 11:22:41",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 08/12/2021 4:00PM"
+        "Remarks": "UPDATED TILL 09/12/2021 9:00AM"
     },
     {
         "S": {
