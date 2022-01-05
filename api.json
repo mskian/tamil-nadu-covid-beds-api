@@ -231,11 +231,11 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "37",
-        "COVID_BEDS_Vacant": "79",
+        "COVID_BEDS_Occupied": "38",
+        "COVID_BEDS_Vacant": "78",
         "OXYGEN_SUPPORTED_BEDS_Total": "101",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "35",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "66",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "36",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "65",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -245,9 +245,9 @@
         "VENTILATOR_Total": "7",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "7",
-        "Last_updated": "2022_01_03 09:39:19",
+        "Last_updated": "2022_01_05 10:26:29",
         "Contact_Number": "7824821042",
-        "Remarks": "031_2022"
+        "Remarks": "051_2022"
     },
     {
         "S": {
@@ -6806,23 +6806,23 @@
         "District": "Kancheepuram",
         "Institution": "TCS, Sirucherry",
         "COVID_BEDS_Total": "40",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "38",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "37",
         "OXYGEN_SUPPORTED_BEDS_Total": "0",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "38",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "37",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2022_01_04 13:15:39",
+        "Last_updated": "2022_01_05 10:08:30",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 04/01/2022 1:00PM"
+        "Remarks": "UPDATED TILL 05/01/2022 9:00AM"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2022_01_04 14:59:08",
+        "Last_updated": "2022_01_05 10:14:29",
         "Contact_Number": "9940632392",
-        "Remarks": "04/01/2022"
+        "Remarks": "05/01/2022"
     },
     {
         "S": {
@@ -14056,11 +14056,11 @@
         "District": "Kanyakumari",
         "Institution": "William Hospital,Nagercoil",
         "COVID_BEDS_Total": "10",
-        "COVID_BEDS_Occupied": "1",
-        "COVID_BEDS_Vacant": "9",
+        "COVID_BEDS_Occupied": "0",
+        "COVID_BEDS_Vacant": "10",
         "OXYGEN_SUPPORTED_BEDS_Total": "8",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "1",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "7",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "8",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -14070,7 +14070,7 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2022_01_04 10:01:05",
+        "Last_updated": "2022_01_05 10:31:35",
         "Contact_Number": "9597221977",
         "Remarks": "0"
     },
