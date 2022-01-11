@@ -5356,11 +5356,11 @@
         "District": "Thiruchirappalli",
         "Institution": "Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital)",
         "COVID_BEDS_Total": "33",
-        "COVID_BEDS_Occupied": "8",
-        "COVID_BEDS_Vacant": "25",
+        "COVID_BEDS_Occupied": "9",
+        "COVID_BEDS_Vacant": "24",
         "OXYGEN_SUPPORTED_BEDS_Total": "29",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "21",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "9",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "20",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2022_01_10 09:21:23",
+        "Last_updated": "2022_01_11 09:26:56",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
@@ -7870,9 +7870,9 @@
         "VENTILATOR_Total": "4",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "4",
-        "Last_updated": "2022_01_10 13:37:07",
+        "Last_updated": "2022_01_11 09:28:40",
         "Contact_Number": "7092820884",
-        "Remarks": "10/01/2022 Covid care helpline _ 8610080528/9894686088 ___"
+        "Remarks": "11/01/2022 Covid care helpline _ 8610080528/9894686088 ___"
     },
     {
         "S": {
@@ -8770,9 +8770,9 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2022_01_10 10:18:08",
+        "Last_updated": "2022_01_11 09:25:00",
         "Contact_Number": "9940632392",
-        "Remarks": "10/01/2022"
+        "Remarks": "11/01/2022"
     },
     {
         "S": {
