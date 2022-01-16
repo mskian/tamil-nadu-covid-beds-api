@@ -4956,8 +4956,8 @@
         "District": "Thoothukudi",
         "Institution": "Sri Hospital",
         "COVID_BEDS_Total": "4",
-        "COVID_BEDS_Occupied": "3",
-        "COVID_BEDS_Vacant": "1",
+        "COVID_BEDS_Occupied": "2",
+        "COVID_BEDS_Vacant": "2",
         "OXYGEN_SUPPORTED_BEDS_Total": "0",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
@@ -4965,14 +4965,14 @@
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "4",
-        "ICU_BEDS_Occupied": "3",
-        "ICU_BEDS_Vacant": "1",
+        "ICU_BEDS_Occupied": "2",
+        "ICU_BEDS_Vacant": "2",
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2022_01_16 13:28:31",
+        "Last_updated": "2022_01_16 17:22:59",
         "Contact_Number": "9442667069",
-        "Remarks": "161_2022 01_28"
+        "Remarks": "161_2022 05_28"
     },
     {
         "S": {
