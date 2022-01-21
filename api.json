@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2022_01_20 09:04:48",
+        "Last_updated": "2022_01_21 10:20:51",
         "Contact_Number": "9442667069",
-        "Remarks": "201_22"
+        "Remarks": "211_22"
     },
     {
         "S": {
@@ -6806,23 +6806,23 @@
         "District": "Kancheepuram",
         "Institution": "TCS, Sirucherry",
         "COVID_BEDS_Total": "40",
-        "COVID_BEDS_Occupied": "29",
-        "COVID_BEDS_Vacant": "11",
+        "COVID_BEDS_Occupied": "26",
+        "COVID_BEDS_Vacant": "14",
         "OXYGEN_SUPPORTED_BEDS_Total": "0",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "40",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "29",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "26",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "ICU_BEDS_Total": "0",
         "ICU_BEDS_Occupied": "0",
         "ICU_BEDS_Vacant": "0",
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2022_01_16 13:06:47",
+        "Last_updated": "2022_01_21 09:57:56",
         "Contact_Number": "8800000000",
-        "Remarks": "UPDATED TILL 16/01/2022 9:00AM"
+        "Remarks": "UPDATED TILL 21/01/2022 9:00AM"
     },
     {
         "S": {
