@@ -7956,11 +7956,11 @@
         "District": "Sivagangai",
         "Institution": "Senthil hospital",
         "COVID_BEDS_Total": "93",
-        "COVID_BEDS_Occupied": "2",
-        "COVID_BEDS_Vacant": "91",
+        "COVID_BEDS_Occupied": "3",
+        "COVID_BEDS_Vacant": "90",
         "OXYGEN_SUPPORTED_BEDS_Total": "50",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "2",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "48",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "3",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "47",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "23",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "23",
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2022_01_20 07:47:00",
+        "Last_updated": "2022_01_21 08:30:59",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 2 Suspected: 0 Updated On: 201_2022"
+        "Remarks": "Covid Positive : 2 Suspected: 1 Updated On: 211_2022"
     },
     {
         "S": {
