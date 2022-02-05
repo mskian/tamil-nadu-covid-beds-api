@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "45",
-        "COVID_BEDS_Vacant": "71",
+        "COVID_BEDS_Occupied": "39",
+        "COVID_BEDS_Vacant": "77",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "19",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "11",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "16",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "14",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "71",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "22",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "49",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "20",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "51",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "11",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "12",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "4",
-        "VENTILATOR_Vacant": "3",
-        "Last_updated": "2022_02_04 07:56:17",
+        "VENTILATOR_Occupied": "3",
+        "VENTILATOR_Vacant": "4",
+        "Last_updated": "2022_02_05 07:44:52",
         "Contact_Number": "7824821042",
-        "Remarks": "042_2022_"
+        "Remarks": "052_2022_"
     },
     {
         "S": {
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2022_02_04 08:44:19",
+        "Last_updated": "2022_02_05 08:20:06",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 6 Suspected: 6 Updated On: 042_2022"
+        "Remarks": "Covid Positive : 8 Suspected: 4 Updated On: 052_2022"
     },
     {
         "S": {
