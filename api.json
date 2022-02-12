@@ -231,23 +231,23 @@
         "District": "Chennai",
         "Institution": "Apollo Hospitals, Vanagaram",
         "COVID_BEDS_Total": "116",
-        "COVID_BEDS_Occupied": "26",
-        "COVID_BEDS_Vacant": "90",
+        "COVID_BEDS_Occupied": "20",
+        "COVID_BEDS_Vacant": "96",
         "OXYGEN_SUPPORTED_BEDS_Total": "30",
-        "OXYGEN_SUPPORTED_BEDS_Occupied": "8",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "22",
+        "OXYGEN_SUPPORTED_BEDS_Occupied": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "26",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "71",
-        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "14",
-        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "57",
+        "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "13",
+        "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "58",
         "ICU_BEDS_Total": "15",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "11",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "12",
         "VENTILATOR_Total": "7",
-        "VENTILATOR_Occupied": "4",
-        "VENTILATOR_Vacant": "3",
-        "Last_updated": "2022_02_11 10:40:06",
+        "VENTILATOR_Occupied": "3",
+        "VENTILATOR_Vacant": "4",
+        "Last_updated": "2022_02_12 07:53:09",
         "Contact_Number": "7824821042",
-        "Remarks": "112_2022_"
+        "Remarks": "122_2022_"
     },
     {
         "S": {
@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2022_02_09 10:16:19",
+        "Last_updated": "2022_02_12 06:45:15",
         "Contact_Number": "9442667069",
-        "Remarks": "092_22"
+        "Remarks": "122_22"
     },
     {
         "S": {
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2022_02_11 09:02:29",
+        "Last_updated": "2022_02_12 07:51:36",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 3 Suspected: 2 Updated On: 112_2022"
+        "Remarks": "Covid Positive : 3 Suspected: 2 Updated On: 122_2022"
     },
     {
         "S": {
