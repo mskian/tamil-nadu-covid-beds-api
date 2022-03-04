@@ -4970,9 +4970,9 @@
         "VENTILATOR_Total": "1",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "1",
-        "Last_updated": "2022_03_03 08:30:44",
+        "Last_updated": "2022_03_04 08:59:56",
         "Contact_Number": "9442667069",
-        "Remarks": "033_22"
+        "Remarks": "043_22"
     },
     {
         "S": {
@@ -5220,7 +5220,7 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2022_03_03 16:10:08",
+        "Last_updated": "2022_03_04 09:19:48",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2022_03_03 16:11:15",
+        "Last_updated": "2022_03_04 09:23:38",
         "Contact_Number": "9095505550",
         "Remarks": "NIL_"
     },
