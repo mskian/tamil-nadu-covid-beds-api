@@ -5220,9 +5220,9 @@
         "VENTILATOR_Total": "0",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "0",
-        "Last_updated": "2022_04_02 09:20:02",
+        "Last_updated": "2022_04_09 09:08:43",
         "Contact_Number": "9095505550",
-        "Remarks": "NIL_"
+        "Remarks": "NIL"
     },
     {
         "S": {
@@ -5370,7 +5370,7 @@
         "VENTILATOR_Total": "2",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "2",
-        "Last_updated": "2022_04_02 09:20:35",
+        "Last_updated": "2022_04_09 09:09:08",
         "Contact_Number": "9095505550",
         "Remarks": "NIL"
     },
@@ -5455,22 +5455,22 @@
         },
         "District": "Vellore",
         "Institution": "Christian Medical College",
-        "COVID_BEDS_Total": "14",
-        "COVID_BEDS_Occupied": "4",
+        "COVID_BEDS_Total": "13",
+        "COVID_BEDS_Occupied": "3",
         "COVID_BEDS_Vacant": "10",
-        "OXYGEN_SUPPORTED_BEDS_Total": "4",
+        "OXYGEN_SUPPORTED_BEDS_Total": "3",
         "OXYGEN_SUPPORTED_BEDS_Occupied": "0",
-        "OXYGEN_SUPPORTED_BEDS_Vacant": "4",
+        "OXYGEN_SUPPORTED_BEDS_Vacant": "3",
         "NON_OXYGEN_SUPPORTED_BEDS_Total": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Occupied": "0",
         "NON_OXYGEN_SUPPORTED_BEDS_Vacant": "0",
         "ICU_BEDS_Total": "10",
-        "ICU_BEDS_Occupied": "4",
-        "ICU_BEDS_Vacant": "6",
+        "ICU_BEDS_Occupied": "3",
+        "ICU_BEDS_Vacant": "7",
         "VENTILATOR_Total": "10",
-        "VENTILATOR_Occupied": "4",
-        "VENTILATOR_Vacant": "6",
-        "Last_updated": "2022_04_02 08:53:45",
+        "VENTILATOR_Occupied": "3",
+        "VENTILATOR_Vacant": "7",
+        "Last_updated": "2022_04_09 08:33:14",
         "Contact_Number": "9385285970",
         "Remarks": ""
     },
@@ -7970,9 +7970,9 @@
         "VENTILATOR_Total": "6",
         "VENTILATOR_Occupied": "0",
         "VENTILATOR_Vacant": "6",
-        "Last_updated": "2022_04_02 08:32:58",
+        "Last_updated": "2022_04_09 07:59:32",
         "Contact_Number": "8012519266",
-        "Remarks": "Covid Positive : 0 Suspected: 0 Updated On: 024_2022"
+        "Remarks": "Covid Positive : 0 Suspected: 0 Updated On: 094_2022"
     },
     {
         "S": {
