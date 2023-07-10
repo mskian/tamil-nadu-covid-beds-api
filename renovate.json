@@ -13,9 +13,6 @@
 	"node": {
 		"supportPolicy": ["lts_active"]
 	},
-	"labels": [
-		"renovate"
-	],
 	"rangeStrategy": "bump",
 	"bumpVersion": null,
 	"semanticCommits": true,
