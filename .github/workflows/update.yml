@@ -30,7 +30,7 @@ jobs:
        yarn start
        yarn test
     - name: Commit
-      uses: stefanzweifel/git-auto-commit-action@v5.0.0
+      uses: stefanzweifel/git-auto-commit-action@v5.0.1
       with:
         commit_message: Update CSV and JSON API Data
         commit_author: GitHub Actions <actions@github.com>
